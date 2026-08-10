@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/EgoMimic/","title":"EgoMimic","tags":["机器人学习","人类示范","第一视角视频","共同训练","本体对齐"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"EgoMimic","source_count":5,"sources":["raw/2026-08-10-人类活动到机器人训练外部补证.md","https://egomimic.github.io/","https://arxiv.org/abs/2410.24221","https://github.com/SimarKareer/EgoMimic","https://huggingface.co/datasets/gatech/EgoMimic/tree/main"],"tags":["机器人学习","人类示范","第一视角视频","共同训练","本体对齐"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/EgoMimic/","title":"EgoMimic","tags":["#机器人学习","#人类示范","#第一视角视频","#共同训练","#本体对齐"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"EgoMimic","source_count":6,"sources":["raw/2026-08-10-人类活动到机器人训练外部补证.md","https://egomimic.github.io/","https://arxiv.org/abs/2410.24221","https://github.com/SimarKareer/EgoMimic","https://huggingface.co/datasets/gatech/EgoMimic/tree/main","https://arxiv.org/abs/2503.00779"],"tags":["#机器人学习","#人类示范","#第一视角视频","#共同训练","#本体对齐"],"created":"2026-08-10","updated":"2026-08-10"}}
 ---
 
 # EgoMimic
@@ -18,7 +18,7 @@ EgoMimic 是把第一视角裸手人类示范与目标机器人遥操作数据�
 - Object-in-Bowl 的 full method 为 128 points，无 human data 为 68；作者同时说明部分增益来自架构。
 - 未见颜色衬衫测试中 EgoMimic 为 85% success，ACT 为 25%；所有核心实验仍在同一种 ViperX 本体上。
 - Phantom 的独立组件评测显示 EgoMimic-inspired red line 单独使用在四个准静态任务均为 0；加入大量多场景人类示范可改善 OOD。它没有完整复现目标机器人共同训练、相机硬件匹配和 joint grounding，因此说明“单一视觉技巧不足”，不是对 EgoMimic 全栈的直接反驳。
-- 截至 2026-08-10，没有找到原始全栈、同协议、端到端的严格独立复现。跨本体增益继续由 Bead `luwiki-4i3.2.2` 跟踪。
+- 截至 2026-08-10，Bead `luwiki-4i3.2.2` 的定向检索没有找到原始全栈、同任务、同 ViperX 硬件和同协议的端到端独立复现。Phantom 属于无作者重叠的组件负向测试，不是完整复现；出现公开工件齐全的同协议研究时重开。
 
 ## 开放状态与许可
 
@@ -49,3 +49,28 @@ EgoMimic 是把第一视角裸手人类示范与目标机器人遥操作数据�
 - [ICRA 2025 论文](https://arxiv.org/abs/2410.24221)
 - [代码](https://github.com/SimarKareer/EgoMimic)
 - [公开数据文件](https://huggingface.co/datasets/gatech/EgoMimic/tree/main)
+
+
+
+## 数据许可、参与者与衍生使用边界（2026-08-10）
+
+固定版本核验需要把“代码可用”“文件可下载”和“数据权利已清晰”分开：
+
+| 问题 | 当前证据状态 |
+|---|---|
+| 根代码仓许可 | MIT，已确认；但个别文件头与 robomimic submodule 需按各自许可处理 |
+| HF 文件访问 | main@065ffc0 公开、非 gated，六个 HDF5 合计 242.644 GB；已确认 |
+| 官方示例训练 | README 明示下载 HDF5 训练 EgoMimic／ACT；已确认 |
+| dataset-specific license | main 没有 README、LICENSE、license tag 或 cardData；未发现 |
+| 站外再分发、商用训练、衍生数据发布 | 公开材料不足，needs_verification |
+| IRB／同意／影像发布／旁观者／撤回传播 | 论文、补充、项目页、代码文档和官方新闻中未发现项目级记录，公开状态无法核验 |
+
+未发现公开记录不等于研究者没有取得同意；同样，公开下载、作者 quick-start 和沉默也不等于第三方已经获得无限再使用权。HF 平台层条款与仓库专属数据许可证是不同层，不能把平台 public-repository 规则简写成 MIT／CC 数据许可。
+
+[[Project Aria\|Project Aria]] 的工具、伙伴采集义务与各数据集协议也相互独立。Aria Tools 的 Apache-2.0 不覆盖 VRS／HDF5、人物、声音、场所或作品；社区指南要求伙伴处理通知、适用同意、删除和去标识，但它不是给数据接收者的授权。EgoMimic 的 raw Aria 能包含比公开训练处理路径更多的传感流，不能据设备能力推断公开 HDF5 一定保留音频或原始眼动。
+
+重开条件：官方 dataset card／LICENSE 合并到 main、HF revision 改变，或作者／Georgia Tech 发布项目特定 IRB、同意、发布与衍生使用范围。
+
+证据：原始资料快照（本地归档）
+
+<!-- issue: luwiki-4i3.5.1 -->

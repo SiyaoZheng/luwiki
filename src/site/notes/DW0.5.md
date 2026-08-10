@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DW0.5/","title":"DW0.5","tags":["世界模型","具身智能","VLA","后训练","开源模型"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"DW0.5","aliases":["DW05"],"source_count":5,"sources":["raw/2026-08-07-luyao-b009-46-最近我们发现，世界模型开始有了更务实的场景应用...-d117db3b.md","https://github.com/dexmal/opendw","https://huggingface.co/Dexmal/DW05-Base","raw/2026-08-10-未决问题技术模型补证-batch-001.md","raw/2026-08-10-残余任务信号收口-batch-032.md"],"tags":["世界模型","具身智能","VLA","后训练","开源模型"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/DW0.5/","title":"DW0.5","tags":["#世界模型","#具身智能","#VLA","#后训练","#开源模型"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"DW0.5","aliases":["DW05"],"source_count":5,"sources":["raw/2026-08-07-luyao-b009-46-最近我们发现，世界模型开始有了更务实的场景应用...-d117db3b.md","https://github.com/dexmal/opendw","https://huggingface.co/Dexmal/DW05-Base","raw/2026-08-10-未决问题技术模型补证-batch-001.md","raw/2026-08-10-残余任务信号收口-batch-032.md"],"tags":["#世界模型","#具身智能","#VLA","#后训练","#开源模型"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # DW0.5
@@ -37,3 +37,42 @@ DW0.5 / DW05 是 [[原力灵机\|原力灵机]]（Dexmal）发布、通过 [[Ope
 - [Dexmal/DW05-Base Hugging Face 模型页](https://huggingface.co/Dexmal/DW05-Base)
 - 原始资料快照（本地归档）
 - 原始资料快照（本地归档）
+
+
+
+## 固定 commit 的 video-action 核验（2026-08-10）
+
+对 OpenDW 初始公开 commit 的代码回读进一步限定了上文“learned environment”定位：
+
+- 当前 policy 路径由 action expert **直接预测动作**，不是先生成视频再用 IDM 恢复动作。默认 action horizon=32，执行 8 步后重规划，使用 10 个 denoise steps。
+- 联合路径可以同时输出动作与 9 帧视频；另一个 rollout 路径接收外部绝对动作作为条件生成视频。两者都不同于 [[DreamGen\|DreamGen]] / [[GR00T-Dreams\|GR00T-Dreams]] 的离线 video→IDM→伪动作链。
+- RobotWin 14 维动作需依赖公开 normalization statistics 做 quantile/z-score 反归一化；delta-first-frame 模式只对关节维加回当前 qpos，夹爪保持绝对量。checkpoint 与 stats 是同一个复现单元。
+- Base 卡只披露 step=140000、32D action/proprio 与 bf16；multi-source 数据的来源、规模、真实/合成比例仍不可恢复。
+- 公开 artifact 有 RoboTwin2 evaluator 和 WorldArena rollout 脚手架，但没有 DW0.5 自己的基线表、效果量或真机试验。Value Expert 仍待发布。
+
+因此，当前可验证定位是 video/action world-action component；“三头完整后训练闭环”、60% 真机数据下降和 40% 成本下降仍是待技术报告或独立实验核验的上游宣称。
+
+证据：[固定 policy 代码](https://github.com/dexmal/opendw/blob/e33befa8005a1585e0140dbf464566e90bc79aa1/dexbotic/policy/dw05_policy.py)、[action transform](https://github.com/dexmal/opendw/blob/e33befa8005a1585e0140dbf464566e90bc79aa1/dexbotic/data/dataset/dw05/transform/action.py)、原始资料快照（本地归档）。
+
+
+
+## 版本化复跑审计（2026-08-10）
+
+固定 OpenDW commit `e33befa8005a1585e0140dbf464566e90bc79aa1`、DW05-Base revision `0f9e8bc1e1352211cf260f80c7455d147b38baec` 和 DW05-Robotwin revision `6ab5f9e2636610cba440d08264663efe70c3f761` 后，公开物边界可以进一步收紧：
+
+- RobotWin bundle 约 26.24 GB，已包含匹配的 `norm_stats.json`。统计文件记录 27,500 episodes 与 6,075,103 transitions，但不含任务、clean/random 配比、数据 revision 或真实/合成 provenance，不能直接当作 checkpoint 数据卡。
+- 复跑前检在 current RoboTwin 与最后兼容旧入口两个 revision 上都只启动了 0 episode；前者因上游已迁移 XPolicyLab 而找不到旧 `policy/`，后者在模型前因 `sapien` 缺失终止。严格 success、partial progress、模型延迟、显存和失败视频均为 **N/A**，不是 0%。
+- 更关键的阻塞来自公开代码：adapter 传入 dataclass 不接受的三个参数；episode 数与输出路径 overrides 不被旧 evaluator 消费；README 引用的单样本脚本和三任务 demo 也未随 release 发布。换 Linux/NVIDIA 之前仍需先修接口。
+- 当前 `infer_action()` 是使用联合 bundle 与首帧 video cache 的 action-only inference path，不是“去掉 video expert”的纯 action 消融。没有 matched pure-action checkpoint 或结果，因而 video 联训增益、延迟和显存差仍不可计算。
+- RoboTwin 官方 clean-to-random co-training board 提供 π0.5、X-WAM、FastWAM 等 50 tasks × 100 trials 基线，但 DW05 没有同协议 Easy/Hard 分数，不能计算 effect。精确检索也未发现第三方 DW0.5/OpenDW 复现。
+- Value Expert、正式技术报告和 DW05 专属数据卡仍没有可调用、可训练、可评测的公开物；当前证据仍是 simulation artifact 审计，不是真机验证。
+
+完整命令、版本、失败表和重开条件见 原始资料快照（本地归档）。
+
+
+
+## 在压力测试矩阵中的当前状态（2026-08-10）
+
+[[DW0.5\|DW0.5]] / [[OpenDW\|OpenDW]] 的静态代码说明 action expert 可直接输出动作块、联合路径可生成视频，但固定版本的两次 RobotWin 前检均在 0 episode 前终止。因而在 [[机器人世界模型压力测试\|机器人世界模型压力测试]] 中，视觉、运动学、动力学、接触、长程、动作可执行、真机闭环结果和真机相关性都不能凭仓库结构记为实验覆盖；IDM/动作执行列必须写 **N/A**，不是 0%。
+
+action horizon、replan、normalization 与输出接口只能记入工件能力账本，不能标成间接运动学实验；当前运动学列为 ×。只有公开 runner 能进入有效 episode 并报告 matched baseline 后，才可升级对应实验列。证据见 原始资料快照（本地归档）。

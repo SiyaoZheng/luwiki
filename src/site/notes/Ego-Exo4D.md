@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ego-Exo4D/","title":"Ego-Exo4D","tags":["第一视角视频","多视角数据","人类技能","机器人学习","数据集"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Ego-Exo4D","source_count":7,"sources":["raw/2026-08-10-人类活动到机器人训练外部补证.md","https://docs.ego-exo4d-data.org/","https://docs.ego-exo4d-data.org/changelog/","https://docs.ego-exo4d-data.org/overview/","https://arxiv.org/abs/2311.18259","https://arxiv.org/abs/2606.06627","https://ego4d-data.org/pdfs/Ego-Exo4D-Model-License.pdf"],"tags":["第一视角视频","多视角数据","人类技能","机器人学习","数据集"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Ego-Exo4D/","title":"Ego-Exo4D","tags":["#第一视角视频","#多视角数据","#人类技能","#机器人学习","#数据集"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Ego-Exo4D","source_count":7,"sources":["raw/2026-08-10-人类活动到机器人训练外部补证.md","https://docs.ego-exo4d-data.org/","https://docs.ego-exo4d-data.org/changelog/","https://docs.ego-exo4d-data.org/overview/","https://arxiv.org/abs/2311.18259","https://arxiv.org/abs/2606.06627","https://ego4d-data.org/pdfs/Ego-Exo4D-Model-License.pdf"],"tags":["#第一视角视频","#多视角数据","#人类技能","#机器人学习","#数据集"],"created":"2026-08-10","updated":"2026-08-10"}}
 ---
 
 # Ego-Exo4D
@@ -47,3 +47,14 @@ Ego-Exo4D 是同步记录第一视角与第三视角的人类熟练活动数据�
 - [Ego-Exo4D V2 changelog](https://docs.ego-exo4d-data.org/changelog/)
 - [Ego-Exo4D Overview](https://docs.ego-exo4d-data.org/overview/)
 - [TriHands](https://arxiv.org/abs/2606.06627)
+
+
+
+<!-- issue: luwiki-4i3.8 -->
+## VITRA 派生使用与许可边界（2026-08-10）
+
+[[VITRA\|VITRA]] 当前公开 metadata 中有 67,053 个 Ego-Exo4D-derived episodes。VITRA 自动重建人手动作并只发布 metadata／labels，原始视频需要用户按 Ego-Exo4D 协议另行取得。VITRA 的 MIT 代码或 metadata 许可不能改变数据库的 non-transferable、non-sublicensable 权利边界。
+
+VITRA 没有公布 Ego-Exo4D benchmark split 的 UID 排除清单。当前没有证据证明发生了 test leakage，但“没有使用原 action annotations”也不能排除视觉内容进入预训练。[[Ego2Robot\|Ego2Robot]] 再使用 249h VITRA 子集，却未披露其中 Ego4D、Ego-Exo4D、EPIC 与 SSv2 的 UID 构成，因此不能量化这条间接重叠。
+
+证据：原始资料快照（本地归档）

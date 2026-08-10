@@ -1,30 +1,7 @@
 ---
-dg-publish: true
-status: processed
-title: DROID 数据集
-aliases:
-  - DROID
-tags:
-  - 机器人数据集
-  - 遥操作
-  - RLDS
-  - 分布式采集
-sources:
-  - raw/2026-08-10-开放机器人学习数据集与格式基线.md
-  - raw/2026-08-10-DROID-v1.0.1与LeRobot镜像口径核验.md
-  - raw/2026-08-10-DROID-76k与78864上游解释检索.md
-  - https://droid-dataset.github.io/
-  - https://arxiv.org/abs/2403.12945
-  - https://droid-dataset.github.io/droid/the-droid-dataset.html
-  - https://storage.googleapis.com/gresearch/robotics/droid/1.0.0/dataset_info.json
-  - https://storage.googleapis.com/gresearch/robotics/droid/1.0.1/dataset_info.json
-  - https://huggingface.co/KarlP/droid
-  - https://github.com/Physical-Intelligence/openpi/commit/4eea7da317f88ba8a8aa6fa66cc606bcf0f04166
-  - https://huggingface.co/datasets/lerobot/droid_1.0.1
-created: 2026-08-10
-updated: 2026-08-10
-source_count: 11
+{"dg-publish":true,"permalink":"/DROID 数据集/","title":"DROID 数据集","tags":["#机器人数据集","#遥操作","#RLDS","#分布式采集"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"DROID 数据集","aliases":["DROID"],"tags":["#机器人数据集","#遥操作","#RLDS","#分布式采集"],"sources":["raw/2026-08-10-开放机器人学习数据集与格式基线.md","raw/2026-08-10-DROID-v1.0.1与LeRobot镜像口径核验.md","raw/2026-08-10-DROID-76k与78864上游解释检索.md","https://droid-dataset.github.io/","https://arxiv.org/abs/2403.12945","https://droid-dataset.github.io/droid/the-droid-dataset.html","https://storage.googleapis.com/gresearch/robotics/droid/1.0.0/dataset_info.json","https://storage.googleapis.com/gresearch/robotics/droid/1.0.1/dataset_info.json","https://huggingface.co/KarlP/droid","https://github.com/Physical-Intelligence/openpi/commit/4eea7da317f88ba8a8aa6fa66cc606bcf0f04166","https://huggingface.co/datasets/lerobot/droid_1.0.1"],"created":"2026-08-10","updated":"2026-08-10","source_count":11}}
 ---
+
 # DROID 数据集
 
 DROID（Distributed Robot Interaction Dataset）是用基本同构的 Franka 采集套件在多机构、多场景分布式收集的真实机器人操作数据集。它用硬件一致性换取更可控的动作语义，同时把环境与操作者多样性扩展到多个地区。
@@ -33,7 +10,7 @@ DROID（Distributed Robot Interaction Dataset）是用基本同构的 Franka 采
 
 当前官方站点的摘要口径是约 76,000 条成功示范轨迹、350 小时、564 个场景和 86 个语义任务类，由 50 名采集者在 12 个月内完成。初版论文摘要曾写 84 tasks；当前站点和更新论文使用 86，比较时应保留版本。
 
-Google 官方 RLDS v1.0.1 的 2,048 个 shard 实际合计 95,658 episodes。固定 revision `0eabc778f959c54b8c5aa3626cc1128d2d2e54d4` 的 [[LeRobotDataset]] 镜像与它一一对应，包含：
+Google 官方 RLDS v1.0.1 的 2,048 个 shard 实际合计 95,658 episodes。固定 revision `0eabc778f959c54b8c5aa3626cc1128d2d2e54d4` 的 [[LeRobotDataset\|LeRobotDataset]] 镜像与它一一对应，包含：
 
 - 78,864 条成功 episode；
 - 16,794 条失败 episode；
@@ -63,13 +40,13 @@ DROID 官方说明还记录，公开 raw bucket 在人脸模糊与复制阶段�
 
 18 套 robot setups 主要采用相同 Franka Panda、Robotiq 夹爪和标准化视觉/遥操作配置，不能写成 18 种 embodiments。采集系统包含两台外部 ZED2 和一台腕部 ZED Mini，同步多视角 RGB、关节状态、末端状态、夹爪与动作，并通过 Quest 2 遥操作。
 
-2024 年语言增强文件实际含 75,144 个 episode keys，项目页概括为约 75,000 个成功 episode、覆盖 95%；75,144／78,864＝95.28%，与 v1.0.1 的成功分母相容，但这只是算术交叉核验，不是版本增量解释。2025 年改进标定只覆盖 36,000 个 episode。子集增强不能被误写为全库同等标定精度。发布失败样本是人类全程遥操作失败，不是策略自主 rollout 或 [[HIL-SERL]] 式部署接管数据。
+2024 年语言增强文件实际含 75,144 个 episode keys，项目页概括为约 75,000 个成功 episode、覆盖 95%；75,144／78,864＝95.28%，与 v1.0.1 的成功分母相容，但这只是算术交叉核验，不是版本增量解释。2025 年改进标定只覆盖 36,000 个 episode。子集增强不能被误写为全库同等标定精度。发布失败样本是人类全程遥操作失败，不是策略自主 rollout 或 [[HIL-SERL\|HIL-SERL]] 式部署接管数据。
 
 ## 许可与镜像 provenance
 
 DROID 上游数据采用 CC BY 4.0。LeRobot 软件与转换脚本采用 Apache-2.0；当前 `lerobot/droid_1.0.1` 卡片的 Apache-2.0 来自通用 Hub 上传接口的默认参数，在 Dataset v3 引入时已经存在。没有证据表明 DROID 权利人重新许可。
 
-所以格式转换、视频重编码和 metadata 生成不改变上游数据许可：使用镜像中的数据仍应遵循 CC BY 4.0。镜像 card 的 Apache-2.0 只能可靠地描述转换软件，作为数据许可具有误导性。完整映射保存在 [[raw/2026-08-10-DROID-v1.0.1与LeRobot镜像口径核验]]。
+所以格式转换、视频重编码和 metadata 生成不改变上游数据许可：使用镜像中的数据仍应遵循 CC BY 4.0。镜像 card 的 Apache-2.0 只能可靠地描述转换软件，作为数据许可具有误导性。完整映射保存在 原始资料快照（本地归档）。
 
 ## 效果证据
 
@@ -77,17 +54,17 @@ DROID 上游数据采用 CC BY 4.0。LeRobot 软件与转换脚本采用 Apache-
 
 ## 相关页面
 
-- [[具身智能数据基础设施]]
-- [[Open X-Embodiment]]
-- [[LeRobotDataset]]
-- [[人类活动数据]]
-- [[具身智能系统工程]]
+- [[具身智能数据基础设施\|具身智能数据基础设施]]
+- [[Open X-Embodiment\|Open X-Embodiment]]
+- [[LeRobotDataset\|LeRobotDataset]]
+- [[人类活动数据\|人类活动数据]]
+- [[具身智能系统工程\|具身智能系统工程]]
 
 ## 证据
 
-- [[raw/2026-08-10-开放机器人学习数据集与格式基线]]
-- [[raw/2026-08-10-DROID-v1.0.1与LeRobot镜像口径核验]]
-- [[raw/2026-08-10-DROID-76k与78864上游解释检索]]
+- 原始资料快照（本地归档）
+- 原始资料快照（本地归档）
+- 原始资料快照（本地归档）
 - [DROID 官方项目页](https://droid-dataset.github.io/)
 - [DROID 论文](https://arxiv.org/abs/2403.12945)
 - [数据格式与下载说明](https://droid-dataset.github.io/droid/the-droid-dataset.html)
