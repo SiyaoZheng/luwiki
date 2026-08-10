@@ -96,6 +96,8 @@ Address the user as Adrian.
 
 - **本项目把 redlink 定义为 Agent 有意创建的空白 Markdown 页面**。允许并鼓励创建这类空页，用来把值得后续研究的对象、机制、趋势、事件或关系先放进知识网络；空页是显式 backlog 节点，不要求当场用低质量内容填满。
 - redlink 空页只能通过 `obsidian vault="噜Wiki" create ...` 创建。每创建一张 redlink 空页，必须在同一任务中立即创建一个对应的 Beads issue，默认使用 `type=task`、`labels=redlink,knowledge-gap`，在 description 中记录页面标题／路径、触发来源和需要回答的问题；若来自某个 ingest 或巡检 issue，再增加 `discovered-from` 关系。
+- **持续发现、即时建红链、即时建 Bead 是每个知识任务的常驻动作，不是收尾动作**：在 QMD 检索、Obsidian 回读、联网补证、旧页更新和关系核对的任一阶段，只要遇到当前未覆盖、可稳定指认且值得后续研究的对象、机制、趋势、事件或关系，就立即用 Obsidian CLI 创建 redlink 空页，并在同一工作段立即用 `./scripts/bd-agent create` 建立对应 issue；禁止等到当前 issue 结束、日志汇总或周期巡检时批量补。
+- 每次准备关闭知识 issue 或领取下一项前，必须核对本轮创建的全部 redlink 与未完成 Beads issue 一一对应，并在当前 issue 的完成证据中列出“页面路径 → issue ID”；如果本轮确实没有符合条件的知识缺口，也要明确记录“未发现可稳定指认的新 redlink”，不得静默跳过检查。
 - **一张 redlink 空页对应一个未完成 Beads issue，不设频次、中心性或证据阈值，也不等待周期巡检后再入队。** 优先级可按研究价值、关联页面数量、时效性和证据可得性调整。
 - redlink issue 的默认验收包括：项目本地 QMD 候选检索、Obsidian CLI 读取相关旧页、主动联网搜索与来源边界、通过 Obsidian CLI 补全或合并页面、维护相关链接与证据、更新 `index.md` / `log.md`、运行 `qmd update` 并用 QMD 命中加 `obsidian read` 回读。
 - 如果联网研究后确认它是重复节点、错误名称、不可消歧对象或不值得独立成页，允许通过 Obsidian CLI 合并、改名或移除空页，并在对应 Beads issue 中记录理由后关闭；不得为了关闭 issue 编造内容。
