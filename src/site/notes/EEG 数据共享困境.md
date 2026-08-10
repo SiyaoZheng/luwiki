@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/EEG 数据共享困境/","title":"EEG 数据共享困境","tags":["EEG","数据共享","标准化","BCI","科研基础设施"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"seed","title":"EEG 数据共享困境","source_count":8,"sources":["[[EEG ImageNet 困境\|EEG ImageNet 困境]]","[[脑电进入机器人训练\|脑电进入机器人训练]]","[[Concept2Brain\|Concept2Brain]]","[[NeuraInsight\|NeuraInsight]]","[[EEG 数据注册库\|EEG 数据注册库]]","[[EMOTIV\|EMOTIV]]","raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md"],"tags":["EEG","数据共享","标准化","BCI","科研基础设施"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/EEG 数据共享困境/","title":"EEG 数据共享困境","tags":["#EEG","#数据共享","#标准化","#BCI","#科研基础设施"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"seed","title":"EEG 数据共享困境","source_count":9,"sources":["[[EEG ImageNet 困境\|EEG ImageNet 困境]]","[[脑电进入机器人训练\|脑电进入机器人训练]]","[[Concept2Brain\|Concept2Brain]]","[[NeuraInsight\|NeuraInsight]]","[[EEG 数据注册库\|EEG 数据注册库]]","[[EMOTIV\|EMOTIV]]","raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","raw/2026-08-10-Hugging-Face-Gated-Repositories机制核验.md"],"tags":["#EEG","#数据共享","#标准化","#BCI","#科研基础设施"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # EEG 数据共享困境
@@ -43,19 +43,21 @@ EEG 数据共享困境指的是：即使脑电数据对 BCI、认知状态建模
 
 团队第一方文章称其把多种非侵入式传感器组织成自制多模态头戴设备，并统一使用 Zarr 3。这可以降低内部训练与质检成本，却不等于数据、标签、模型或评测已经成为公共基准；约一万小时、数千名参与者、zero-shot 示例和“全球最大”均未获独立验证。
 
-[[EgoBrain\|EgoBrain]] 展示了开放发布仍需访问控制：论文和数据卡公开，约 1.6 TB 文件采用 CC BY-NC 4.0 与 gated access。
+[[EgoBrain\|EgoBrain]] 展示了访问声明与实时状态也会漂移：论文和数据卡公开，约 1.6 TB 文件标注 CC BY-NC 4.0；卡片自称 [[Hugging Face Gated Repositories\|gated]] 并保留申请字段，但 2026-08-10 实时 API 为 `gated:false`，匿名实际文件可公开取得。
 
-数据条款禁止重新识别参与者和重新分发原始数据。维护者称全部数据已发布，但文件完整性和伦理许可仍需使用者核验；这说明“可发现”不等于“无条件可复用”。
+这说明“可发现”“卡片称需申请”“服务器实际放行”和“可依何种条件复用”至少是四个不同字段。即使当前没有 active gate，CC BY-NC 4.0 与卡片附加数据条款仍需核验；文件完整性、匿名化处理和本地伦理许可也不能从公开下载推出。
 
 ## 相关页面
 
 - [[Conduit\|Conduit]]
 - [[EgoBrain\|EgoBrain]]
+- [[Hugging Face Gated Repositories\|Hugging Face Gated Repositories]]
 - [[NeuroAI\|NeuroAI]]
 - [[脑电与具身智能\|脑电与具身智能]]
 - [[具身智能数据基础设施\|具身智能数据基础设施]]
 
 ## 补充证据
 
+- 原始资料快照（本地归档）
 - 原始资料快照（本地归档）
 - 原始资料快照（本地归档）

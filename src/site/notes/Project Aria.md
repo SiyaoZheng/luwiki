@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Project Aria/","title":"Project Aria","tags":["#第一视角数据","#可穿戴传感","#数据治理","#机器感知"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Project Aria","source_count":8,"sources":["raw/2026-08-10-EgoMimic数据许可与参与者授权核验.md","https://www.projectaria.com/","https://arxiv.org/abs/2308.13561","https://github.com/facebookresearch/projectaria_tools","https://www.projectaria.com/community-guidelines/","https://www.projectaria.com/research-kit/","https://about.fb.com/news/2020/09/privacy-matters-project-aria/","https://www.projectaria.com/partners/"],"tags":["#第一视角数据","#可穿戴传感","#数据治理","#机器感知"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Project Aria/","title":"Project Aria","tags":["#第一视角数据","#可穿戴传感","#数据治理","#机器感知"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Project Aria","source_count":10,"sources":["raw/2026-08-10-EgoMimic数据许可与参与者授权核验.md","raw/2026-08-10-Project-Aria-Research-Community-Guidelines核验.md","raw/2026-08-10-Hugging-Face-Gated-Repositories机制核验.md","https://www.projectaria.com/","https://arxiv.org/abs/2308.13561","https://github.com/facebookresearch/projectaria_tools","https://www.projectaria.com/community-guidelines/","https://www.projectaria.com/research-kit/","https://about.fb.com/news/2020/09/privacy-matters-project-aria/","https://www.projectaria.com/partners/"],"tags":["#第一视角数据","#可穿戴传感","#数据治理","#机器感知"],"created":"2026-08-10","updated":"2026-08-10"}}
 ---
 
 
@@ -27,7 +27,7 @@ Aria 眼镜可记录 RGB、SLAM／scene cameras、IMU、音频和眼动等同步
 | 采集层 | [[Project Aria Research Community Guidelines\|Project Aria Research Community Guidelines]] 要求伙伴处理通知、适用同意、录制指示、场地方授权、旁观者停止／删除、留存、访问、去标识和知识产权 | 社区指南是采集者义务，不是给数据接收者的商用、训练或再分发授权 |
 | 发布层 | [[Aria Digital Twin\|Aria Digital Twin]]、Aria Pilot Dataset、Ego-Exo4D 等分别采用自己的数据协议和参与者治理 | 一个 Aria 数据集的许可不能横向迁移到其他数据集或伙伴自行录制的数据 |
 
-[[Hugging Face 服务条款\|Hugging Face 服务条款]] 等托管平台规则还会形成第四个“平台层”，但平台 public-repository 条款不能替代仓库自己的数据许可证或上游参与者授权。
+[[Hugging Face 服务条款\|Hugging Face 服务条款]] 等托管平台规则还会形成第四个“平台层”。其中 [[Hugging Face Gated Repositories\|gated access]] 只控制个人账号当前能否取件；平台 public-repository 条款、gate、仓库数据许可证和上游参与者授权不能互相替代。
 
 ## 隐私控制与局限
 
@@ -58,9 +58,11 @@ Project Aria 官方 partners 页面确认 Georgia Tech 的 EgoMimic 是合作案
 - [[EgoBlur\|EgoBlur]]
 - [[Aria Digital Twin\|Aria Digital Twin]]
 - [[Hugging Face 服务条款\|Hugging Face 服务条款]]
+- [[Hugging Face Gated Repositories\|Hugging Face Gated Repositories]]
 
 ## 证据
 
+- 原始资料快照（本地归档）
 - 原始资料快照（本地归档）
 - [Project Aria 论文](https://arxiv.org/abs/2308.13561)
 - [Project Aria Research Kit](https://www.projectaria.com/research-kit/)
@@ -77,3 +79,30 @@ Project Aria 官方 partners 页面确认 Georgia Tech 的 EgoMimic 是合作案
 - [[Project Aria Tools\|Project Aria Tools]]：开源 VRS／MPS 数据工具及其软件许可范围。
 - [[Aria Pilot Dataset\|Aria Pilot Dataset]]：官方 pilot 数据制品、参与者协议与数据许可证。
 - [[Visual Recordings System\|Visual Recordings System]]：多传感器记录格式及从 VRS 到训练制品的信息保留。
+
+
+## 社区指南的现行文本与适用边界（2026-08-10）
+
+[[Project Aria Research Community Guidelines\|Project Aria Research Community Guidelines]] 的规则不晚于 2021-10-28 已在旧 about.facebook.com 路径公开；2023-09-07 版新增或明确地区性旁观者提示和 GDPR／UK GDPR controller 责任。当前域名最早找到的 2023-09-27 快照与 2026-08-10 当前核心正文的规范化 SHA-256 一致。Gen 2 Companion App 仍要求登录时阅读该指南，因此它仍是伙伴准入与行为治理入口；Wayback 不能充当官方发布日期或完整 change log，官方也未公开完整伙伴合同。
+
+其要求不是一句“取得同意”：
+
+- 通知与同意都带有适用法律限定；LED 必须可见，旁观者要求时必须停止，并遵守地区额外信号规则。
+- GDPR／UK GDPR 场景下 research partner 是 controller，并应让旁观者知道研究者为谁工作；这没有穷尽 Meta、云服务商与合作机构的角色。
+- 私人场所需要授权；敏感地点禁录，私人住宅还要求全体家庭成员同意。
+- partner 必须设置留存、访问和删除协议，去标识面孔／车牌，禁止重识别，并无不当延迟地处理参与者或旁观者的合理删除请求。
+
+这套要求没有统一留存期限、匿名化质量门槛、备份／派生数据删除流程，也不授予训练、再分发、商业使用或衍生作品权。它不能替代具体数据集许可、机构 IRB／伦理审查、场地授权或项目级执行记录。Project Aria Pilot Dataset 的独立许可证正说明发布层必须另行授权。
+
+外部小样本 XR 研究提示纯视觉 LED 可能被分心或视力受限的旁观者漏掉；这不是 Aria 现场审计，只足以说明“指示灯可见”仍不等于有效通知或同意。后续机制研究见 [[可穿戴设备录制提示\|可穿戴设备录制提示]]。
+
+证据：原始资料快照（本地归档）
+
+<!-- issue: luwiki-s1f -->
+
+
+## 托管平台许可层补充（2026-08-10）
+
+[[Hugging Face 服务条款\|Hugging Face 服务条款]] 对 public repository 不是纯粹可见性规则，而是包含一项面向平台 User 的公共内容 grant；但该 grant 以平台服务与功能为范围语境，且随附的惯常许可证继续适用。Project Aria 伙伴把 HDF5 或其他制品放到 Hugging Face，并不会因此让设备工具许可、参与者授权、场所权利和仓库专属数据许可证合并为同一层。没有 repository-specific license 时，应保留“存在平台基线 grant，但站外／商用／再分发范围与第三方权利链仍待核验”的双重结论。
+
+证据：原始资料快照（本地归档）
