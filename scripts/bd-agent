@@ -1,0 +1,212 @@
+#!/bin/sh
+set -eu
+
+if [ -z "${CODEX_THREAD_ID:-}" ]; then
+  printf '%s\n' \
+    "bd-agent: CODEX_THREAD_ID is required; refusing to collapse this task into the shared git user identity" >&2
+  exit 64
+fi
+
+actor="codex:${CODEX_THREAD_ID}"
+command=${1:-}
+
+case "$command" in
+  -*)
+    printf '%s\n' \
+      "bd-agent: global flags before the command are forbidden; the wrapper owns global Beads options" >&2
+    exit 64
+    ;;
+esac
+
+for argument in "$@"; do
+  case "$argument" in
+    --actor|--actor=*)
+      printf '%s\n' "bd-agent: --actor is fixed by CODEX_THREAD_ID and cannot be overridden" >&2
+      exit 64
+      ;;
+  esac
+done
+
+require_explicit_id() {
+  operation=$1
+  candidate=${2:-}
+  case "$candidate" in
+    ""|-*)
+      printf '%s\n' \
+        "bd-agent: $operation requires an explicit issue ID; shared last-touched state is unsafe across tasks" >&2
+      exit 64
+      ;;
+  esac
+}
+
+require_no_extra_arguments() {
+  operation=$1
+  shift
+  if [ "$#" -ne 0 ]; then
+    printf '%s\n' \
+      "bd-agent: $operation does not accept passthrough arguments; its safety flags are fixed" >&2
+    exit 64
+  fi
+}
+
+verify_claim_result() {
+  operation=$1
+  allow_empty=$2
+  payload=$3
+  if ! printf '%s\n' "$payload" | jq -e \
+    --arg actor "$actor" \
+    --argjson allow_empty "$allow_empty" '
+      if type == "array" then
+        if length == 0 then $allow_empty
+        else length == 1 and
+             .[0].assignee == $actor and
+             .[0].status == "in_progress"
+        end
+      else
+        .assignee == $actor and .status == "in_progress"
+      end
+    ' >/dev/null; then
+    printf '%s\n' \
+      "bd-agent: $operation returned an issue without the fixed actor/in_progress ownership" >&2
+    exit 70
+  fi
+  printf '%s\n' "$payload"
+}
+
+case "$command" in
+  actor)
+    shift
+    require_no_extra_arguments actor "$@"
+    printf '%s\n' "$actor"
+    ;;
+  claim)
+    shift
+    require_no_extra_arguments claim "$@"
+    result=$(bd --actor "$actor" ready --claim --json)
+    verify_claim_result claim true "$result"
+    ;;
+  claim-id)
+    require_explicit_id claim-id "${2:-}"
+    if [ "$#" -ne 2 ]; then
+      printf '%s\n' \
+        "bd-agent: claim-id accepts exactly one explicit issue ID" >&2
+      exit 64
+    fi
+    issue_id=$2
+    result=$(bd --actor "$actor" update "$issue_id" --claim --json)
+    verify_claim_result claim-id false "$result"
+    ;;
+  mine)
+    shift
+    require_no_extra_arguments mine "$@"
+    result=$(bd --actor "$actor" list --assignee "$actor" --status=in_progress --json)
+    if ! printf '%s\n' "$result" | jq -e \
+      --arg actor "$actor" '
+        type == "array" and
+        all(.[]; .assignee == $actor and .status == "in_progress")
+      ' >/dev/null; then
+      printf '%s\n' \
+        "bd-agent: mine returned work outside the fixed actor/in_progress scope" >&2
+      exit 70
+    fi
+    printf '%s\n' "$result"
+    ;;
+  hook)
+    event=${2:-}
+    if [ -z "$event" ]; then
+      printf '%s\n' "bd-agent: hook requires a Codex lifecycle event" >&2
+      exit 64
+    fi
+    if [ "$#" -ne 2 ]; then
+      printf '%s\n' "bd-agent: hook accepts exactly one lifecycle event" >&2
+      exit 64
+    fi
+    case "$event" in
+      SessionStart|UserPromptSubmit|PreCompact|PostCompact) ;;
+      *)
+        printf '%s\n' "bd-agent: unsupported Codex lifecycle event: $event" >&2
+        exit 64
+        ;;
+    esac
+    protocol=$(printf '%s\n' \
+      "[repo Beads protocol] actor=$actor" \
+      "Repository override: ignore bare bd examples in the generic context below; use the wrapper for every command." \
+      "Claim self-selected work only with: ./scripts/bd-agent claim" \
+      "Resume work only when its assignee exactly matches this actor. After handoff, run ./scripts/bd-agent claim-id ISSUE to verify ownership before editing." \
+      "After closing owned work, immediately run ./scripts/bd-agent claim again; continue while ready work exists." \
+      "Never run a mutating Beads command without an explicit issue ID.")
+    raw=$(bd --actor "$actor" codex-hook "$event")
+    base='{}'
+    raw_context=''
+    if [ -n "$raw" ]; then
+      if printf '%s\n' "$raw" | jq -e 'type == "object"' >/dev/null 2>&1; then
+        base=$raw
+      else
+        raw_context=$raw
+      fi
+    fi
+    case "$event" in
+      SessionStart|UserPromptSubmit)
+        printf '%s\n' "$base" | jq \
+          --arg protocol "$protocol" \
+          --arg event "$event" \
+          --arg raw_context "$raw_context" '
+            .hookSpecificOutput =
+              (if (.hookSpecificOutput | type) == "object"
+               then .hookSpecificOutput
+               else {}
+               end) |
+            .hookSpecificOutput.hookEventName = $event |
+            .hookSpecificOutput.additionalContext =
+              ([$protocol,
+                $raw_context,
+                (.hookSpecificOutput.additionalContext // "")]
+               | map(select(length > 0))
+               | join("\n\n"))
+          '
+        ;;
+      PreCompact|PostCompact)
+        printf '%s\n' "$base" | jq '.continue = (.continue // true)'
+        ;;
+    esac
+    ;;
+  update)
+    require_explicit_id "$command" "${2:-}"
+    for argument in "$@"; do
+      case "$argument" in
+        --claim|--claim=*)
+          printf '%s\n' \
+            "bd-agent: update --claim is forbidden; use claim or claim-id" >&2
+          exit 64
+          ;;
+      esac
+    done
+    exec bd --actor "$actor" "$@"
+    ;;
+  close|reopen|defer|undefer|delete|done)
+    require_explicit_id "$command" "${2:-}"
+    exec bd --actor "$actor" "$@"
+    ;;
+  edit)
+    printf '%s\n' \
+      "bd-agent: edit is forbidden; use update with an explicit issue ID and flags" >&2
+    exit 64
+    ;;
+  show)
+    require_explicit_id show "${2:-}"
+    exec bd --actor "$actor" "$@"
+    ;;
+  create|remember|dep|list|ready|blocked|stale|search|count|graph|status|where|version|prime|help|lint|orphans|ping)
+    exec bd --actor "$actor" "$@"
+    ;;
+  "")
+    printf '%s\n' \
+      "usage: bd-agent actor|claim|claim-id ID|mine|hook EVENT|<allowlisted bd command>" >&2
+    exit 64
+    ;;
+  *)
+    printf '%s\n' \
+      "bd-agent: command is not allowlisted: $command" >&2
+    exit 64
+    ;;
+esac
