@@ -9,13 +9,33 @@ Address the user as Adrian.
 ## 基本原则
 
 - Adrian 负责提供链接、文件、问题和判断重点。
+- **本项目是 Wiki 维护，不是 coding 项目**：Agent 只执行来源发现与核验、raw 快照、知识页面、关系链接、`index.md` / `log.md`、QMD 与内容型 Beads 维护；不得自行认领或实施脚本、helper、适配器、测试、CI/CD、基础设施等 coding 任务。遇到 coding issue 时保留证据并安全释放或延期，不得误关为完成；只有 Adrian 对具体编码工作作出明确指令时才能例外。
 - Agent 负责读取资料、保存原始快照、提取要点、维护页面、建立链接、更新索引和记录日志。
 - `raw/` 是来源层，尽量保持不可变；vault 根目录中的普通 markdown 页面是生成和维护层，可以随新资料持续修订。
 - 所有知识性主张都要能追溯到 raw 快照、外部来源或其他明确证据。
 - 新资料进入后，知识库应当变得更好，而不是只增加一篇孤立摘要。
 - 普通 wiki 页面必须以“世界中的对象、机制、趋势、事件或关系”为中心，而不是以“某篇文章如何表述”为中心。来源是证据，不是知识页面的主语。
-- **QMD-first 是每次 ingest 的硬规则**：必须从 vault 根目录使用项目本地 `.qmd/index.sqlite` 作为第一搜索入口；`rg` 和 `index.md` 只用于补充核对，不能代替 QMD 检索，也不能用名称相似的全局 collection 代替项目本地索引。
+- **QMD-first 是每次 ingest 的硬规则**：必须从 vault 根目录使用项目本地 `.qmd/index.sqlite` 作为第一搜索入口；Obsidian CLI 的 `search`、`files` 和对 `index.md` 的 `read` 只用于补充核对，不能代替 QMD 检索，也不能用名称相似的全局 collection 代替项目本地索引。
 - **新页数量不设固定上限或下限**：先更新所有相关旧页，再为 vault 尚未覆盖、证据足够且值得独立积累的对象、机制、趋势、事件或关系建页；数量由本轮知识结构决定。
+
+## Obsidian CLI-only 文件边界
+
+- **本 vault 内所有 Markdown 操作都必须经过 Obsidian CLI**：列举、搜索、读取、创建、追加、覆写、重命名、移动、删除和 frontmatter/property 修改，均使用 `obsidian vault="噜Wiki" ...`。调用时必须显式指定 vault，不能依赖最近聚焦的 vault。
+- 禁止用 `cat`、`sed`、`awk`、`rg`、`grep`、`find`、`apply_patch`、shell 重定向／heredoc、Python/Node 文件 API 或编辑器直接读取、扫描或修改本 vault 的 `.md` 文件。非 Markdown 附件和工具状态可用适当工具处理，但由它们生成的 Markdown 快照仍必须经 Obsidian CLI 写入。
+- QMD 只承担项目本地索引健康检查和候选检索。QMD 的命中路径与摘要可用于定位候选，但凡要理解、引用或修改页面，必须再用 `obsidian read` 读取当前全文；精确文本核对使用 `obsidian search` / `obsidian search:context`，文件枚举使用 `obsidian files`。
+- Obsidian CLI 或目标 vault 不可用时，Markdown 相关 issue 视为阻塞；不得静默回退到直接文件访问。写入后先用 `obsidian read` 核对页面，再运行 `qmd update` 并验证项目本地索引。
+- **长中文整页写入的 UTF-8 安全边界**：当前 Obsidian 1.13.4（installer 1.12.7）的 `create ... content=... overwrite` 在约 8 KB CLI 传输边界可能把多字节字符写成 U+FFFD；在 shell 中先解码 base64 再塞回 `content=` 不能规避。凡整页写入或 `content` 可能接近该边界，先运行 `./scripts/obsidian-safe-write --vault "噜Wiki" --path "<path>" --check` 固定原始字节 SHA-256；现有页把新全文从 stdin 送入同一 helper 并加 `--expect-sha256 "<sha256>"`，新页则显式加 `--expect-absent`。该 helper 只接受 vault-relative `.md` 路径，将 UTF-8 保持为 ASCII base64 直到进入 Obsidian 应用，在同步 `app.vault.process` callback 内执行 SHA-256/字节数 CAS，并用 `readBinary` 做写后原始字节核验。局部修改也必须使用同步 `app.vault.process` 和旧全文 CAS，不要把 `obsidian read` 的长页输出重新塞入原始 `content=`。
+- **U+FFFD 写后门槛**：每轮 Markdown 写入后，用 `obsidian vault="噜Wiki" search query=$'\uFFFD'` 与 `search:context` 检查新增 replacement character；长页还要在应用内核对 UTF-8 byte count、SHA-256 和全文相等性。发现新增 U+FFFD 时不得更新 QMD 或关闭 issue，必须先恢复原文并再次全库核验。
+- Agent skills、工具说明等 vault 外部 Markdown 不属于本规则的内容层，但不得借此绕过对本 vault 的限制。
+
+## 联网搜索硬门槛
+
+- 凡涉及知识内容的新建、更新、核验、实体 enrich 或可复用 query 综合，都必须主动联网搜索；不能只整理本地材料。纯工具诊断可以是 local-only，但不得据此新增或改写知识主张。
+- 无人值守／夜间维护每轮必须包含外部发现或补证分支，不能只做本地 lint、改链接、重排或索引刷新。
+- 普通网页检索先使用 `web.run` 的 `search_query`；特定平台、学术库或已接入服务优先使用对应 connector、API 或 CLI。先查官方页面、论文原文、监管／交易所文件、机构公告和其他一手来源，再用独立可靠来源交叉核验。
+- 搜索结果摘要只能作为线索，不能直接作为证据。必须打开并核对实际页面；记录标题、作者／机构、发布日期、访问日期、URL，以及能支持具体主张的内容。无法访问全文时明确标成 abstract-only、metadata-only 或 needs_verification。
+- 对近期、争议性、身份关系、融资金额、产品能力和因果性主张，原则上寻找至少两个相互独立的来源；只有单一来源时保留来源归属和证据限制，不把宣传口径写成已核验事实。
+- 搜索应覆盖实体标准名与别名、关键机制词、反例／争议词和时间限定；停止时明确写出已核验事实、矛盾、未找到的证据与下次重开条件。
 
 ## 目录结构
 
@@ -32,9 +52,9 @@ Address the user as Adrian.
 
 每次开始处理本 vault：
 
-1. 先读 `index.md` 和 `log.md`。
+1. 先用 `obsidian vault="噜Wiki" read path="index.md"` 和 `obsidian vault="噜Wiki" read path="log.md"` 读取内容地图与日志。
 2. 判断用户输入属于哪一类：待摄入资料、查询问题、结构维护、还是项目指令。
-3. 如果是待摄入资料，先按下文的 QMD-first 门槛搜索本 vault；之后再用 `rg` 核对根目录文件名、链接和遗漏，避免重复建页。
+3. 如果是待摄入资料，先按下文的 QMD-first 门槛搜索本 vault；之后再用 `obsidian files`、`obsidian search`、`obsidian links` / `backlinks` 核对文件名、链接和遗漏，避免重复建页。
 4. 如果用户只给出外部链接，默认将其视为待摄入资料；如果链接明显是方法说明或项目规范，先把它转化为维护规则，而不是摄入为语料。
 
 ## Ingest 工作流
@@ -47,12 +67,12 @@ Address the user as Adrian.
 2. 如果 `.qmd/index.sqlite` 不存在，先在 vault 根目录运行 `qmd init`，再运行 `qmd collection add .`。如果项目本地索引存在但 collection 缺失，运行 `qmd collection add .`；如果文件数为零或索引陈旧，运行 `qmd update`。完成后再次用 `qmd status` 确认项目本地路径和已索引文件数，再继续 ingest。空的、陈旧的或错误路径上的索引结果不能被解释为“没有相关页面”。
 3. `Vectors: 0 embedded` 不妨碍 BM25 全文检索：此时使用 `qmd search`，分别以标题、别名、实体、罕见短语和机制词做多轮检索。只有在 `qmd status` 明确显示向量数大于零后，才可使用 `qmd vsearch`、`vec:`、`hyde:` 或包含向量检索字段的 `qmd query`。
 4. ingest 过程不得自动运行 `qmd embed`，也不得为了本轮摄入安装 embedding、reranking 或 query-expansion 模型；模型安装和向量生成由专门的 QMD 维护工作流负责。在向量就绪前，始终使用 BM25 `qmd search`，不能等待向量而跳过 QMD-first 检索。
-5. 先对用户给出的标题、文件名、URL 可见信息、实体名和判断重点做初始检索；读完来源并提取术语后，再做一轮定向检索。对候选结果使用 `qmd get` 或 `qmd multi-get` 读取完整页面；不能只凭搜索摘要决定新建页面或修改主张。
-6. QMD 检索完成后，再用 `rg` 和 `index.md` 做文件系统与主题地图交叉核对。QMD 是主搜索引擎，`rg` 是完整性检查和故障时的诊断工具。
+5. 先对用户给出的标题、文件名、URL 可见信息、实体名和判断重点做初始检索；读完来源并提取术语后，再做一轮定向检索。QMD 用于返回候选路径和摘要；随后必须用 `obsidian read path="<候选路径>"` 读取完整页面，不能用 `qmd get` / `qmd multi-get` 代替 Obsidian CLI 全文读取，也不能只凭搜索摘要决定新建页面或修改主张。
+6. QMD 检索完成后，再用 `obsidian files`、`obsidian search` / `search:context` 和 `obsidian read path="index.md"` 做文件清单、精确文本与主题地图交叉核对。QMD 是主搜索引擎，Obsidian CLI 是本 vault 唯一页面访问入口。
 
 ### 先更新旧页，再按知识结构新增页面
 
-每次完成的 ingest 必须遵循固定顺序：**使用项目本地 QMD 检索并读取候选旧页 → 更新所有相关旧页 → 为尚未覆盖且证据充分的世界节点新增页面 → 更新 `index.md` 和 `log.md` → 运行 `qmd update` 并验证本轮页面可检索**。
+每次完成的 ingest 必须遵循固定顺序：**使用项目本地 QMD 检索候选 → 用 Obsidian CLI 读取候选旧页 → 主动联网检索与补证 → 用 Obsidian CLI 更新所有相关旧页 → 为尚未覆盖且证据充分的世界节点新增页面 → 用 Obsidian CLI 更新 `index.md` 和 `log.md` → 运行 `qmd update` 并验证本轮页面可检索**。
 
 - 旧页更新优先。凡新资料能补充、修正、反驳或限定的相关旧页，都应先写入；不能用新页面替代本应完成的旧页维护。
 - 新页只承载已有页面尚未覆盖、能够独立积累的世界节点。页面主语只能是对象、机制、趋势、事件或关系；不得创建来源摘要页、同义重复页或空壳页，也不得为了追求页数把一个观察机械拆开。
@@ -71,6 +91,16 @@ Address the user as Adrian.
 - 人、公司、机构、产品、项目、地点等实体名可以作为单独页面。它们是世界中的稳定节点，适合积累不同来源的观察、关系和时间线。
 - 人物、公司和机构页不能只记录孤立履历；要把它们放回中国语境下的关系网络。尤其要外部补证“三同”线索：同乡/地缘、同学/同校/同门、同事/共事/任职重叠。三同是关系基础设施，不是八卦；只记录公开、可核验、与主题相关的关系。
 - 写入时维护双向链接：普通 wiki 页面之间尽量互链；普通页面必须在“证据”段链接到 raw 或外部来源。raw 文件可在 frontmatter 中用 `related_pages` 记录它支撑的页面。
+
+### Redlink 直接进入 Beads
+
+- **本项目把 redlink 定义为 Agent 有意创建的空白 Markdown 页面**。允许并鼓励创建这类空页，用来把值得后续研究的对象、机制、趋势、事件或关系先放进知识网络；空页是显式 backlog 节点，不要求当场用低质量内容填满。
+- redlink 空页只能通过 `obsidian vault="噜Wiki" create ...` 创建。每创建一张 redlink 空页，必须在同一任务中立即创建一个对应的 Beads issue，默认使用 `type=task`、`labels=redlink,knowledge-gap`，在 description 中记录页面标题／路径、触发来源和需要回答的问题；若来自某个 ingest 或巡检 issue，再增加 `discovered-from` 关系。
+- **一张 redlink 空页对应一个未完成 Beads issue，不设频次、中心性或证据阈值，也不等待周期巡检后再入队。** 优先级可按研究价值、关联页面数量、时效性和证据可得性调整。
+- redlink issue 的默认验收包括：项目本地 QMD 候选检索、Obsidian CLI 读取相关旧页、主动联网搜索与来源边界、通过 Obsidian CLI 补全或合并页面、维护相关链接与证据、更新 `index.md` / `log.md`、运行 `qmd update` 并用 QMD 命中加 `obsidian read` 回读。
+- 如果联网研究后确认它是重复节点、错误名称、不可消歧对象或不值得独立成页，允许通过 Obsidian CLI 合并、改名或移除空页，并在对应 Beads issue 中记录理由后关闭；不得为了关闭 issue 编造内容。
+- redlink 空页仍可能成为图谱端点。只在对象可稳定指认、当前上下文确实需要该节点时创建；身份不明的候选、否定／排除／举例语境对象和仅凭名称相似推测的关系仍写成纯文本。
+- 定期巡检必须用 Obsidian CLI 核对“空页 ↔ 未完成 redlink issue”是否一一对应：漏建 issue 立即补建，已补全或已移除页面的 issue 及时验收关闭。
 - 写成 wiki 页面时，先抽取可沉淀的 observation：发生了什么、谁在做什么、机制是什么、趋势如何变化、证据强弱如何、还有什么不确定。不要把正文写成“这篇文章报道/认为/介绍……”。这类表述只放在“证据”“来源”“待核验”段落。
 - 如果只能得到未经核验的 statement，就不要把它提升为世界 observation；保留 raw，并标记 `unverified`、`unavailable` 或 `needs_verification`。
 
@@ -80,17 +110,17 @@ Address the user as Adrian.
 2. 获取资料内容，并记录标题、作者/机构、发布日期、访问日期、URL 或本地路径。
 3. 在 `raw/` 保存原始快照；如果无法完整保存，至少保存来源记录和可访问片段。
 4. 读资料并提取核心主张、证据、定义、案例、数据、方法和限制。
-5. 用提取出的标题、别名、实体和机制词再次运行 `qmd search` 定向检索，使用 `qmd get` 或 `qmd multi-get` 读取候选旧页全文；随后用 `rg` 和 `index.md` 交叉核对遗漏。只有本地状态确认已有向量时，才可增加向量检索。
+5. 用提取出的标题、别名、实体和机制词再次运行 `qmd search` 定向检索，再用 `obsidian read` 读取候选旧页全文；随后用 `obsidian search`、`obsidian files` 和通过 `obsidian read` 获取的 `index.md` 交叉核对遗漏。只有本地状态确认已有向量时，才可增加向量检索。
 6. 先更新所有相关旧页，把新来源作为证据、反例、补充或限定条件写入，并维护这些旧页的来源和反向链接。
 7. 旧页更新完成后，为 vault 尚未覆盖、证据足够且值得独立积累的世界节点创建根目录页面。新页面不写 `type` 字段；数量不设配额。
 8. 不为普通链接创建专门的来源页面；raw 通常已经足够承担 provenance。只有来源本身就是世界对象，例如一份重要制度文件、数据集或论文，需要被长期讨论时，才以对象名建根目录页。
 9. 维护双向链接：普通 wiki 页面之间尽量互链；被更新页面和所有新页面都必须直接链接到 raw 快照或来源 URL。raw 快照可在 frontmatter 中用 `related_pages` 记录相关页面。
 10. 明确标注矛盾、分歧、不确定性和需要进一步查证的点；不得因建页数量影响证据标准。
 11. 核验每张新页面都有独立对象和充分证据，且没有来源摘要页、同义重复页、空壳页或错误图谱边；不以固定页数作为完成标准。
-12. 更新 `index.md`。
-13. 在 `log.md` 追加记录；证据不足而停在 raw 层的候选应明确记为待核验，不能写成已确认实体或关系。
+12. 通过 Obsidian CLI 更新 `index.md`。
+13. 通过 `obsidian append path="log.md"` 追加记录；证据不足而停在 raw 层的候选应明确记为待核验，不能写成已确认实体或关系。
 14. 完成 `index.md` 和 `log.md` 写入后，从 vault 根目录运行 `qmd update`，把本轮新增和修改写回项目本地索引；不得在此步骤运行 `qmd embed`。
-15. 用 BM25 `qmd search` 按标题或独特短语逐一查找本轮每个新增或修改的 Markdown 页面，并用 `qmd get` 核对命中内容已经是最新版本。任何页面无法检索时，本轮 ingest 尚未完成；修复项目本地索引并重新验证，不能切换到全局 collection 规避失败。
+15. 用 BM25 `qmd search` 按标题或独特短语逐一查找本轮每个新增或修改的 Markdown 页面，并用 `obsidian read` 核对页面当前全文与命中内容已经是最新版本。任何页面无法检索时，本轮 ingest 尚未完成；修复项目本地索引并重新验证，不能切换到全局 collection 规避失败。
 
 ### 实体外部 enrich：三同关系
 
@@ -121,17 +151,18 @@ Address the user as Adrian.
 
 当 Adrian 提问时：
 
-1. 先从 `index.md` 定位相关页面。
-2. 读取相关 wiki 页面和必要的 raw source。
-3. 如果问题依赖最新外部事实，先联网核验。
+1. 先用 Obsidian CLI 读取 `index.md`，并结合 QMD 定位相关页面。
+2. 用 Obsidian CLI 读取相关 wiki 页面和必要的 raw source。
+3. 凡回答涉及可外部核验的知识主张，主动联网搜索；对最新、争议性或高影响事实执行交叉核验。
 4. 回答时区分来源事实、wiki 综合、以及 Agent 的推论。
-5. 如果回答形成了可复用综合，保存为根目录页面或更新相关页面，并记录到 `log.md`。
+5. 如果回答形成了可复用综合，通过 Obsidian CLI 保存为根目录页面或更新相关页面，并通过 Obsidian CLI 记录到 `log.md`。
 
 ## Lint 工作流
 
 定期检查：
 
 - 孤立页面和缺少反向链接的页面。
+- redlink 空页与未完成 Beads issue 的一一对应；同时修复未解析链接中的拼写错误、改名残留和错误路径。
 - 多个页面对同一概念的重复定义。
 - 新资料推翻或限定了旧判断但旧页未更新。
 - 只有结论、缺少来源链接的主张。
@@ -205,9 +236,11 @@ raw 常用 `source_type`：
 ## GitButler 版本落地规则
 
 - 所有版本控制检查与写操作都使用 GitButler CLI（`but`）；每个 task 使用独立分支，只提交自己负责的变更，不得夹带其他 Agent 的工作。
-- 已完成并验收的 Wiki 工作不能只停留在本地 commit。正确 GitHub remote 与 target 配置完成后，使用 `but land <branch> --yes` 把专属分支落到 `origin/main`；这才算 GitButler 语义下完成 push to main。仅把 feature branch `but push` 到远端不等于已经落到 `main`。
-- 落地前必须用 GitButler 确认 target 是正确仓库的 `origin/main` 且历史兼容。若仍是 `gb-local/main`、remote 缺失、远端历史不相关、会公开私密 raw，或需要 force-push 才能完成，则必须 fail closed 并向 Adrian 报告具体差异；禁止静默覆盖或强推 `main`。
-- 只落地明确属于本轮且允许进入该 GitHub 仓库的内容；不得因为文件位于共享 workspace 就把其他 Agent 的未提交工作、私密 raw 或本地状态一并推送。
+- 共享 Obsidian vault 的本地 GitButler target 当前是 `gb-local/main`，与公开仓库的 Digital Garden `main` 历史不相关。禁止在共享 workspace 直接改 target、pull、push 或 land，也不得把发布站点工作树拉进 vault。
+- 每个 task 完成并验收 Wiki 工作后，先在共享 vault 中用 GitButler 形成只含其独占变化的 commit，并向协调者报告 branch、commit ID 与允许公开的文件；不能把本地 commit 当作已经完成 GitHub 落地。
+- GitHub 落地只在 `/Users/siyaozheng/luwiki-public-main` 的干净 GitButler 发布克隆执行。该 clone 只用于版本落地，不作为第二个 Obsidian/QMD 维护 vault。
+- 发布克隆必须保持 target=`origin/main`、push remote=`origin`。先运行 `but pull --check`，把允许公开的普通 Wiki 页面映射到 `src/site/notes/<文件名>.md`，不得发布 `raw/`、`log.md`、`.qmd/`、`.obsidian/`、Beads DB 或其他本地状态；核对专属 diff 后使用 `but land <branch> --yes`。仅 `but push` feature branch 不等于已进入 `main`。
+- 若远端前进、路径冲突、来源不允许公开、会夹带其他 Agent 内容或需要 force-push，则必须 fail closed 并向 Adrian 报告；禁止静默覆盖或强推 `main`。
 
 <!-- BEGIN BEADS CODEX SETUP: generated by bd setup codex -->
 ## Beads Issue Tracker
