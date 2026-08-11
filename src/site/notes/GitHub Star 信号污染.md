@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/GitHub Star 信号污染/","title":"GitHub Star 信号污染","tags":["GitHub","开源","信号污染","创业融资","AI安全"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"GitHub Star 信号污染","source_count":2,"sources":["raw/2026-08-07-luyao-b044-215-他靠刷小星星给-AI-项目融到了钱，每颗-5-毛-2d1828fd.md","raw/2026-08-07-luyao-b044-216-GitHub-一颗星3分钱，客官要不先来5千个，冲个天使轮？-cf5ca41a.md"],"tags":["GitHub","开源","信号污染","创业融资","AI安全"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/GitHub Star 信号污染/","title":"GitHub Star 信号污染","tags":["#GitHub","#开源","#信号污染","#创业融资","#AI安全"],"created":"2026-08-07","updated":"2026-08-11","dg-note-properties":{"status":"seed","title":"GitHub Star 信号污染","source_count":2,"sources":["raw/2026-08-07-luyao-b044-215-他靠刷小星星给-AI-项目融到了钱，每颗-5-毛-2d1828fd.md","raw/2026-08-07-luyao-b044-216-GitHub-一颗星3分钱，客官要不先来5千个，冲个天使轮？-cf5ca41a.md"],"tags":["#GitHub","#开源","#信号污染","#创业融资","#AI安全"],"created":"2026-08-07","updated":"2026-08-11"}}
 ---
 
 # GitHub Star 信号污染
 
-GitHub Star 信号污染指 star 数从“开发者关注/收藏信号”变成可购买、可营销、可套利的指标后，对开源选型、投资筛选、招聘背书和安全判断造成的失真。
+[[GitHub\|GitHub]] Star 信号污染指 star 数从“开发者关注/收藏信号”变成可购买、可营销、可套利的指标后，对开源选型、投资筛选、招聘背书和安全判断造成的失真。
 
 ## 观察
 
