@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/EgoBrain/","title":"EgoBrain","tags":["#NeuroAI","#EEG","#第一视角视频","#动作分类","#多模态数据集"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"EgoBrain","source_count":5,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","raw/2026-08-10-Hugging-Face-Gated-Repositories机制核验.md","https://arxiv.org/abs/2506.01353","https://huggingface.co/datasets/ut-vision/EgoBrain"],"tags":["#NeuroAI","#EEG","#第一视角视频","#动作分类","#多模态数据集"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/EgoBrain/","title":"EgoBrain","tags":["NeuroAI","EEG","第一视角视频","动作分类","多模态数据集"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"EgoBrain","source_count":5,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","raw/2026-08-10-Hugging-Face-Gated-Repositories机制核验.md","https://arxiv.org/abs/2506.01353","https://huggingface.co/datasets/ut-vision/EgoBrain"],"tags":["NeuroAI","EEG","第一视角视频","动作分类","多模态数据集"],"created":"2026-08-10","updated":"2026-08-10"}}
 ---
 
 # EgoBrain

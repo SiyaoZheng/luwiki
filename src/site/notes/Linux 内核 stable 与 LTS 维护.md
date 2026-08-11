@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Linux 内核 stable 与 LTS 维护/","title":"Linux 内核 stable 与 LTS 维护","tags":["#linux","#kernel","#release-engineering","#maintenance","#security"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Linux 内核 stable 与 LTS 维护","tags":["#linux","#kernel","#release-engineering","#maintenance","#security"],"sources":["raw/2026-08-11-Linux-stable与LTS维护机制核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Linux 内核 stable 与 LTS 维护/","title":"Linux 内核 stable 与 LTS 维护","tags":["linux","kernel","release-engineering","maintenance","security"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Linux 内核 stable 与 LTS 维护","tags":["linux","kernel","release-engineering","maintenance","security"],"sources":["raw/2026-08-11-Linux-stable与LTS维护机制核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 <!-- issue: luwiki-oazi -->

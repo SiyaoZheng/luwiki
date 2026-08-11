@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Developer Certificate of Origin/","title":"Developer Certificate of Origin","tags":["#open-source-governance","#contribution-policy","#provenance","#licensing"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Developer Certificate of Origin","aliases":["DCO","Developer's Certificate of Origin"],"tags":["#open-source-governance","#contribution-policy","#provenance","#licensing"],"sources":["raw/2026-08-11-Developer-Certificate-of-Origin治理与权利边界核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Developer Certificate of Origin/","title":"Developer Certificate of Origin","tags":["open-source-governance","contribution-policy","provenance","licensing"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Developer Certificate of Origin","aliases":["DCO","Developer's Certificate of Origin"],"tags":["open-source-governance","contribution-policy","provenance","licensing"],"sources":["raw/2026-08-11-Developer-Certificate-of-Origin治理与权利边界核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 

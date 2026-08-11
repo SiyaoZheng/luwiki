@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Linux Kernel CVE Authority/","title":"Linux Kernel CVE Authority","tags":["#linux","#security","#cve","#governance"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Linux Kernel CVE Authority","tags":["#linux","#security","#cve","#governance"],"sources":["raw/2026-08-11-Linux-Kernel-CVE-Authority制度与证据边界核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Linux Kernel CVE Authority/","title":"Linux Kernel CVE Authority","tags":["linux","security","cve","governance"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Linux Kernel CVE Authority","tags":["linux","security","cve","governance"],"sources":["raw/2026-08-11-Linux-Kernel-CVE-Authority制度与证据边界核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 <!-- issue: luwiki-d6qg -->

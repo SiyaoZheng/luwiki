@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ego2Robot/","title":"Ego2Robot","tags":["#第一视角数据","#动作重定向","#视觉合成","#机器人预训练"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"seed","title":"Ego2Robot","source_count":4,"sources":["raw/2026-08-10-人类活动数据到机器人训练外部补证.md","raw/2026-08-10-规模化人类视频到机器人预训练路线核验.md","https://arxiv.org/abs/2608.02580","https://www-ye.github.io/ego2robot_blog/"],"tags":["#第一视角数据","#动作重定向","#视觉合成","#机器人预训练"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Ego2Robot/","title":"Ego2Robot","tags":["第一视角数据","动作重定向","视觉合成","机器人预训练"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"seed","title":"Ego2Robot","source_count":4,"sources":["raw/2026-08-10-人类活动数据到机器人训练外部补证.md","raw/2026-08-10-规模化人类视频到机器人预训练路线核验.md","https://arxiv.org/abs/2608.02580","https://www-ye.github.io/ego2robot_blog/"],"tags":["第一视角数据","动作重定向","视觉合成","机器人预训练"],"created":"2026-08-10","updated":"2026-08-10"}}
 ---
 
 # Ego2Robot

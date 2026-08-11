@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ego-Exo4D/","title":"Ego-Exo4D","tags":["#第一视角视频","#多视角数据","#人类技能","#机器人学习","#数据集"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Ego-Exo4D","source_count":7,"sources":["raw/2026-08-10-人类活动到机器人训练外部补证.md","https://docs.ego-exo4d-data.org/","https://docs.ego-exo4d-data.org/changelog/","https://docs.ego-exo4d-data.org/overview/","https://arxiv.org/abs/2311.18259","https://arxiv.org/abs/2606.06627","https://ego4d-data.org/pdfs/Ego-Exo4D-Model-License.pdf"],"tags":["#第一视角视频","#多视角数据","#人类技能","#机器人学习","#数据集"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Ego-Exo4D/","title":"Ego-Exo4D","tags":["第一视角视频","多视角数据","人类技能","机器人学习","数据集"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Ego-Exo4D","source_count":7,"sources":["raw/2026-08-10-人类活动到机器人训练外部补证.md","https://docs.ego-exo4d-data.org/","https://docs.ego-exo4d-data.org/changelog/","https://docs.ego-exo4d-data.org/overview/","https://arxiv.org/abs/2311.18259","https://arxiv.org/abs/2606.06627","https://ego4d-data.org/pdfs/Ego-Exo4D-Model-License.pdf"],"tags":["第一视角视频","多视角数据","人类技能","机器人学习","数据集"],"created":"2026-08-10","updated":"2026-08-10"}}
 ---
 
 # Ego-Exo4D

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/CISA BOD 26-04/","title":"CISA BOD 26-04","tags":["#cybersecurity","#vulnerability-management","#federal-policy","#cisa"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"CISA BOD 26-04","tags":["#cybersecurity","#vulnerability-management","#federal-policy","#cisa"],"sources":["raw/2026-08-11-CISA-BOD-26-04风险优先级与实施边界核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/CISA BOD 26-04/","title":"CISA BOD 26-04","tags":["cybersecurity","vulnerability-management","federal-policy","cisa"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"CISA BOD 26-04","tags":["cybersecurity","vulnerability-management","federal-policy","cisa"],"sources":["raw/2026-08-11-CISA-BOD-26-04风险优先级与实施边界核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 <!-- issue: luwiki-4ah6 -->

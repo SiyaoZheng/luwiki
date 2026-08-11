@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/GitLab/","title":"GitLab","tags":["#公司","#上市公司","#软件平台","#开源商业化","#企业软件"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"GitLab","aliases":["GitLab Inc."],"source_count":13,"sources":["raw/2026-08-11-GitLab公司身份产品线客户与竞争关系核验.md","https://www.sec.gov/Archives/edgar/data/1653482/000162828026018731/gtlb-20260131.htm","https://ir.gitlab.com/news/news-details/2026/GitLab-Reports-First-Quarter-Fiscal-Year-2027-Financial-Results/default.aspx","https://about.gitlab.com/company/","https://about.gitlab.com/pricing/","https://handbook.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/","https://www.sec.gov/Archives/edgar/data/1653482/000165348226000085/gtlb-20260501.htm","https://www.sec.gov/Archives/edgar/data/1653482/000165348226000107/gtlb-20260518.htm","https://www.sec.gov/Archives/edgar/data/1653482/000162828026039805/gtlb-20260601.htm","https://www.sec.gov/Archives/edgar/data/1653482/000162828026039793/gtlb-20260430.htm","https://www.sec.gov/Archives/edgar/data/1653482/000165348226000145/gtlb-20260708.htm","https://about.gitlab.com/blog/gitlab-act-2/","https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/"],"tags":["#公司","#上市公司","#软件平台","#开源商业化","#企业软件"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/GitLab/","title":"GitLab","tags":["公司","上市公司","软件平台","开源商业化","企业软件"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"GitLab","aliases":["GitLab Inc."],"source_count":16,"sources":["raw/2026-08-11-GitLab公司身份产品线客户与竞争关系核验.md","raw/2026-08-11-Anthropic公司产品融资治理与合作关系核验.md","https://claude.com/customers/gitlab-enterprise","https://about.gitlab.com/press/releases/2026-04-28-gitlab-deepens-integration-with-anthropic-claude-models/","https://www.sec.gov/Archives/edgar/data/1653482/000162828026018731/gtlb-20260131.htm","https://ir.gitlab.com/news/news-details/2026/GitLab-Reports-First-Quarter-Fiscal-Year-2027-Financial-Results/default.aspx","https://about.gitlab.com/company/","https://about.gitlab.com/pricing/","https://handbook.gitlab.com/handbook/marketing/brand-and-product-marketing/product-and-solution-marketing/tiers/","https://www.sec.gov/Archives/edgar/data/1653482/000165348226000085/gtlb-20260501.htm","https://www.sec.gov/Archives/edgar/data/1653482/000165348226000107/gtlb-20260518.htm","https://www.sec.gov/Archives/edgar/data/1653482/000162828026039805/gtlb-20260601.htm","https://www.sec.gov/Archives/edgar/data/1653482/000162828026039793/gtlb-20260430.htm","https://www.sec.gov/Archives/edgar/data/1653482/000165348226000145/gtlb-20260708.htm","https://about.gitlab.com/blog/gitlab-act-2/","https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/"],"tags":["公司","上市公司","软件平台","开源商业化","企业软件"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 <!-- issue: luwiki-00yn -->
@@ -81,6 +81,8 @@ GitLab 的客户获取路径包括直接销售、自助网站和合作伙伴生�
 
 这些关系说明托管、联合销售与产品合作的存在，但没有公开每一伙伴贡献的收入、客户转化、排他性或责任分配。平台运营主体、底层云供应商和模型提供者仍是不同公司。
 
+GitLab 与 Anthropic 的关系还包括客户、产品和采购渠道三个层次：Anthropic 的客户案例称 GitLab 内部采用 [[Claude Enterprise\|Claude Enterprise]] 并使用 Anthropic 平台；GitLab 官方公告把 Claude 纳入 [[GitLab Duo Agent Platform\|GitLab Duo Agent Platform]]；GitLab 同时是 [[Claude Marketplace\|Claude Marketplace]] 的供应商。案例中的生产率区间来自厂商与客户调查，不是独立实验；Marketplace 额度转换也不等于所有客户实际采购。
+
 ## 竞争关系
 
 GitLab FY2026 10-K 把 [[微软\|Microsoft]] 和 [[Atlassian\|Atlassian]] 列为成熟竞争者。对应到现实产品，GitLab 与 Microsoft 旗下 [[GitHub\|GitHub]]、Atlassian 旗下 [[Bitbucket\|Bitbucket]] 在代码托管、协作、企业采购和相邻软件交付产品上竞争。
@@ -121,3 +123,9 @@ CEO 的公开信把调整描述为管理层级压缩、较小团队重组和把�
 - [July 2026 business update Form 8-K](https://www.sec.gov/Archives/edgar/data/1653482/000165348226000145/gtlb-20260708.htm)
 - [GitLab Act 2](https://about.gitlab.com/blog/gitlab-act-2/)
 - [TechCrunch restructuring report](https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/)
+
+
+
+## 相关页面
+
+- 客户覆盖率自报所依赖的年度榜单产品：[[Fortune 100\|Fortune 100]]。
