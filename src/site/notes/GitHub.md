@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/GitHub/","title":"GitHub","tags":["公司","平台","开源生态","企业软件","内容治理"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"GitHub","aliases":["GitHub, Inc.","GitHub.com"],"source_count":8,"sources":["raw/2026-08-11-GitHub公司身份平台治理与内容权利核验.md","https://github.com/about/press","https://docs.github.com/en/site-policy/github-terms/github-terms-of-service","https://github.com/pricing","https://www.sec.gov/Archives/edgar/data/789019/000156459019027952/msft-10k_20190630.htm","https://www.microsoft.com/investor/reports/ar25/index.html","https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32018M8994","https://www.eff.org/wp/who-has-your-back-2019"],"tags":["公司","平台","开源生态","企业软件","内容治理"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/GitHub/","title":"GitHub","tags":["#公司","#平台","#开源生态","#企业软件","#内容治理"],"created":"2026-08-11","updated":"2026-08-12","dg-note-properties":{"status":"processed","title":"GitHub","aliases":["GitHub, Inc.","GitHub.com"],"source_count":9,"sources":["raw/2026-08-11-GitHub公司身份平台治理与内容权利核验.md","raw/2026-08-12-GitHub-Marketplace商业主体交易分发与责任核验.md","https://github.com/about/press","https://docs.github.com/en/site-policy/github-terms/github-terms-of-service","https://github.com/pricing","https://www.sec.gov/Archives/edgar/data/789019/000156459019027952/msft-10k_20190630.htm","https://www.microsoft.com/investor/reports/ar25/index.html","https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32018M8994","https://www.eff.org/wp/who-has-your-back-2019"],"tags":["#公司","#平台","#开源生态","#企业软件","#内容治理"],"created":"2026-08-11","updated":"2026-08-12"}}
 ---
 
 # GitHub
@@ -36,7 +36,7 @@ GitHub 的产品组合可按实体和付费关系分层：
 - **基础平台**：Free 是个人、开源项目和团队的免费进入层；Team 与 [[GitHub Enterprise\|GitHub Enterprise]] 按用户收费。2026-08-11 的官方价格页标示 Team 为 4 美元／用户／月、Enterprise 从 21 美元／用户／月起，并同时出现“首 12 个月”的限定文字；地区、合同、促销和后续调价都可能改变实际成交价。
 - **企业产品**：GitHub Enterprise 包含 GitHub 托管的 Enterprise Cloud 与客户管理基础设施的 Enterprise Server，并采用公开标价、试用和 contact sales 并行的采购路径。
 - **AI 产品**：[[GitHub Copilot\|GitHub Copilot]] 采用个人、组织与企业席位，并逐步加入额度／用量计费。公开订户和组织数是采用指标，不能乘以标价当作收入。
-- **第三方交易与分发**：[[GitHub Marketplace\|GitHub Marketplace]] 同时承载 GitHub 自有和第三方产品。对 2021 年起适用的交易，官方发布者文档写 GitHub 保留 5% 交易收入；这不等于 GitHub 为每个第三方产品承担开发商责任，也不提供 Marketplace GMV 或总抽成。
+- **第三方交易与分发**：[[GitHub Marketplace\|GitHub Marketplace]] 同时承载 GitHub 自有和第三方产品。现行开发者协议把 GitHub 定义为经平台购买产品的 merchant of record；第三方提供者以美元设价，GitHub 汇出售价的 95%并保留5%。客户向 GitHub 付款，但产品使用权、支持与主要产品责任仍来自提供者；该规则不披露 Marketplace GMV 或平台独立收入。
 - **开源资金连接**：[[GitHub Sponsors\|GitHub Sponsors]] 把资助者与维护者连接起来，是开发者生态产品；本轮没有证据把它写成 GitHub 的主要收入线。
 - **附加订阅与用量**：账单资料把收入路径区分为固定计划／席位、附加订阅和超出包含额度的用量；付款可经银行卡、PayPal、采购订单或连接的 Azure subscription。支付通道和 Microsoft volume licensing 的可用性不等于所有产品强制捆绑；企业合同主体、顺位和产品附加条款另见 [[GitHub Customer Agreement\|GitHub Customer Agreement]]。
 
