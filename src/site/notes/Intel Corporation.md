@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Intel Corporation/","title":"Intel Corporation","tags":["#公司","#半导体","#制造","#股权关系"],"created":"2026-08-09","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Intel Corporation","aliases":["Intel","英特尔"],"sources":["raw/2026-08-11-Intel-Corporation商业实体财务资本与NVIDIA关系核验.md","https://www.sec.gov/Archives/edgar/data/50863/000005086326000157/intc-20260627.htm","https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm","https://www.sec.gov/Archives/edgar/data/50863/000005086326000066/intc-20260323.htm","https://www.intel.com/content/www/us/en/corporate/executive-leadership.html","https://www.intel.com/content/www/us/en/corporate/board-directors.html","https://newsroom.intel.com/corporate/intel-appoints-lip-bu-tan-chief-executive-officer","https://newsroom.intel.com/corporate/intel-board-chair-frank-d-yeary-to-retire-following-annual-meeting-dr-craig-h-barratt-elected-as-chair","https://newsroom.intel.com/corporate/intel-announces-leadership-appointment-to-strengthen-customer-engagement-and-accelerate-growth","https://www.sec.gov/Archives/edgar/data/50863/000119312505033162/d10k.htm","https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"],"tags":["#公司","#半导体","#制造","#股权关系"],"created":"2026-08-09","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Intel Corporation/","title":"Intel Corporation","tags":["#公司","#半导体","#制造","#股权关系"],"created":"2026-08-09","updated":"2026-08-12","dg-note-properties":{"status":"processed","title":"Intel Corporation","aliases":["Intel","英特尔"],"sources":["raw/2026-08-11-Intel-Corporation商业实体财务资本与NVIDIA关系核验.md","raw/2026-08-11-Intel出售Altera多数股权交易核验.md","raw/2026-08-11-Mobileye-Global-Inc商业实体控制财务产品客户供应与交易核验.md","raw/2026-08-11-Intel回购Grange-Newco-49%权益核验.md","https://www.sec.gov/Archives/edgar/data/50863/000005086326000157/intc-20260627.htm","https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm","https://www.sec.gov/Archives/edgar/data/50863/000005086326000066/intc-20260323.htm","https://www.intel.com/content/www/us/en/corporate/executive-leadership.html","https://www.intel.com/content/www/us/en/corporate/board-directors.html","https://newsroom.intel.com/corporate/intel-appoints-lip-bu-tan-chief-executive-officer","https://newsroom.intel.com/corporate/intel-board-chair-frank-d-yeary-to-retire-following-annual-meeting-dr-craig-h-barratt-elected-as-chair","https://newsroom.intel.com/corporate/intel-announces-leadership-appointment-to-strengthen-customer-engagement-and-accelerate-growth","https://www.sec.gov/Archives/edgar/data/50863/000119312505033162/d10k.htm","https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm"],"tags":["#公司","#半导体","#制造","#股权关系"],"created":"2026-08-09","updated":"2026-08-12"}}
 ---
 
 # Intel Corporation
@@ -26,7 +26,7 @@ Intel 的 2026 年第二季度报告分部是 [[Client Computing and Physical AI
 - [[Intel Products\|Intel Products]] 是 CCPG 与 DCAI 的组合管理口径。CCPG 面向个人计算与边缘市场，包含 [[Intel Core Ultra\|Intel Core Ultra]] 等产品；DCAI 面向数据中心与企业市场，包含 [[Intel Xeon\|Intel Xeon]]、[[Intel Gaudi\|Intel Gaudi]] 等产品。
 - Intel Foundry 承担研发、制造、封装、封测与外部代工服务。它是 Intel Corporation 内部可报告分部，不是独立上市公司；分部收入主要来自对 Intel Products 等集团内业务的交易。
 - 2026 年第二季度 Intel Foundry 分部收入为 57.65 亿美元，但其中第三方代工与封测外部收入只有 2.93 亿美元。分部收入不能直接当作外部客户销售额。
-- “All Other”是会计汇总类别，不是可报告分部或法律实体；其中包括 Intel 仍并表的 [[Mobileye Global Inc.\|Mobileye Global Inc.]]、IMS、创业项目及 Altera 的历史结果。
+- “All Other”是会计汇总类别，不是可报告分部或法律实体；其中包括 Intel 仍并表的 Mobileye Global Inc.、IMS、创业项目及 Altera 的历史结果。
 - Intel 2025 年第一季度把原 Network and Edge 业务并入 CCG/DCAI，2026 年第二季度再把 CCG 更名为 CCPG。名称变化和内部重组不等于相关产品或合同被转移给一家新法人。
 
 ## 财务快照
@@ -44,8 +44,8 @@ Intel 的 2026 年第二季度报告分部是 [[Client Computing and Physical AI
 
 ### 美国政府
 
-- [[2025 美国商务部与Intel股权协议\|2025 美国商务部与Intel股权协议]]把 56.95 亿美元加速拨款、31.748 亿美元 Secure Enclave 款项、普通股、托管股和条件性认股权证放在同一安排中；登记持有人为美国商务部。
-- 2026 proxy 把美国政府列为 433,323,000 股、8.4%，但该比例假设 149,438,785 股托管股全部释放，并排除只有 Intel 不再直接或间接持有 Intel Foundry 至少 51%时才可能行权的认股权证。不同日期、假设和工具不能拼成实时持股比例。
+- [[2025 美国商务部与Intel股权协议\|2025 美国商务部与Intel股权协议]]把 56.95 亿美元加速拨款、31.748 亿美元 [[Intel Secure Enclave\|Intel Secure Enclave]] 后续款项、普通股、托管股和条件性认股权证放在同一安排中。交割发行股登记于美国商务部名下；托管股释放前仍以 Intel 名义登记并由 Intel 为商务部利益持有，商务部尚无其所有权、投票、经济或转让权。
+- 2026 proxy 把美国政府列为 433,323,000 股、8.4%，但该比例假设 149,438,785 股托管股全部释放，并排除只有 Intel 不再直接或间接持有 Intel Foundry 至少 51%时才可能行权的认股权证。2026-06-27 最新公司定量快照显示约 1.43 亿股仍在托管；不同日期、假设和工具不能拼成实时持股比例。
 - 公告把该关系限定为被动持股，没有董事席位或额外治理、信息权。政府取得少数股权不等于成为 Intel 母公司或接管日常经营。
 
 ### 机构与战略投资者
@@ -59,9 +59,10 @@ Intel 的 2026 年第二季度报告分部是 [[Client Computing and Physical AI
 
 ## 资产组合与重大交易
 
-- [[2025 Intel出售Altera多数股权\|2025 Intel出售Altera多数股权]]由 SLP VII Gryphon Aggregator, L.P.（Silver Lake 关联载体）取得 [[Altera Corporation\|Altera Corporation]] 51%，2025 年 9 月 12 日完成。Intel 留存 49%并改按权益法核算，Altera 不再由 Intel 控制或并表。
-- Intel 在 2025 年出售部分 [[Mobileye Global Inc.\|Mobileye Global Inc.]] 股份并净筹约 9 亿美元；截至 2026 年第二季度，Mobileye 的非控股权益为 23%，Intel 仍多数持有并合并报表。[[2025 Intel出售部分Mobileye股份\|2025 Intel出售部分Mobileye股份]]不等于完全分拆。
-- [[2026 Intel回购爱尔兰Fab 34合资权益\|2026 Intel回购爱尔兰Fab 34合资权益]]以含费用约 142 亿美元购回由 Apollo Global Management 管理基金及关联方持有的 49%权益。Intel 原已把该投资实体并表；这是一项非控股权益回购，不是收购一座此前独立于 Intel 的新工厂。
+- [[2025 Intel出售Altera多数股权\|2025 Intel出售Altera多数股权]]于 2025 年 9 月 12 日完成：Intel Corporation 与 Intel Americas, Inc. 向 SLP VII Gryphon Aggregator, L.P. 出售 Altera Corporation 51%权益，随后双方把权益投入 Gryphon JV。87.5 亿美元企业价值、约 33 亿美元的 51%股权价值、约 43 亿美元净购买对价与 55.53 亿美元税前处置收益是不同口径；Intel交割时保留49%，2025年末披露实际权益为48%，2026年第二季度文件未给实时精确比例。Altera已去并表，Intel保留投资按权益法核算。
+- [[2024-2025 Intel与Altera晶圆制造协议\|2024-2025 Intel与Altera晶圆制造协议]]承接股权分拆后的长期供应关系；Intel 2026年第二季度对Altera关联方收入1.81亿美元、上半年3.20亿美元，去并表不等于商业关系终止。
+- [[2025 Intel出售部分Mobileye股份\|2025 Intel出售部分Mobileye股份]]于 2025-07-11 完成：直接持有人 Intel Overseas Funding Corporation 出售 5,750 万股 Mobileye A 类股，Intel FY2025 更新口径净得约 9.21 亿美元；Mobileye 同步以 1 亿美元回购并注销 6,231,985 股。2026-06-27 的最新明确 Mobileye 口径为 Intel 约持 77.1%经济权益、96.9%投票权，Intel Q2 仍按 voting-interest model 合并Mobileye Global Inc.；非控股权益约 23%是会计快照，不是实时精确持股。2026 Mobileye收购Mentee Robotics是 Mobileye 层交易，不是 Intel 直接收购。
+- [[2026 Intel回购Grange Newco 49%权益\|2026 Intel回购Grange Newco 49%权益]]于 2026 年 4 月 8 日完成：Intel 以包含交易成本约 142 亿美元回购 [[Grange Newco LLC\|Grange Newco LLC]] 剩余 49%少数权益，交割后持有 100%。[[Intel Ireland Limited\|Intel Ireland Limited]] 始终拥有并运营 [[Intel Fab 34\|Intel Fab 34]]；Intel 也早已控制并合并该 VIE，因此这不是回购厂房、首次取得控制或重新并表。2024 年外部权益的形成见 [[2024 Intel Ireland向AP Grange出售Grange Newco 49%权益\|2024 Intel Ireland向AP Grange出售Grange Newco 49%权益]]，资金闭环见 [[2026 Intel为Grange Newco权益回购融资\|2026 Intel为Grange Newco权益回购融资]]。
 - [[2025 Intel完成向SK hynix出售NAND业务\|2025 Intel完成向SK hynix出售NAND业务]]是 2020 年协议的第二阶段交割，2025 年净收约 18 亿美元，不应改写为 2025 年才首次达成的一笔孤立交易。
 
 ## 客户、供应与合作
@@ -81,6 +82,8 @@ Intel 的 2026 年第二季度报告分部是 [[Client Computing and Physical AI
 
 ## 证据
 
+- 原始资料快照（本地归档）
+- 原始资料快照（本地归档）
 - 原始资料快照（本地归档）
 - [Intel 2026 Q2 Form 10-Q](https://www.sec.gov/Archives/edgar/data/50863/000005086326000157/intc-20260627.htm)
 - [Intel 2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm)

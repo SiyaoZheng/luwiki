@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2025-2026 Intel与Walden关联方共同投资/","title":"2025-2026 Intel与Walden关联方共同投资","tags":["#Intel","#Walden","#关联交易","#风险投资","#公司治理"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"2025-2026 Intel与Walden关联方共同投资","sources":["raw/2026-08-11-Intel与Walden关联方共同投资核验.md","https://www.sec.gov/Archives/edgar/data/50863/000005086326000061/proxy2026.htm","https://www.channelnewsasia.com/business/intel-pursued-deals-boosted-ceo-lip-bu-tans-fortune-sources-say-5574846"],"tags":["#Intel","#Walden","#关联交易","#风险投资","#公司治理"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/2025-2026 Intel与Walden关联方共同投资/","title":"2025-2026 Intel与Walden关联方共同投资","tags":["#Intel","#Walden","#关联交易","#风险投资","#公司治理"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"2025-2026 Intel与Walden关联方共同投资","sources":["raw/2026-08-11-Intel与Walden关联方共同投资核验.md","raw/2026-08-11-Celesta-Capital品牌投资顾问基金与投资关系核验.md","https://www.sec.gov/Archives/edgar/data/50863/000005086326000061/proxy2026.htm","https://reports.adviserinfo.sec.gov/reports/ADV/310575/PDF/310575.pdf","https://www.channelnewsasia.com/business/intel-pursued-deals-boosted-ceo-lip-bu-tans-fortune-sources-say-5574846"],"tags":["#Intel","#Walden","#关联交易","#风险投资","#公司治理"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 # 2025-2026 Intel与Walden关联方共同投资
@@ -13,7 +13,7 @@ Intel 于 2026 年 3 月 23 日提交的 proxy statement 披露：自 2025 财�
 - **[[Intel Corporation\|Intel Corporation]]**：上市母公司和申报人。
 - **[[Intel Capital\|Intel Capital]]**：proxy 将其定义为 Intel 的企业风险投资业务单元；文件没有公开实际签约、持股或出资所使用的具体法律载体。
 - **[[Walden International\|Walden International]] 与“Walden”**：Tan 是 Walden International 的创办人兼董事长；但 proxy 为关联交易披露而把 Walden International、其 affiliates 和其他 Tan 关联实体合称为“Walden”。这个集合简称不是单一法人。
-- **其他载体**：[[Lambda Ventures Fund\|Lambda Ventures Fund]]、[[Factory HQ Fund\|Factory HQ Fund]]、[[A&E Investments LLC\|A&E Investments LLC]] 与 [[Celesta Capital\|Celesta Capital]]分别出现在具体交易中。它们不能因都与 Tan 有关联而互作 alias，也不能把合计持股自动拆成各载体的单独比例。
+- **其他具名机构／载体**：[[Lambda Ventures Fund\|Lambda Ventures Fund]]、[[Factory HQ Fund\|Factory HQ Fund]]、[[A&E Investments LLC\|A&E Investments LLC]] 与 [[Celesta Capital\|Celesta Capital]]分别出现在具体交易中。Intel proxy 没有披露 Celesta 一侧的具体基金、GP 或管理主体；当前 ADV 所列投资顾问法律主体为 MNS Global Capital Managers, LLC，但不能据此把匿名交易的证券自动归给 MNS。各名称不能因都与 Tan 有关联而互作 alias，也不能把合计持股自动拆成单独比例。
 - **关联人**：Tan 同时是 Intel CEO、董事以及多个投资机构的创办人或管理人，因此这些重叠投资进入关联交易披露。申报还说明其一名直系亲属在 Company B 董事会任职；本页不为家庭成员建立人物节点。
 
 ## 四组已披露交易
@@ -49,6 +49,7 @@ Reuters 在 2025 年 12 月曾基于匿名消息源报道 Tan 的投资网络给
 - 原始资料快照（本地归档）
 - [Intel 2026 Proxy Statement，关联交易见第30—31页](https://www.sec.gov/Archives/edgar/data/50863/000005086326000061/proxy2026.htm)
 - [SEC filing index](https://www.sec.gov/Archives/edgar/data/50863/000005086326000061/0000050863-26-000061-index.html)
+- [Celesta／MNS 2026-06-25 Form ADV](https://reports.adviserinfo.sec.gov/reports/ADV/310575/PDF/310575.pdf)
 - [Reuters／CNA：Tan投资网络与Intel治理争议，2025-12-10](https://www.channelnewsasia.com/business/intel-pursued-deals-boosted-ceo-lip-bu-tans-fortune-sources-say-5574846)
 
 ## 相关页面

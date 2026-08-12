@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Intel Foundry/","title":"Intel Foundry","tags":["#Intel","#半导体","#晶圆代工","#业务单元"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Intel Foundry","sources":["raw/2026-08-11-Intel-Foundry商业业务单元客户财务与治理边界核验.md","https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm","https://www.sec.gov/Archives/edgar/data/50863/000005086326000157/intc-20260627.htm","https://newsroom.intel.com/intel-foundry/foundry-news-roadmaps-updates","https://newsroom.intel.com/corporate/intel-announces-leadership-appointment-at-intel-foundry-to-accelerate-development-and-manufacturing","https://www.intc.com/news-events/press-releases/detail/1561/intel-and-mediatek-form-foundry-partnership","https://newsroom.intel.com/manufacturing/intel-and-fortinet-collaborate-to-advance-cybersecurity-innovation-and-strengthen-global-supply-chain-resilience"],"tags":["#Intel","#半导体","#晶圆代工","#业务单元"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Intel Foundry/","title":"Intel Foundry","tags":["#Intel","#半导体","#晶圆代工","#业务单元"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Intel Foundry","sources":["raw/2026-08-11-Intel-Foundry商业业务单元客户财务与治理边界核验.md","raw/2026-08-11-Intel回购Grange-Newco-49%权益核验.md","https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm","https://www.sec.gov/Archives/edgar/data/50863/000005086326000157/intc-20260627.htm","https://newsroom.intel.com/intel-foundry/foundry-news-roadmaps-updates","https://newsroom.intel.com/corporate/intel-announces-leadership-appointment-at-intel-foundry-to-accelerate-development-and-manufacturing","https://www.intc.com/news-events/press-releases/detail/1561/intel-and-mediatek-form-foundry-partnership","https://newsroom.intel.com/manufacturing/intel-and-fortinet-collaborate-to-advance-cybersecurity-innovation-and-strengthen-global-supply-chain-resilience"],"tags":["#Intel","#半导体","#晶圆代工","#业务单元"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 # Intel Foundry
@@ -45,7 +45,7 @@ Reuters 在 2025 年 7 月的报道把缺少重大外部客户视为 Intel Found
 
 ### Altera：外部但仍有关联的制造客户
 
-Intel 于 2025 年 9 月完成出售 [[Altera Corporation\|Altera Corporation]] 51% 股权后，保留 49% 权益并将其去并表。Altera 因而从内部业务转为 Intel Foundry 的外部关联方客户。Intel 2026 年第二季度文件称，上半年外部收入增长主要来自这一变化；Reuters 也核验 Altera 同时使用 Intel Foundry 与 TSMC 制造服务。
+Intel 于 2025 年 9 月完成出售 [[Altera Corporation\|Altera Corporation]] 51% 股权后将其去并表；交割时Intel保留49%，但2025年报披露年末实际权益为48%，原因未说明，后续季度文件也未给实时精确比例。Altera 因而从内部业务转为 Intel Foundry 的外部关联方客户。Intel 2026 年第二季度文件称，上半年外部收入增长主要来自这一变化；Reuters 也核验 Altera 同时使用 Intel Foundry 与 TSMC 制造服务。去并表后的制造关系由 [[2024-2025 Intel与Altera晶圆制造协议\|2024-2025 Intel与Altera晶圆制造协议]] 事件承接。
 
 这条关系不能被写成“新获得的完全独立大客户”，也不能把 Altera 驱动的收入增长推广成广泛的新客户采用。股权变化应通过 [[2025 Intel出售Altera多数股权\|2025 Intel出售Altera多数股权]] 事件理解。
 
@@ -83,7 +83,7 @@ Intel Foundry 的差异化主张集中在美国制造规模、从设计支持到
 
 [[2025 美国商务部与Intel股权协议\|2025 美国商务部与Intel股权协议]] 在公告时对应美国政府 89 亿美元普通股投资和约 9.9% 的被动持股安排；这使政府成为 Intel 的资本与产业政策对手方，不等于商业代工客户需求。协议另设未来控制权条件：如果 Intel 不再直接或间接持有至少 51% 的 Foundry 业务，相关权利可能触发。这是未来持股阈值，不是 Intel 已经出售 49% Foundry 股权的证据；9.9% 也是交易公告时口径，不应当作永久实时持股比例。
 
-工厂级合资融资同样不能被当作 Foundry 分部股权。爱尔兰 Ireland SCIP 是历史安排：Intel 于 2026 年 4 月回购 Apollo 所持 49%，截至 2026 年第二季度已持有 100%。亚利桑那 Arizona SCIP 截至同期仍由 Intel 持有 51%、Brookfield 相关方持有 49%。两者针对具体工厂资产与融资安排，均不意味着合作方持有 Intel Foundry 分部本身。
+工厂级融资载体同样不能被当作 Foundry 分部股权。爱尔兰的 [[Grange Newco LLC\|Grange Newco LLC]]（Intel 财报简称 Ireland SCIP）围绕 [[Intel Fab 34\|Intel Fab 34]] 产出安排融资；[[Intel Ireland Limited\|Intel Ireland Limited]] 在 [[2024 Intel Ireland向AP Grange出售Grange Newco 49%权益\|2024 Intel Ireland向AP Grange出售Grange Newco 49%权益]] 后仍全资拥有并运营该工厂，Intel 也一直合并该 VIE。[[2026 Intel回购Grange Newco 49%权益\|2026 Intel回购Grange Newco 49%权益]]于 4 月 8 日完成后，Intel 持有 Grange Newco 100%。亚利桑那 Arizona SCIP 截至 2026 年第二季度仍由 Intel 持有51%、Brookfield相关方持有49%。两种少数权益都不是投资者持有 Intel Foundry 分部股权，爱尔兰回购也不是重新取得工厂产权或会计控制。
 
 ## 证据边界
 

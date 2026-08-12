@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Lip-Bu Tan/","title":"Lip-Bu Tan","tags":["#人物","#公司治理","#风险投资","#半导体"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Lip-Bu Tan","aliases":["陈立武","陳立武","Tan Lip-Bu"],"sources":["raw/2026-08-11-Lip-Bu-Tan商业人物管理投资与机构关系核验.md","https://www.intel.com/content/www/us/en/corporate/biography/lip-bu-tan.html","https://www.intc.com/filings-reports/all-sec-filings/content/0001193125-22-218541/d359017d8k.htm","https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-24-000134/intc-20240819.htm","https://www.sec.gov/Archives/edgar/data/50863/000005086326000061/proxy2026.htm","https://www.sec.gov/Archives/edgar/data/50863/000005086325000036/intc-20250310.htm","https://www.sec.gov/Archives/edgar/data/813672/000119312523076688/d447637ddef14a.htm","https://www.sec.gov/Archives/edgar/data/1807794/000162828025046890/crdo-20251023.htm","https://www.ntu.edu.sg/news/detail/alumnus-tan-lip-bu-takes-on-new-role-as-ceo-of-intel-corporation","https://www.cmu.edu/news/stories/archives/2025/april/carnegie-mellon-university-announces-2025-honorary-degree-recipients","https://www.ntu.edu.sg/alumni/alumni-stories-news/detail/venture-capitalist-tan-lip-bu-kickstarts-ntu-sgd50-million-venture-capital-fund-with-sgd5-million-investment","https://www.usfca.edu/news/spring-2022-commencement","https://www.usfca.edu/who-we-are/president-leadership/board-trustees/emeritae/members","https://myusf.usfca.edu/president/committees-commissions/honorary-degree-commission/past-recipients","https://www.se.com/ww/fr/about-us/company-profile/corporate-governance/board-of-directors/","https://www.se.com/ww/en/assets/564/document/27850/lip-bu-tan-biography.pdf"],"tags":["#人物","#公司治理","#风险投资","#半导体"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Lip-Bu Tan/","title":"Lip-Bu Tan","tags":["#人物","#公司治理","#风险投资","#半导体"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Lip-Bu Tan","aliases":["陈立武","陳立武","Tan Lip-Bu"],"sources":["raw/2026-08-11-Lip-Bu-Tan商业人物管理投资与机构关系核验.md","https://reports.adviserinfo.sec.gov/reports/ADV/310575/PDF/310575.pdf","https://www.intel.com/content/www/us/en/corporate/biography/lip-bu-tan.html","https://www.intc.com/filings-reports/all-sec-filings/content/0001193125-22-218541/d359017d8k.htm","https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-24-000134/intc-20240819.htm","https://www.sec.gov/Archives/edgar/data/50863/000005086326000061/proxy2026.htm","https://www.sec.gov/Archives/edgar/data/50863/000005086325000036/intc-20250310.htm","https://www.sec.gov/Archives/edgar/data/813672/000119312523076688/d447637ddef14a.htm","https://www.sec.gov/Archives/edgar/data/1807794/000162828025046890/crdo-20251023.htm","https://www.ntu.edu.sg/news/detail/alumnus-tan-lip-bu-takes-on-new-role-as-ceo-of-intel-corporation","https://www.cmu.edu/news/stories/archives/2025/april/carnegie-mellon-university-announces-2025-honorary-degree-recipients","https://www.ntu.edu.sg/alumni/alumni-stories-news/detail/venture-capitalist-tan-lip-bu-kickstarts-ntu-sgd50-million-venture-capital-fund-with-sgd5-million-investment","https://www.usfca.edu/news/spring-2022-commencement","https://www.usfca.edu/who-we-are/president-leadership/board-trustees/emeritae/members","https://myusf.usfca.edu/president/committees-commissions/honorary-degree-commission/past-recipients","https://www.se.com/ww/fr/about-us/company-profile/corporate-governance/board-of-directors/","https://www.se.com/ww/en/assets/564/document/27850/lip-bu-tan-biography.pdf"],"tags":["#人物","#公司治理","#风险投资","#半导体"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 # Lip-Bu Tan
@@ -22,7 +22,7 @@ Lip-Bu Tan（陈立武、陳立武）是马来西亚出生、长期在美国公�
 | 2009-01–2017-11 | Cadence | CEO、President | 2017 年后不再兼任 President |
 | 2017-11–2021-12-15 | Cadence | CEO | 2021 年 12 月完成 CEO 交接 |
 | 2021-12-15–2023-05-04 | Cadence | Executive Chair | 协议约定其离任后预计以非高管雇员身份继续至 2024-03-31；未找到事后文件确认该安排完整执行，也未找到当前顾问任职的一手证据 |
-| 2013–至今 | [[Celesta Capital\|Celesta Capital]] | 创始管理合伙人 | 官网进一步称其为 Funds I、II、III 的 General Partner；这不等于个人持有全部组合公司 |
+| 2013–至今 | [[Celesta Capital\|Celesta Capital]] | 创始管理合伙人 | 官网进一步称其为 Funds I、II、III 的 General Partner；2026-06 Form ADV 未把他列为 MNS Global Capital Managers 的直接所有人或控制人，两类角色不能合并 |
 | 2021–至今 | [[Walden Catalyst Ventures\|Walden Catalyst Ventures]] | 创始管理合伙人 | 机构称谓不能与 Walden International 互作 alias |
 | 2022-09–2024-08 | Intel | 董事 | 已结束的首段任期 |
 | 2025-03-18–至今 | Intel | CEO、董事 | 向董事会汇报，并非 Intel 董事长 |
@@ -32,6 +32,8 @@ Cadence 的历史业绩改善常见于公司人物简介，属于任职公司对
 ## 投资机构与关联交易
 
 Tan 的风险投资角色主要通过 Walden International、Celesta Capital 与 Walden Catalyst Ventures 等机构实现。具体证券通常由基金、GP、管理公司或其他载体持有；“由其创办／管理的机构投资”不等于 Tan 个人直接持股，也不能把基金管理规模当作个人净资产。
+
+Celesta 官网在 2026-08-11 仍列 Tan 为 Founding Managing Partner；但该品牌当前使用的投资顾问法律主体是 MNS Global Capital Managers, LLC，2026-06-25 Form ADV 的 Schedule A 只列 Sriram Viswanathan、Michael Marks 与 Nicholas Brathwaite 为直接所有人和控制人。该监管快照没有否定 Tan 的品牌管理职务，但不足以把他写成 MNS 当前股东或控制人。
 
 Intel 2026 proxy 披露，自 2025 年起，Intel Capital 与文件中统称“Walden”的 Tan 关联机构在四家匿名公司出现重叠投资。[[2025-2026 Intel与Walden关联方共同投资\|2025-2026 Intel与Walden关联方共同投资]]记录这些 Item 404 关联交易及审计委员会审阅批准，但 Company A、B、C、D 的真实名称没有公开，不能依据行业、融资金额、Tan 的董事职务或投资组合猜名。关联披露可以证明重叠投资与治理程序，不能单凭披露本身推出违法、利益输送或 Intel 已控制相关公司。
 
@@ -96,6 +98,7 @@ Intel 2025 Summary Compensation Table 列 Tan 总薪酬 9,299.09 万美元，其
 - [Cadence 2023 Proxy Statement](https://www.sec.gov/Archives/edgar/data/813672/000119312523076688/d447637ddef14a.htm)
 - [Walden Catalyst 人物页](https://waldencatalyst.com/people/lip-bu-tan)
 - [Celesta 人物页](https://www.celesta.vc/people/lip-bu-tan)
+- [Celesta／MNS 2026-06-25 Form ADV](https://reports.adviserinfo.sec.gov/reports/ADV/310575/PDF/310575.pdf)
 - [Credo 2025-10-23 8-K](https://www.sec.gov/Archives/edgar/data/1807794/000162828025046890/crdo-20251023.htm)
 - [Schneider Electric 2026 年股东大会后董事会（法文官方页）](https://www.se.com/ww/fr/about-us/company-profile/corporate-governance/board-of-directors/)
 - [Schneider Electric 董事会委员会](https://www.se.com/ww/en/about-us/company-profile/corporate-governance/study-committees/)
