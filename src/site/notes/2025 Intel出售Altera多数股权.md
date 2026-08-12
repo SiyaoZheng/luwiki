@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2025 Intel出售Altera多数股权/","title":"2025 Intel出售Altera多数股权","tags":["#Intel","#Altera","#Silver-Lake","#divestiture","#semiconductor"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"2025 Intel出售Altera多数股权","tags":["#Intel","#Altera","#Silver-Lake","#divestiture","#semiconductor"],"sources":["raw/2026-08-11-Intel出售Altera多数股权交易核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/2025 Intel出售Altera多数股权/","title":"2025 Intel出售Altera多数股权","tags":["Intel","Altera","Silver-Lake","divestiture","semiconductor"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"2025 Intel出售Altera多数股权","tags":["Intel","Altera","Silver-Lake","divestiture","semiconductor"],"sources":["raw/2026-08-11-Intel出售Altera多数股权交易核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/GitHub Enterprise/","title":"GitHub Enterprise","tags":["#产品","#企业软件","#订阅","#开发者平台","#Microsoft生态"],"created":"2026-08-12","updated":"2026-08-12","dg-note-properties":{"status":"processed","title":"GitHub Enterprise","aliases":["GHE","GHE Unified"],"source_count":24,"sources":["raw/2026-08-12-GitHub-Enterprise产品定价合同渠道与客户核验.md","https://github.com/pricing","https://docs.github.com/en/get-started/learning-about-github/githubs-plans","https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-enterprise-cloud","https://docs.github.com/en/billing/concepts/enterprise-billing/combined-enterprise-use","https://docs.github.com/en/billing/concepts/enterprise-billing/usage-based-licenses","https://docs.github.com/en/billing/reference/github-license-users","https://docs.github.com/en/enterprise-cloud@latest/billing/reference/product-usage-included","https://docs.github.com/en/enterprise-cloud@latest/billing/get-started/how-billing-works","https://docs.github.com/en/billing/concepts/azure-subscriptions","https://github.com/customer-terms","https://github.com/customer-terms/general-terms","https://github.com/customer-terms/github-enterprise-cloud-product-specific-terms","https://github.com/customer-terms/github-data-protection-agreement","https://github.com/customer-terms/github-online-services-sla","https://github.com/customer-terms/updates","https://www.microsoft.com/licensing/terms/en-US/productoffering/GitHubOfferings/MCA","https://learn.microsoft.com/en-us/visualstudio/subscriptions/access-github","https://www.contractsfinder.service.gov.uk/Notice/Attachment/4f5612c1-0e02-47b3-8b47-41dbcb55d74a","https://github.com/resources/insights/wayfair-enterprise-scale-migration","https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm","https://about.gitlab.com/pricing/","https://www.atlassian.com/software/bitbucket/pricing","https://github.com/customer-stories?type=enterprise"],"tags":["#产品","#企业软件","#订阅","#开发者平台","#Microsoft生态"],"created":"2026-08-12","updated":"2026-08-12"}}
+{"dg-publish":true,"permalink":"/GitHub Enterprise/","title":"GitHub Enterprise","tags":["产品","企业软件","订阅","开发者平台","Microsoft生态"],"created":"2026-08-12","updated":"2026-08-12","dg-note-properties":{"status":"processed","title":"GitHub Enterprise","aliases":["GHE"],"source_count":25,"sources":["raw/2026-08-12-GitHub-Enterprise产品定价合同渠道与客户核验.md","https://github.com/pricing","https://docs.github.com/en/get-started/learning-about-github/githubs-plans","https://docs.github.com/en/enterprise-cloud@latest/admin/overview/about-github-enterprise-cloud","https://docs.github.com/en/billing/concepts/enterprise-billing/combined-enterprise-use","https://docs.github.com/en/billing/concepts/enterprise-billing/usage-based-licenses","https://docs.github.com/en/billing/reference/github-license-users","https://docs.github.com/en/enterprise-cloud@latest/billing/reference/product-usage-included","https://docs.github.com/en/enterprise-cloud@latest/billing/get-started/how-billing-works","https://docs.github.com/en/billing/concepts/azure-subscriptions","https://github.com/customer-terms","https://github.com/customer-terms/general-terms","https://github.com/customer-terms/github-enterprise-cloud-product-specific-terms","https://github.com/customer-terms/github-data-protection-agreement","https://github.com/customer-terms/github-online-services-sla","https://github.com/customer-terms/updates","https://www.microsoft.com/licensing/terms/productoffering/GitHubOfferings/allprograms","https://learn.microsoft.com/en-us/visualstudio/subscriptions/access-github","https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/github-pre-purchase","https://www.contractsfinder.service.gov.uk/Notice/Attachment/4f5612c1-0e02-47b3-8b47-41dbcb55d74a","https://github.com/resources/insights/wayfair-enterprise-scale-migration","https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm","https://about.gitlab.com/pricing/","https://www.atlassian.com/software/bitbucket/pricing","https://github.com/customer-stories?type=enterprise"],"tags":["产品","企业软件","订阅","开发者平台","Microsoft生态"],"created":"2026-08-12","updated":"2026-08-12"}}
 ---
 
 <!-- issue: luwiki-lzdm -->
@@ -13,7 +13,7 @@ GitHub Enterprise 是 [[GitHub\|GitHub, Inc.]] 面向组织销售的企业级订
 | 层级 | 商业对象 | 运营与许可边界 |
 |---|---|---|
 | 企业计划 | GitHub Enterprise | 包含企业账户、集中治理与企业许可；当前资料也称组合许可为 GHE Unified |
-| 托管产品 | [[GitHub Enterprise Cloud\|GitHub Enterprise Cloud]] | GitHub 托管的多租户 SaaS，公开定价页称运行于 [[Microsoft Azure\|Microsoft Azure]]；Azure 是承载基础设施，不等于每名客户都经 Microsoft 采购 |
+| 托管产品 | [[GitHub Enterprise Cloud\|GitHub Enterprise Cloud]] | GitHub 托管的云服务／部署选项，公开定价页称运行于 [[Microsoft Azure\|Microsoft Azure]]；Azure 是承载基础设施，不等于每名客户都经 Microsoft 采购 |
 | 自主管理产品 | [[GitHub Enterprise Server\|GitHub Enterprise Server]] | 客户运营的软件产品；同一 Enterprise 计划可赋予使用权，但客户仍承担自身基础设施与运营成本 |
 
 usage-based 模式按云端实际消费许可证的唯一用户计费，并赋予相应用户 Server 使用权；传统 volume／subscription 的 GHE Unified 则把 Cloud 与 Server 组合为固定数量许可。跨部署去重依赖许可证同步及账户匹配，不能概括成“任意多个环境永远只计一个席位”。
@@ -34,12 +34,14 @@ usage-based 模式按云端实际消费许可证的唯一用户计费，并赋�
 
 | 路径 | 合同／付款结构 | 不能推出 |
 |---|---|---|
-| GitHub 直采 | 标准 [[GitHub Customer Agreement\|GitHub Customer Agreement]] 由 General Terms、产品专项条款与订单组成，标准文本中的供应方为 GitHub, Inc. | 实际订单一定没有折扣、地区主体或谈判条款 |
+| GitHub 直采 | 标准 GitHub Customer Agreement 由 General Terms、产品专项条款与订单组成，标准文本中的供应方为 GitHub, Inc. | 实际订单一定没有折扣、地区主体或谈判条款 |
 | Microsoft 量采 | 经 [[微软\|Microsoft]] agreement 采购时，适用 Microsoft agreement 与 GitHub Offerings Product Terms；GitHub 的 GCA General Terms 不适用 | 所有地区合同方都是 Microsoft Corporation，或 Microsoft 取代 GitHub 提供产品支持 |
 | Azure 计费连接 | 企业账户可连接 [[Microsoft Azure\|Microsoft Azure]] subscription，使 metered usage 进入 Azure 账单；基础 plan charges 仍可能按 GitHub 原账期收费 | Azure 发票等于基础许可经 Marketplace 购买，或 GitHub, Inc. 不再是产品运营方 |
 | 组合采购 | [[Visual Studio订阅与GitHub Enterprise组合\|Visual Studio订阅与GitHub Enterprise组合]] 是符合条件的 Microsoft Enterprise Agreement 客户可购买的特殊组合 | 每个 GitHub Enterprise 客户都拥有 Visual Studio 订阅 |
 
 这四条路径可以在同一客户关系中组合，却不是同一个法律或结算事实。尤其应分别核对订单、地区、许可计划、账单账户与 Azure subscription，不能统称为“Azure Marketplace 采购”。
+
+[[GitHub Pre-Purchase Plan\|GitHub Pre-Purchase Plan]] 是另一项具体商业计划：客户可通过 Azure 预购一年期 GitHub commit units，用折扣额度抵扣符合条件的 GitHub 用量，覆盖范围可包含 Enterprise、Copilot、Advanced Security、Actions、Codespaces、Packages 与 LFS 等。它是预付用量安排，不等于基础许可已由 Azure Marketplace 转售；未用完额度、自动续期、适用范围与现有折扣也须按实际购买记录核验。
 
 ## DPA、SLA 与支持边界
 
@@ -77,7 +79,6 @@ Microsoft FY2026 Form 10-K 把 GitHub cloud services 纳入 “Azure and other c
 - [[GitHub\|GitHub]]
 - [[GitHub Enterprise Cloud\|GitHub Enterprise Cloud]]
 - [[GitHub Enterprise Server\|GitHub Enterprise Server]]
-- [[GitHub Customer Agreement\|GitHub Customer Agreement]]
 - [[Microsoft Azure\|Microsoft Azure]]
 - [[Visual Studio订阅与GitHub Enterprise组合\|Visual Studio订阅与GitHub Enterprise组合]]
 - [[GitHub Pre-Purchase Plan\|GitHub Pre-Purchase Plan]]

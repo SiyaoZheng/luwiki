@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AgiBot World/","title":"AgiBot World","tags":["人形机器人","机器人数据集","双臂操作","LeRobot"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"AgiBot World","tags":["人形机器人","机器人数据集","双臂操作","LeRobot"],"sources":["raw/2026-08-10-开放机器人学习数据集与格式基线.md","https://arxiv.org/abs/2503.06669","https://github.com/OpenDriveLab/AgiBot-World","https://huggingface.co/datasets/agibot-world/AgiBotWorld2026","https://agibot-world.com/challenge2026"],"created":"2026-08-10","updated":"2026-08-10","source_count":5}}
+{"dg-publish":true,"permalink":"/AgiBot World/","title":"AgiBot World","tags":["人形机器人","机器人数据集","双臂操作","LeRobot"],"created":"2026-08-10","updated":"2026-08-12","dg-note-properties":{"status":"processed","title":"AgiBot World","tags":["人形机器人","机器人数据集","双臂操作","LeRobot"],"sources":["raw/2026-08-10-开放机器人学习数据集与格式基线.md","https://arxiv.org/abs/2503.06669","https://github.com/OpenDriveLab/AgiBot-World","https://huggingface.co/datasets/agibot-world/AgiBotWorld2026","https://agibot-world.com/challenge2026","raw/2026-08-12-中国具身智能商业实体法律主体数据产品融资与采用核验.md","https://www.agibot.com.cn/article/315/detail/148.html","https://www.agibot.com/article/231/detail/72.html"],"created":"2026-08-10","updated":"2026-08-12","source_count":8}}
 ---
 
 # AgiBot World
@@ -49,4 +49,15 @@ GO-1 作者团队报告相对其他数据或模型基线的成功率增益。Int
 - [AgiBot World Colosseo 论文](https://arxiv.org/abs/2503.06669)
 - [Alpha/Beta 仓库与 manifest](https://github.com/OpenDriveLab/AgiBot-World)
 - [AgiBot World 2026 数据卡](https://huggingface.co/datasets/agibot-world/AgiBotWorld2026)
+- [AGIBOT WORLD 2026 Theme 1 官方发布](https://www.agibot.com.cn/article/315/detail/148.html)
+- [AGIBOT WORLD 2026 Theme 2 官方发布](https://www.agibot.com/article/231/detail/72.html)
 - [ICRA 2026 Challenge](https://agibot-world.com/challenge2026)
+
+
+## 2026-08-12 运营主体、版本与采用补证
+
+AgiBot World 由 [[智元创新（上海）科技股份有限公司\|智元创新（上海）科技股份有限公司]] 以 [[智元机器人\|智元机器人]] 品牌推动，并在 2024 年与多家机构联合发布；项目合作不等于共同股权、共同运营或产权分配。Theme 1 于 2026-04-07 发布，Theme 2 于 2026-06-03 发布；当前数据卡约 12.8 TB，未公布与 Beta 同口径的百万轨迹或小时总量。
+
+Beta 与 2026 数据卡均标注 CC BY-NC-SA 4.0，且 Hugging Face 页面存在联系信息门控，因此“开放”不等于允许商用、匿名无条件访问或放弃权利。ICRA 官网确认 2026 AgiBot World Challenge；526 支团队与 27 国是主办方统计，不等于客户、付费采用或完全独立复现。智元机器人整机下线和龙旗产线验证也不能反推使用 AgiBot World。
+
+证据：原始资料快照（本地归档）。

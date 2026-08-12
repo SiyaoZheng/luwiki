@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sundar Pichai/","title":"Sundar Pichai","tags":["#商业人物","#公司治理","#管理层","#Alphabet"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Sundar Pichai","tags":["#商业人物","#公司治理","#管理层","#Alphabet"],"sources":["raw/2026-08-11-Sundar-Pichai商业角色治理与职业网络核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Sundar Pichai/","title":"Sundar Pichai","tags":["商业人物","公司治理","管理层","Alphabet"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Sundar Pichai","tags":["商业人物","公司治理","管理层","Alphabet"],"sources":["raw/2026-08-11-Sundar-Pichai商业角色治理与职业网络核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 # Sundar Pichai

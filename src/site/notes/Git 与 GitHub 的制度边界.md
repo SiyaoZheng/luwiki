@@ -21,7 +21,7 @@
 
 GitHub, Inc. 是平台运营和直接签约的公司主体；Microsoft 是其母公司，也可能成为企业客户的采购合同相对方。[[GitHub Enterprise\|GitHub Enterprise]] 则是面向组织客户的产品组合，不是另一家名为“GitHub Enterprise”的公司。2026-08-11 的官方定价与企业计费页显示，这一产品按独立用户许可证计费，并可叠加使用量、Copilot、Advanced Security 等附加产品；公开价格只是访问日标价，不能代替具体企业合同或 GitHub 的财务报表。
 
-企业客户直接向 GitHub 采购时，基础协议是 [[GitHub Customer Agreement\|GitHub Customer Agreement]]；经 Microsoft 采购时，GitHub 官方客户条款明确改由 Microsoft 协议适用。产品专用条款、数据处理协议、SLA、专业服务与其他附加条款再按购买内容叠加。因而，母公司、运营公司、产品品牌、合同文件、付款渠道和客户组织必须分别识别，不能把它们都叫作“GitHub”。
+企业客户直接向 GitHub 采购时，基础协议是 GitHub Customer Agreement；经 Microsoft 采购时，GitHub 官方客户条款明确改由 Microsoft 协议适用。产品专用条款、数据处理协议、SLA、专业服务与其他附加条款再按购买内容叠加。因而，母公司、运营公司、产品品牌、合同文件、付款渠道和客户组织必须分别识别，不能把它们都叫作“GitHub”。
 
 Microsoft FY2025 年报把 GitHub cloud services 放在 Intelligent Cloud 的 “Azure and other cloud services” 合并类别中，并未把 GitHub 列成单独的可报告分部或单列收入。财务合并说明 Microsoft 的母公司控制，却不会消灭 GitHub, Inc. 作为合同主体的身份；同样，合并类别的收入也不能反推 GitHub 单体收入或利润。
 
@@ -97,7 +97,7 @@ GitHub 自己的许可说明进一步区分：公开仓库可以被查看和在�
 - [[GitHub\|GitHub]]
 - [[GitHub Enterprise\|GitHub Enterprise]]
 - [[GitHub Marketplace\|GitHub Marketplace]]
-- [[GitHub Customer Agreement\|GitHub Customer Agreement]]
+- GitHub Customer Agreement
 - [[微软\|微软]]
 - [[Software Freedom Conservancy\|Software Freedom Conservancy]]
 - [[Git Project Leadership Committee\|Git Project Leadership Committee]]

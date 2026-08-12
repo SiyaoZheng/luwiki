@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/OriginFlow/","title":"OriginFlow","tags":["公司","具身智能","神经肌电","机器人数据","数据基础设施"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"OriginFlow","aliases":["渊澈太初","北京渊澈太初智能科技有限公司"],"source_count":9,"sources":["raw/2026-08-07-luyao-b001-02-首发-投资人开抢一位清华00后-fdd0c43d.md","raw/2026-08-09-originflow-官网与产品.md","raw/2026-08-09-originflow-工商主体记录.md","raw/2026-08-09-普华资本-OriginFlow融资公告.md","raw/2026-08-09-高鹄资本-OriginFlow交易公告.md","raw/2026-08-09-秦深涛高校与创业公开记录.md","raw/2026-08-09-渊澈太初公开专利申请.md","raw/2026-08-09-联想新视界与渊澈太初合作.md","raw/2026-08-10-未决问题-OriginFlow身份补证-batch-007.md"],"tags":["公司","具身智能","神经肌电","机器人数据","数据基础设施"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/OriginFlow/","title":"OriginFlow","tags":["公司","具身智能","神经肌电","机器人数据","数据基础设施"],"created":"2026-08-07","updated":"2026-08-12","dg-note-properties":{"status":"processed","title":"OriginFlow","aliases":["渊澈太初"],"source_count":11,"sources":["raw/2026-08-07-luyao-b001-02-首发-投资人开抢一位清华00后-fdd0c43d.md","raw/2026-08-09-originflow-官网与产品.md","raw/2026-08-09-originflow-工商主体记录.md","raw/2026-08-09-普华资本-OriginFlow融资公告.md","raw/2026-08-09-高鹄资本-OriginFlow交易公告.md","raw/2026-08-09-秦深涛高校与创业公开记录.md","raw/2026-08-09-渊澈太初公开专利申请.md","raw/2026-08-09-联想新视界与渊澈太初合作.md","raw/2026-08-10-未决问题-OriginFlow身份补证-batch-007.md","raw/2026-08-12-中国具身智能商业实体法律主体数据产品融资与采用核验.md","raw/2026-08-12-Origin-Data产品许可客户与交付核验.md"],"tags":["公司","具身智能","神经肌电","机器人数据","数据基础设施"],"created":"2026-08-07","updated":"2026-08-12"}}
 ---
 
 # OriginFlow
@@ -173,3 +173,21 @@ Origin Data 面向采集后的质量检查、多模态时间对齐、标注、�
 - 原始资料快照（本地归档）
 - 原始资料快照（本地归档）
 - 原始资料快照（本地归档）
+
+
+## 2026-08-12 品牌、法人、产品与合作分层
+
+OriginFlow／渊澈太初是品牌；第三方工商快照把运营主体指向 [[北京渊澈太初智能科技有限公司\|北京渊澈太初智能科技有限公司]]，而官网条款未明确运营法人，因此两者不再互作 alias，成立日、股权和法定代表人继续保留来源及时点。
+
+官网当前可直接确认的具名产品是 [[Origin Kit\|Origin Kit]] 与 [[Origin Data\|Origin Data]]：前者是神经肌电腕带、第一视角设备与控制单元构成的采集硬件；后者覆盖质检、多模态对齐、标注、存储与数据集交付。它们是产品定义，不是已售数量、公开数据规模或客户验收。NeuroScale 是公司命名的数据范式，PULSE 仍主要见于投资方材料，暂不作为独立商业产品节点。
+
+三轮累计融资超过 5 亿元，不等于 Pre-A1 单轮金额。[[2026 OriginFlow与联想新视界战略合作\|2026 OriginFlow与联想新视界战略合作]] 只证明双方签署围绕数据采集、模型训练与工业场景的合作协议，不证明采购、部署或收入。
+
+证据：原始资料快照（本地归档）。
+
+
+## 2026-08-12 Origin Data 许可、合作与交付补证
+
+官网已把 [[Origin Data\|Origin Data]] 作为采集后质检、跨模态对齐、标注、存储与数据集交付方案公开列出，但采购入口仍只有 demo 接洽。独立现场报道确认百度云为公司提供云资源、云存储及数据采集、后处理和模型训练支持；这是一条公司级基础设施合作关系，不证明百度是 Origin Data 买方。联想合作、百度支持、WAIC 现场演示与媒体场景叙事均未提供 Origin Data 订单、公开价格、专项许可、客户验收或收入证据。
+
+通用 Terms 与 Privacy Policy 仍不能替代具体数据项目的 order form、数据许可、DPA 或参与者规则；详见 原始资料快照（本地归档）。

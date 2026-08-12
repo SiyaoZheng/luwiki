@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/GitHub/","title":"GitHub","tags":["#公司","#平台","#开源生态","#企业软件","#内容治理"],"created":"2026-08-11","updated":"2026-08-12","dg-note-properties":{"status":"processed","title":"GitHub","aliases":["GitHub, Inc.","GitHub.com"],"source_count":9,"sources":["raw/2026-08-11-GitHub公司身份平台治理与内容权利核验.md","raw/2026-08-12-GitHub-Marketplace商业主体交易分发与责任核验.md","https://github.com/about/press","https://docs.github.com/en/site-policy/github-terms/github-terms-of-service","https://github.com/pricing","https://www.sec.gov/Archives/edgar/data/789019/000156459019027952/msft-10k_20190630.htm","https://www.microsoft.com/investor/reports/ar25/index.html","https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32018M8994","https://www.eff.org/wp/who-has-your-back-2019"],"tags":["#公司","#平台","#开源生态","#企业软件","#内容治理"],"created":"2026-08-11","updated":"2026-08-12"}}
+{"dg-publish":true,"permalink":"/GitHub/","title":"GitHub","tags":["公司","平台","开源生态","企业软件","内容治理"],"created":"2026-08-11","updated":"2026-08-12","dg-note-properties":{"status":"processed","title":"GitHub","aliases":["GitHub, Inc.","GitHub.com"],"source_count":9,"sources":["raw/2026-08-11-GitHub公司身份平台治理与内容权利核验.md","raw/2026-08-12-GitHub-Marketplace商业主体交易分发与责任核验.md","https://github.com/about/press","https://docs.github.com/en/site-policy/github-terms/github-terms-of-service","https://github.com/pricing","https://www.sec.gov/Archives/edgar/data/789019/000156459019027952/msft-10k_20190630.htm","https://www.microsoft.com/investor/reports/ar25/index.html","https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32018M8994","https://www.eff.org/wp/who-has-your-back-2019"],"tags":["公司","平台","开源生态","企业软件","内容治理"],"created":"2026-08-11","updated":"2026-08-12"}}
 ---
 
 # GitHub
@@ -38,7 +38,7 @@ GitHub 的产品组合可按实体和付费关系分层：
 - **AI 产品**：[[GitHub Copilot\|GitHub Copilot]] 采用个人、组织与企业席位，并逐步加入额度／用量计费。公开订户和组织数是采用指标，不能乘以标价当作收入。
 - **第三方交易与分发**：[[GitHub Marketplace\|GitHub Marketplace]] 同时承载 GitHub 自有和第三方产品。现行开发者协议把 GitHub 定义为经平台购买产品的 merchant of record；第三方提供者以美元设价，GitHub 汇出售价的 95%并保留5%。客户向 GitHub 付款，但产品使用权、支持与主要产品责任仍来自提供者；该规则不披露 Marketplace GMV 或平台独立收入。
 - **开源资金连接**：[[GitHub Sponsors\|GitHub Sponsors]] 把资助者与维护者连接起来，是开发者生态产品；本轮没有证据把它写成 GitHub 的主要收入线。
-- **附加订阅与用量**：账单资料把收入路径区分为固定计划／席位、附加订阅和超出包含额度的用量；付款可经银行卡、PayPal、采购订单或连接的 Azure subscription。支付通道和 Microsoft volume licensing 的可用性不等于所有产品强制捆绑；企业合同主体、顺位和产品附加条款另见 [[GitHub Customer Agreement\|GitHub Customer Agreement]]。
+- **附加订阅与用量**：账单资料把收入路径区分为固定计划／席位、附加订阅和超出包含额度的用量；付款可经银行卡、PayPal、采购订单或连接的 Azure subscription。支付通道和 Microsoft volume licensing 的可用性不等于所有产品强制捆绑；企业合同主体、顺位和产品附加条款另见 GitHub Customer Agreement。
 
 官方价格页和客户材料展示 American Airlines、SAP、Spotify、Stripe、Ford、Nubank、Siemens 等企业案例。它们是经过选择的客户故事，不是完整或具有代表性的客户名录，也不披露合同金额、续约或效果。Microsoft FY2026 Q2 在 GitHub Copilot 语境下披露超过 470 万付费订户；Q3 称近 14 万组织使用 Copilot、enterprise subscribers 同比接近三倍。两组都是管理层时点口径，不是 GitHub 总客户数或单体财务报表。
 
