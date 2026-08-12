@@ -65,7 +65,7 @@ Sony Group FY2025 Form 20-F 披露 ET&S 分部（集团合并口径）截至 202
 
 ## 待完成的家庭娱乐合资安排
 
-2026-03-31，Sony Corporation 与 TCL Electronics Holdings Limited 签署确定协议，拟组建 BRAVIA Inc.，由 TCL 持有 51%、Sony 持有 49%，并预计在满足完成条件后于 2027 年 4 月开始运营。[[2026 Sony与TCL组建BRAVIA家庭娱乐合资企业\|2026 Sony与TCL组建BRAVIA家庭娱乐合资企业]] 记录这项尚未完成的安排。截至 2026-08-12，SEL 仍在美国发布和销售 BRAVIA 产品；公开文件没有说明 SEL 将如何重组，因此不能推定该安排已经完成、已改变 SEL 所有权或当前业务范围。
+2026-03-31，Sony Corporation 与 TCL Electronics 体系签署家庭娱乐合资确定协议；直接认购方是 TTE Corporation，TCL Electronics Holdings Limited 是其上市母体与保证方。满足完成条件后，TTE 拟持筹备公司 51%、Sony 保留 49%，预计 2027 年 4 月开始运营。[[2026 Sony与TCL组建BRAVIA家庭娱乐合资企业\|2026 Sony与TCL组建BRAVIA家庭娱乐合资企业]] 记录这项尚未完成的安排。截至 2026-08-12，SEL 仍在美国发布和销售 BRAVIA 产品；公开文件没有说明 SEL 将如何重组，因此不能推定该安排已经完成、已改变 SEL 所有权或当前业务范围。
 
 ## 时间线
 
@@ -77,7 +77,7 @@ Sony Group FY2025 Form 20-F 披露 ET&S 分部（集团合并口径）截至 202
 | 2021-04-01 | Neal Manowitz 获任 Sony Electronics 北美业务 President and COO | 任命时点；不是 2026 完整现任管理层表 |
 | 2025-01 | Sony 官方 CES 材料仍将 Neal Manowitz 列为 SEL President and COO | 仅为当时职务快照 |
 | 2026-02 | 公司披露其影像与音频技术参与 Super Bowl LX | 公司来源，不能推断商业金额或排他 |
-| 2026-03-31 | Sony Corporation 与 TCL Electronics 签署家庭娱乐合资确定协议 | 尚待条件完成；没有披露 SEL 重组 |
+| 2026-03-31 | Sony Corporation 与 TCL Electronics 体系签署家庭娱乐合资确定协议；直接认购方为 TTE Corporation | 尚待条件完成；没有披露 SEL 重组 |
 | 2026-06 | InfoComm 发布材料重申 SEL 为 SCA 子公司及 Sony Group 关联公司，并展示专业 AV 组合 | 支持当前组织关系和产品角色，不等于完整工商登记或全球产品清单 |
 | 2026-06-23 | 美国直营销售条款修订 | 只适用于该条款定义的美国购买链 |
 
