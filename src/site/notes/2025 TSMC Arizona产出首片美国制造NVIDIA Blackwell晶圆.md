@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/2025 TSMC Arizona产出首片美国制造NVIDIA Blackwell晶圆/","title":"2025 TSMC Arizona产出首片美国制造NVIDIA Blackwell晶圆","tags":["TSMC","NVIDIA","Blackwell","semiconductor-manufacturing","Arizona"],"created":"2026-08-12","updated":"2026-08-12","dg-note-properties":{"status":"processed","title":"2025 TSMC Arizona产出首片美国制造NVIDIA Blackwell晶圆","tags":["TSMC","NVIDIA","Blackwell","semiconductor-manufacturing","Arizona"],"sources":["raw/2026-08-12-TSMC-Arizona首片美国制造NVIDIA-Blackwell晶圆核验.md","https://blogs.nvidia.com/blog/tsmc-blackwell-manufacturing/","https://blogs.nvidia.com/blog/nvidia-manufacture-american-made-ai-supercomputers-us/","https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm","https://www.investing.com/news/stock-market-news/nvidia-and-tsmc-unveil-first-blackwell-chip-wafer-made-in-us-axios-reports-4295447","https://www.axios.com/2025/10/17/nvidia-tsmc-blackwell-wafer-arizona","https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm","https://www.linkedin.com/posts/tsmc_from-groundbreaking-to-game-changing-nvidia-activity-7385118370595180544-g7sC"],"created":"2026-08-12","updated":"2026-08-12"}}
+{"dg-publish":true,"permalink":"/2025 TSMC Arizona产出首片美国制造NVIDIA Blackwell晶圆/","title":"2025 TSMC Arizona产出首片美国制造NVIDIA Blackwell晶圆","tags":["#TSMC","#NVIDIA","#Blackwell","#semiconductor-manufacturing","#Arizona"],"created":"2026-08-12","updated":"2026-08-12","dg-note-properties":{"status":"processed","title":"2025 TSMC Arizona产出首片美国制造NVIDIA Blackwell晶圆","tags":["#TSMC","#NVIDIA","#Blackwell","#semiconductor-manufacturing","#Arizona"],"sources":["raw/2026-08-12-TSMC-Arizona首片美国制造NVIDIA-Blackwell晶圆核验.md","https://blogs.nvidia.com/blog/tsmc-blackwell-manufacturing/","https://blogs.nvidia.com/blog/nvidia-manufacture-american-made-ai-supercomputers-us/","https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm","https://www.investing.com/news/stock-market-news/nvidia-and-tsmc-unveil-first-blackwell-chip-wafer-made-in-us-axios-reports-4295447","https://www.axios.com/2025/10/17/nvidia-tsmc-blackwell-wafer-arizona","https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm","https://www.linkedin.com/posts/tsmc_from-groundbreaking-to-game-changing-nvidia-activity-7385118370595180544-g7sC"],"created":"2026-08-12","updated":"2026-08-12"}}
 ---
 
 <!-- issue: luwiki-dgasd -->
 # 2025 TSMC Arizona产出首片美国制造NVIDIA Blackwell晶圆
 
-2025年10月17日，[[NVIDIA\|NVIDIA]]与[[Taiwan Semiconductor Manufacturing Company Limited\|TSMC]]在[[TSMC Arizona Corporation\|TSMC Arizona Corporation]]位于Phoenix的[[TSMC Fab 21\|TSMC Fab 21]]公开庆祝首片在美国生产的[[NVIDIA Blackwell\|NVIDIA Blackwell]]晶圆。NVIDIA称这项里程碑代表Blackwell在当地达到volume production；Reuters同日转述Axios对这一公开事件的报道；两者并非相互独立的两条新闻源。
+2025年10月17日，[[NVIDIA\|NVIDIA]]与[[Taiwan Semiconductor Manufacturing Company Limited\|TSMC]]在[[TSMC Arizona Corporation\|TSMC Arizona Corporation]]位于Phoenix的[[TSMC Fab 21\|TSMC Fab 21]]公开庆祝首片在美国生产的[[NVIDIA Blackwell\|NVIDIA Blackwell]]晶圆。NVIDIA称这项里程碑代表Blackwell在当地达到volume production；Reuters与Axios同日均报道这一公开事件；本页不把二者计作相互独立的两条原始制造证据。
 
 这是一项晶圆制造和具名客户产品／代工关系里程碑，不是完整成品GPU的美国交付证明。公开材料没有披露晶圆实际完工日、具体SKU与批次、Arizona专属产量和良率，也没有证明当天已经完成后续封装、测试、系统组装或客户验收。
 
@@ -43,7 +43,7 @@ TSMC监管文件和Arizona项目页把第一设施界定在N4／4纳米级制造
 
 ## “首片”与“量产”的证据范围
 
-“首片美国制造Blackwell晶圆”是NVIDIA与TSMC采用的公开里程碑标签；Reuters同日跟进并转述Axios对该事件的报道。现有证据没有提供可独立审计的晶圆序号、fab-out记录或实际完成时间。
+“首片美国制造Blackwell晶圆”是NVIDIA与TSMC采用的公开里程碑标签；Reuters与Axios同日均报道该公开事件，但都没有提供制造记录原件。现有证据没有提供可独立审计的晶圆序号、fab-out记录或实际完成时间。
 
 “达到volume production”是NVIDIA对Blackwell在当地状态的表述；TSMC的第一设施本身早在2024年第四季度已经进入高量产。因此：
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Taiwan Semiconductor Manufacturing Company Limited/","title":"Taiwan Semiconductor Manufacturing Company Limited","tags":["#商业实体","#上市公司","#半导体制造","#晶圆代工","#供应链"],"created":"2026-08-12","updated":"2026-08-12","dg-note-properties":{"status":"processed","title":"Taiwan Semiconductor Manufacturing Company Limited","aliases":["台灣積體電路製造股份有限公司","台积电","台積電","TSMC"],"source_count":21,"sources":["raw/2026-08-12-TSMC商业实体法律主体财务客户供应与全球产能核验.md","https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm","https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.E.pdf","https://investor.tsmc.com/english/fundamentals","https://investor.tsmc.com/english/board-of-directors","https://www.tsmc.com/english/aboutTSMC/executives","https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26e_withguidancexfinal.htm","https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-07/547d1696765e05ce3adb81c108ce1c8c1682b80c/TSMC%202Q26%20Transcript.pdf","https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm","https://blogs.nvidia.com/blog/tsmc-blackwell-manufacturing/","https://nvidianews.nvidia.com/news/nvidia-and-tsmc-bring-ai-into-fabs-to-advance-semiconductor-design-and-manufacturing","https://www.trendforce.com/presscenter/news/20260312-12965.html","https://www.tsmc.com/static/abouttsmcaz/index.htm","https://www.commerce.gov/news/press-releases/2024/11/biden-harris-administration-announces-chips-incentives-award-tsmc","https://pr.tsmc.com/english/news/3210","https://www.azcommerce.com/news-events/news/2026/7/tsmc-announcement/","https://pr.tsmc.com/english/news/3105","https://www.esmc.eu/en/who_we_are.html","https://digital-strategy.ec.europa.eu/en/news/commission-approves-eu5-billion-german-state-aid-measure-support-esmc-setting-new-semiconductor","https://www.meti.go.jp/speeches/kaiken/2022/20220617001.html","https://www.meti.go.jp/english/policy/0704_001.pdf"],"tags":["#商业实体","#上市公司","#半导体制造","#晶圆代工","#供应链"],"created":"2026-08-12","updated":"2026-08-12"}}
+{"dg-publish":true,"permalink":"/Taiwan Semiconductor Manufacturing Company Limited/","title":"Taiwan Semiconductor Manufacturing Company Limited","tags":["#商业实体","#上市公司","#半导体制造","#晶圆代工","#供应链"],"created":"2026-08-12","updated":"2026-08-12","dg-note-properties":{"status":"processed","title":"Taiwan Semiconductor Manufacturing Company Limited","aliases":["台灣積體電路製造股份有限公司","台积电","台積電","TSMC"],"source_count":23,"sources":["raw/2026-08-12-TSMC商业实体法律主体财务客户供应与全球产能核验.md","raw/2026-08-12-ESMC法律主体股权建设开放代工与德国资助核验.md","https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm","https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.E.pdf","https://investor.tsmc.com/english/fundamentals","https://investor.tsmc.com/english/board-of-directors","https://www.tsmc.com/english/aboutTSMC/executives","https://www.sec.gov/Archives/edgar/data/1046179/000104617926000451/a2q26e_withguidancexfinal.htm","https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-07/547d1696765e05ce3adb81c108ce1c8c1682b80c/TSMC%202Q26%20Transcript.pdf","https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm","https://blogs.nvidia.com/blog/tsmc-blackwell-manufacturing/","https://nvidianews.nvidia.com/news/nvidia-and-tsmc-bring-ai-into-fabs-to-advance-semiconductor-design-and-manufacturing","https://www.trendforce.com/presscenter/news/20260312-12965.html","https://www.tsmc.com/static/abouttsmcaz/index.htm","https://www.commerce.gov/news/press-releases/2024/11/biden-harris-administration-announces-chips-incentives-award-tsmc","https://pr.tsmc.com/english/news/3210","https://www.azcommerce.com/news-events/news/2026/7/tsmc-announcement/","https://pr.tsmc.com/english/news/3105","https://www.esmc.eu/en/who_we_are.html","https://www.sec.gov/Archives/edgar/data/1413447/000141344726000008/nxpi-20251231.htm","https://digital-strategy.ec.europa.eu/en/news/commission-approves-eu5-billion-german-state-aid-measure-support-esmc-setting-new-semiconductor","https://www.meti.go.jp/speeches/kaiken/2022/20220617001.html","https://www.meti.go.jp/english/policy/0704_001.pdf"],"tags":["#商业实体","#上市公司","#半导体制造","#晶圆代工","#供应链"],"created":"2026-08-12","updated":"2026-08-12"}}
 ---
 
 <!-- issue: luwiki-dkoa -->
@@ -42,9 +42,13 @@ TSMC 还披露 2025 年前三大采购供应方分别占采购额 26%、19% 与 
 
 ## NVIDIA 供应与合作关系
 
-[[NVIDIA与TSMC晶圆制造关系\|NVIDIA与TSMC晶圆制造关系]]承接两家公司之间的供应与制造合作。NVIDIA FY2026 10-K 把 TSMC 与 Samsung 并列为其使用的晶圆代工方示例，因而只支持 TSMC 是供应方之一，不支持独家、全部晶圆份额、价格、最低采购量或客户收入占比。
+[[NVIDIA与TSMC晶圆制造关系\|NVIDIA与TSMC晶圆制造关系]]承接两家公司自 1998 年延续的晶圆代工与先进封装合作。
 
-[[2025 TSMC Arizona产出首片美国制造NVIDIA Blackwell晶圆\|2025 TSMC Arizona产出首片美国制造NVIDIA Blackwell晶圆]]记录 Arizona Fab 1 的客户生产里程碑。NVIDIA 2025-10-17 公告支持首片美国制造 Blackwell 晶圆产出，但不能推出封装、测试和整颗芯片供应链已经全部在美国完成。NVIDIA 于 2026-05-31 又公告称双方在 TSMC 晶圆厂部署 NVIDIA 计算与 AI 工具，并引述 TSMC 管理层；相关效率和良率表述是交易方主张，不是独立审计结果。
+NVIDIA FY2026 10-K 把 TSMC 与 Samsung 并列为其使用的晶圆代工方示例，因而只支持 TSMC 是供应方之一；独家、全部晶圆份额、价格、最低采购量与客户收入占比仍未披露。
+
+[[2025 TSMC Arizona产出首片美国制造NVIDIA Blackwell晶圆\|2025 TSMC Arizona产出首片美国制造NVIDIA Blackwell晶圆]]记录 Arizona Fab 1 的客户生产里程碑。该公告支持首片美国制造 Blackwell 晶圆产出；封装、测试和整颗芯片供应链是否全部在美国完成仍未得到证明。
+
+[[2026 TSMC在晶圆厂采用NVIDIA计算与AI工具\|2026 TSMC在晶圆厂采用NVIDIA计算与AI工具]]记录 TSMC 作为 NVIDIA 产品使用方的反向商业关系。公告中的效率与良率表述仍是交易方主张，不是独立审计结果。
 
 TSMC 的 19%／17% 匿名大客户不能由上述公开合作倒填为 NVIDIA 或其他公司。
 
@@ -57,7 +61,7 @@ TSMC 的 19%／17% 匿名大客户不能由上述公开合作倒填为 NVIDIA �
 | [[TSMC China Company Limited\|TSMC China Company Limited]] | TSMC 100%；八英寸 Fab 10 自 2004 年末商业生产 | 与南京法律主体和工厂分开 |
 | [[TSMC Nanjing Company Limited\|TSMC Nanjing Company Limited]] | TSMC 100%；十二英寸 Fab 16 自 2018-04 商业生产 | 出口许可机制变化不等于工厂已经停产 |
 | [[Japan Advanced Semiconductor Manufacturing, Inc.\|Japan Advanced Semiconductor Manufacturing, Inc.]] | 合并子公司／JV；TSMC 截至 2026-02-28 持约 72.6%；第一厂 2024 年末量产 | 2024 公告预计 86.5% 的结构不能替代后续实际持股；第二厂 2025 年开始建设，尚未量产 |
-| [[European Semiconductor Manufacturing Company (ESMC) GmbH\|European Semiconductor Manufacturing Company (ESMC) GmbH]] | TSMC 70%，Bosch、Infineon、NXP Germany 各 10%；2024 开工 | 工具导入与 2029 满产均为未来目标，不能写成当前营收或产能 |
+| [[European Semiconductor Manufacturing Company (ESMC) GmbH\|European Semiconductor Manufacturing Company (ESMC) GmbH]] | TSMC 70%，Bosch、Infineon、NXP 集团各 10%；2024 开工，截至 2026-08-12 仍在建设 | 当前官网预期 2027 tool-in；NXP FY2025 10-K 将 initial production 目标更新为 2028，欧委会文件的 2029 是满产目标；NXP 一方当前直接登记载体仍待 2026-05-11 股东名册原文确认 |
 
 集团还持有其他合并子公司与少数权益。合并子公司、JV、associate、投资载体、工厂编号和 TSMC 品牌不能互作 alias；集团超过 1,700 万片十二英寸等效年产能也没有公开可复核的地区分配表。
 
@@ -65,7 +69,7 @@ TSMC 的 19%／17% 匿名大客户不能由上述公开合作倒填为 NVIDIA �
 
 [[2024 美国商务部向TSMC Arizona授予CHIPS激励\|2024 美国商务部向TSMC Arizona授予CHIPS激励]]的直接受奖主体是 TSMC Arizona Corporation，而不是把所有款项直接授予母公司。最终协议规定最高 US$6.6bn 直接资助与最高 US$5bn 政府贷款额度，受里程碑与合规条件约束，母公司为相关义务提供担保；额度不是全额到账或已经提款。
 
-TSMC 2025 年把美国累计投资计划提高到 US$165bn。[[2026 TSMC宣布美国2650亿美元投资计划\|2026 TSMC宣布美国2650亿美元投资计划]]记录 2026 年再宣布增加 US$100bn 后的累计 US$265bn 计划。US$65bn、US$165bn 与 US$265bn 是嵌套阶段，不能相加；最新总额也不是已支出、已投产十座工厂或获得同额政府补贴。
+[[2025 TSMC宣布美国1650亿美元投资计划\|2025 TSMC宣布美国1650亿美元投资计划]]记录 2025 年在 US$65bn 计划上新增 US$100bn、把美国累计计划提高至 US$165bn；[[2026 TSMC宣布美国2650亿美元投资计划\|2026 TSMC宣布美国2650亿美元投资计划]]记录 2026 年再次增加 US$100bn 后的累计 US$265bn 计划。US$65bn、US$165bn 与 US$265bn 是嵌套阶段，不能相加；公司所称约四座或更多新增设施合并计算前段与后段，州政府的十座 fab 加两座封装设施摘要也不能无归属地写成 TSMC 已锁定的逐厂承诺。最新总额不是已支出、已投产十座工厂或获得同额政府补贴。
 
 [[2022 日本政府批准JASM第一工厂补助\|2022 日本政府批准JASM第一工厂补助]]与[[2024 日本政府批准JASM第二工厂补助\|2024 日本政府批准JASM第二工厂补助]]分别记录最高 ¥476bn 与 ¥732bn 的支持上限，不能写成全额到账。[[2024 德国政府与ESMC签署资助协议\|2024 德国政府与ESMC签署资助协议]]记录德国最高 €5bn 国家援助；欧委会是国家援助审批方，不是直接付款方，项目仍在建设。
 
@@ -94,6 +98,7 @@ TrendForce 在 2025 Q4 全球前十大晶圆代工厂收入榜／其晶圆代工
 
 ## 证据
 
+- 原始资料快照（本地归档）
 - 原始资料快照（本地归档）
 - [TSMC FY2025 Form 20-F](https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm)
 - [TSMC 2025 Annual Report](https://investor.tsmc.com/sites/ir/annual-report/2025/2025%20TSMC%20Annual%20Report.E.pdf)
