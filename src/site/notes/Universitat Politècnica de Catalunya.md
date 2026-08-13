@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Universitat Politècnica de Catalunya/","title":"Universitat Politècnica de Catalunya","tags":["#高校","#西班牙","#建筑","#工程","#机构沿革"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Universitat Politècnica de Catalunya","aliases":["UPC","BarcelonaTech","Polytechnic University of Catalonia","加泰罗尼亚理工大学"],"source_count":2,"sources":["https://www.upc.edu/en/the-upc/the-institution","https://etsab.upc.edu/ca/escola"],"tags":["#高校","#西班牙","#建筑","#工程","#机构沿革"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Universitat Politècnica de Catalunya/","title":"Universitat Politècnica de Catalunya","tags":["高校","西班牙","建筑","工程","机构沿革"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Universitat Politècnica de Catalunya","aliases":["UPC","BarcelonaTech","Polytechnic University of Catalonia","加泰罗尼亚理工大学"],"source_count":2,"sources":["https://www.upc.edu/en/the-upc/the-institution","https://etsab.upc.edu/ca/escola"],"tags":["高校","西班牙","建筑","工程","机构沿革"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Universitat Politècnica de Catalunya

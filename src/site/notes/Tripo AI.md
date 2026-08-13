@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Tripo AI/","title":"Tripo AI","tags":["#AI3D","#产品平台","#3D生成"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Tripo AI","aliases":["Tripo"],"source_count":3,"sources":["raw/2026-08-07-luyao-b038-185-对话宋亚宸：从-3D-生成到世界模型，VAST想搭一套「可交互世界」的底座-f9376994.md","https://www.tripo3d.ai/","https://www.tripo3d.ai/blog/sony-and-vast-3d-business-collabration"],"tags":["#AI3D","#产品平台","#3D生成"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Tripo AI/","title":"Tripo AI","tags":["AI3D","产品平台","3D生成"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Tripo AI","aliases":["Tripo"],"source_count":3,"sources":["raw/2026-08-07-luyao-b038-185-对话宋亚宸：从-3D-生成到世界模型，VAST想搭一套「可交互世界」的底座-f9376994.md","https://www.tripo3d.ai/","https://www.tripo3d.ai/blog/sony-and-vast-3d-business-collabration"],"tags":["AI3D","产品平台","3D生成"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Tripo AI

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/University of Edinburgh/","title":"University of Edinburgh","tags":["#高校","#英国","#学术网络","#人工智能"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University of Edinburgh","aliases":["The University of Edinburgh","爱丁堡大学"],"source_count":3,"sources":["https://www.ed.ac.uk/about","https://www.ed.ac.uk/about/our-history","https://www.aitntnews.com/newDetail.html?newId=26774"],"tags":["#高校","#英国","#学术网络","#人工智能"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/University of Edinburgh/","title":"University of Edinburgh","tags":["高校","英国","学术网络","人工智能"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University of Edinburgh","aliases":["The University of Edinburgh","爱丁堡大学"],"source_count":3,"sources":["https://www.ed.ac.uk/about","https://www.ed.ac.uk/about/our-history","https://www.aitntnews.com/newDetail.html?newId=26774"],"tags":["高校","英国","学术网络","人工智能"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # University of Edinburgh

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Hermes Agent/","title":"Hermes Agent","tags":["#Agent","#开源","#Harness","#记忆系统","#NousResearch"],"created":"2026-08-07","updated":"2026-08-09","dg-note-properties":{"status":"seed","title":"Hermes Agent","source_count":3,"sources":["raw/2026-08-07-luyao-b044-214-当我们在讨论-Harness-的时候，我们在讨论什么-深度对谈-MiniMax-×-Hermes-Agent-b6fcc9b9.md","https://github.com/NousResearch/hermes-agent","https://hermes-agent.nousresearch.com/docs/"],"tags":["#Agent","#开源","#Harness","#记忆系统","#NousResearch"],"created":"2026-08-07","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Hermes Agent/","title":"Hermes Agent","tags":["Agent","开源","Harness","记忆系统","NousResearch"],"created":"2026-08-07","updated":"2026-08-09","dg-note-properties":{"status":"seed","title":"Hermes Agent","source_count":3,"sources":["raw/2026-08-07-luyao-b044-214-当我们在讨论-Harness-的时候，我们在讨论什么-深度对谈-MiniMax-×-Hermes-Agent-b6fcc9b9.md","https://github.com/NousResearch/hermes-agent","https://hermes-agent.nousresearch.com/docs/"],"tags":["Agent","开源","Harness","记忆系统","NousResearch"],"created":"2026-08-07","updated":"2026-08-09"}}
 ---
 
 # Hermes Agent
