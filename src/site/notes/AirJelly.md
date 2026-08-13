@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AirJelly/","title":"AirJelly","tags":["AI助手","Agent","AI记忆","上下文工程","主动式AI"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"AirJelly","source_count":5,"sources":["raw/2026-08-07-luyao-b041-201-字节出来的-00-后团队，做了一款主动式-AI-桌面助手：只记录意图，想「预测你的下一步」-e6bc092d.md","raw/2026-08-10-平台主体身份补证-batch-019.md","https://www.airjelly.ai/","https://www.airjelly.ai/privacy-policy","https://www.airjelly.ai/terms"],"tags":["AI助手","Agent","AI记忆","上下文工程","主动式AI"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/AirJelly/","title":"AirJelly","tags":["#AI助手","#Agent","#AI记忆","#上下文工程","#主动式AI"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"AirJelly","source_count":5,"sources":["raw/2026-08-07-luyao-b041-201-字节出来的-00-后团队，做了一款主动式-AI-桌面助手：只记录意图，想「预测你的下一步」-e6bc092d.md","raw/2026-08-10-平台主体身份补证-batch-019.md","https://www.airjelly.ai/","https://www.airjelly.ai/privacy-policy","https://www.airjelly.ai/terms"],"tags":["#AI助手","#Agent","#AI记忆","#上下文工程","#主动式AI"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # AirJelly

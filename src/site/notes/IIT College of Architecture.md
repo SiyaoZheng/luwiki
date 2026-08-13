@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/IIT College of Architecture/","title":"IIT College of Architecture","tags":["学院","IllinoisTech","建筑","现代主义"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"IIT College of Architecture","aliases":["Illinois Tech College of Architecture","College of Architecture, Planning, and Design","伊利诺伊理工学院建筑学院"],"source_count":2,"sources":["https://arch.iit.edu/history","https://www.iit.edu/about/history"],"tags":["学院","IllinoisTech","建筑","现代主义"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/IIT College of Architecture/","title":"IIT College of Architecture","tags":["#学院","#IllinoisTech","#建筑","#现代主义"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"IIT College of Architecture","aliases":["Illinois Tech College of Architecture","College of Architecture, Planning, and Design","伊利诺伊理工学院建筑学院"],"source_count":2,"sources":["https://arch.iit.edu/history","https://www.iit.edu/about/history"],"tags":["#学院","#IllinoisTech","#建筑","#现代主义"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # IIT College of Architecture

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Git 与 GitHub 的制度边界/","title":"Git 与 GitHub 的制度边界","tags":["商业实体","开源治理","平台治理","所有权","商标"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Git 与 GitHub 的制度边界","tags":["商业实体","开源治理","平台治理","所有权","商标"],"sources":["raw/2026-08-11-Git-GitHub制度与所有权边界核验.md","raw/2026-08-11-Git历史治理许可与维护边界核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Git 与 GitHub 的制度边界/","title":"Git 与 GitHub 的制度边界","tags":["#商业实体","#开源治理","#平台治理","#所有权","#商标"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Git 与 GitHub 的制度边界","tags":["#商业实体","#开源治理","#平台治理","#所有权","#商标"],"sources":["raw/2026-08-11-Git-GitHub制度与所有权边界核验.md","raw/2026-08-11-Git历史治理许可与维护边界核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 # Git 与 GitHub 的制度边界

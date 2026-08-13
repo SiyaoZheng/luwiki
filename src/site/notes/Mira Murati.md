@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mira Murati/","title":"Mira Murati","tags":["人物","AI","创业","前任职"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Mira Murati","source_count":3,"sources":["raw/2026-08-07-luyao-b010-48-刚刚，Thinking-Machines首发大模型：9750亿参数，完整开放权重-44733ba7.md","https://thinkingmachines.ai/","https://www.reuters.com/technology/artificial-intelligence/mira-muratis-new-ai-startup-poaches-20-openai-researchers-sources-say-2025-02-19/"],"tags":["人物","AI","创业","前任职"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Mira Murati/","title":"Mira Murati","tags":["#人物","#AI","#创业","#前任职"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Mira Murati","source_count":3,"sources":["raw/2026-08-07-luyao-b010-48-刚刚，Thinking-Machines首发大模型：9750亿参数，完整开放权重-44733ba7.md","https://thinkingmachines.ai/","https://www.reuters.com/technology/artificial-intelligence/mira-muratis-new-ai-startup-poaches-20-openai-researchers-sources-say-2025-02-19/"],"tags":["#人物","#AI","#创业","#前任职"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Mira Murati

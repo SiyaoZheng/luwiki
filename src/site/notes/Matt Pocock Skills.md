@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Matt Pocock Skills/","title":"Matt Pocock Skills","tags":["Agent","Skills","软件开发工作流","计划","Issue"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Matt Pocock Skills","source_count":3,"sources":["raw/2026-08-07-luyao-b007-34-Github-171k-star-的-MattPocock-Skills-又更新了-a9bca9ae.md","https://www.aihero.dev/skills-wayfinder","https://github.com/mattpocock/skills"],"tags":["Agent","Skills","软件开发工作流","计划","Issue"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/Matt Pocock Skills/","title":"Matt Pocock Skills","tags":["#Agent","#Skills","#软件开发工作流","#计划","#Issue"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Matt Pocock Skills","source_count":3,"sources":["raw/2026-08-07-luyao-b007-34-Github-171k-star-的-MattPocock-Skills-又更新了-a9bca9ae.md","https://www.aihero.dev/skills-wayfinder","https://github.com/mattpocock/skills"],"tags":["#Agent","#Skills","#软件开发工作流","#计划","#Issue"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # Matt Pocock Skills

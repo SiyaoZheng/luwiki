@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AI 辅助理论算法发现/","title":"AI 辅助理论算法发现","tags":["AIforScience","理论计算机科学","算法发现","博弈论","数学证明"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"AI 辅助理论算法发现","source_count":2,"sources":["raw/2026-08-07-luyao-b024-117-北大港大：大模型发现了人类从未想到的纳什均衡算法-2abc0850.md","https://www.nature.com/articles/s41467-026-74003-1"],"tags":["AIforScience","理论计算机科学","算法发现","博弈论","数学证明"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/AI 辅助理论算法发现/","title":"AI 辅助理论算法发现","tags":["#AIforScience","#理论计算机科学","#算法发现","#博弈论","#数学证明"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"AI 辅助理论算法发现","source_count":2,"sources":["raw/2026-08-07-luyao-b024-117-北大港大：大模型发现了人类从未想到的纳什均衡算法-2abc0850.md","https://www.nature.com/articles/s41467-026-74003-1"],"tags":["#AIforScience","#理论计算机科学","#算法发现","#博弈论","#数学证明"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # AI 辅助理论算法发现

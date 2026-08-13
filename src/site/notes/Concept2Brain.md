@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Concept2Brain/","title":"Concept2Brain","tags":["EEG","神经科学","合成数据","CLIP","脑电"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Concept2Brain","source_count":4,"sources":["raw/2026-08-07-luyao-b002-09-《自然》：AI-开始模拟大脑生理反应，Concept2Brain-是下一个爆款模型吗-96086521.md","raw/2026-08-07-luyao-b003-12-Nature最新：Concept2Brain，从脑信号解码到“脑表征建模”-0dd824b4.md","https://www.nature.com/articles/s41467-026-75653-x","https://www.nature.com/articles/s41467-026-75653-x.pdf"],"tags":["EEG","神经科学","合成数据","CLIP","脑电"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/Concept2Brain/","title":"Concept2Brain","tags":["#EEG","#神经科学","#合成数据","#CLIP","#脑电"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Concept2Brain","source_count":4,"sources":["raw/2026-08-07-luyao-b002-09-《自然》：AI-开始模拟大脑生理反应，Concept2Brain-是下一个爆款模型吗-96086521.md","raw/2026-08-07-luyao-b003-12-Nature最新：Concept2Brain，从脑信号解码到“脑表征建模”-0dd824b4.md","https://www.nature.com/articles/s41467-026-75653-x","https://www.nature.com/articles/s41467-026-75653-x.pdf"],"tags":["#EEG","#神经科学","#合成数据","#CLIP","#脑电"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # Concept2Brain

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Stephen Cohen/","title":"Stephen Cohen","tags":["人物","企业软件","创业者","计算机科学"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Stephen Cohen","aliases":["Palantir Stephen Cohen"],"source_count":2,"sources":["https://www.sec.gov/Archives/edgar/data/1321655/000132165526000019/pltr-20260423.htm","https://www.sec.gov/Archives/edgar/data/1321655/000119312521140597/d137991ddef14a.htm"],"tags":["人物","企业软件","创业者","计算机科学"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Stephen Cohen/","title":"Stephen Cohen","tags":["#人物","#企业软件","#创业者","#计算机科学"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Stephen Cohen","aliases":["Palantir Stephen Cohen"],"source_count":2,"sources":["https://www.sec.gov/Archives/edgar/data/1321655/000132165526000019/pltr-20260423.htm","https://www.sec.gov/Archives/edgar/data/1321655/000119312521140597/d137991ddef14a.htm"],"tags":["#人物","#企业软件","#创业者","#计算机科学"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Stephen Cohen

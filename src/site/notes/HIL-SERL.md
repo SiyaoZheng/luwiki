@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/HIL-SERL/","title":"HIL-SERL","tags":["机器人强化学习","人类在环","部署纠错","真机数据"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"HIL-SERL","tags":["机器人强化学习","人类在环","部署纠错","真机数据"],"sources":["raw/2026-08-10-人类活动到机器人训练公开证据.md","https://arxiv.org/abs/2410.21845","https://hil-serl.github.io/","https://github.com/huggingface/lerobot/blob/main/docs/source/hil_data_collection.mdx","https://github.com/huggingface/lerobot/blob/main/docs/source/hilserl.mdx","raw/2026-08-10-LeRobot-v0.6-HIL记录语义核验.md","https://arxiv.org/abs/2605.19924"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/HIL-SERL/","title":"HIL-SERL","tags":["#机器人强化学习","#人类在环","#部署纠错","#真机数据"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"HIL-SERL","tags":["#机器人强化学习","#人类在环","#部署纠错","#真机数据"],"sources":["raw/2026-08-10-人类活动到机器人训练公开证据.md","https://arxiv.org/abs/2410.21845","https://hil-serl.github.io/","https://github.com/huggingface/lerobot/blob/main/docs/source/hil_data_collection.mdx","https://github.com/huggingface/lerobot/blob/main/docs/source/hilserl.mdx","raw/2026-08-10-LeRobot-v0.6-HIL记录语义核验.md","https://arxiv.org/abs/2605.19924"],"created":"2026-08-10","updated":"2026-08-10"}}
 ---
 
 # HIL-SERL

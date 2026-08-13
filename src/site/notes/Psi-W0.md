@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Psi-W0/","title":"Psi-W0","tags":["世界模型","Action-Conditioned","具身智能"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Psi-W0","source_count":2,"sources":["raw/2026-08-07-luyao-b036-177-用人类数据训练模型，这家中国公司拿下多个全球第一-c7942157.md","https://www.psibot.ai/灵初智能新一代具身模型发布，全球最大人类手部/"],"tags":["世界模型","Action-Conditioned","具身智能"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Psi-W0/","title":"Psi-W0","tags":["#世界模型","#Action-Conditioned","#具身智能"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Psi-W0","source_count":2,"sources":["raw/2026-08-07-luyao-b036-177-用人类数据训练模型，这家中国公司拿下多个全球第一-c7942157.md","https://www.psibot.ai/灵初智能新一代具身模型发布，全球最大人类手部/"],"tags":["#世界模型","#Action-Conditioned","#具身智能"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Psi-W0

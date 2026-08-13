@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Frontend Slides/","title":"Frontend Slides","tags":["Agent","演示文稿","HTML","Skills","前端"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Frontend Slides","source_count":5,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","https://github.com/zarazhangrui/frontend-slides","https://github.com/zarazhangrui/frontend-slides/blob/main/SKILL.md","[[Zara Zhang\|Zara Zhang]]"],"tags":["Agent","演示文稿","HTML","Skills","前端"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Frontend Slides/","title":"Frontend Slides","tags":["#Agent","#演示文稿","#HTML","#Skills","#前端"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Frontend Slides","source_count":5,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","https://github.com/zarazhangrui/frontend-slides","https://github.com/zarazhangrui/frontend-slides/blob/main/SKILL.md","[[Zara Zhang\|Zara Zhang]]"],"tags":["#Agent","#演示文稿","#HTML","#Skills","#前端"],"created":"2026-08-10","updated":"2026-08-10"}}
 ---
 
 # Frontend Slides

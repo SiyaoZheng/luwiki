@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/EEG ImageNet 困境/","title":"EEG ImageNet 困境","tags":["EEG","脑电","数据共享","标准化","BCI"],"created":"2026-08-07","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"EEG ImageNet 困境","source_count":1,"sources":["raw/2026-08-07-luyao-b001-03-EEG工程师们愿意分享数据吗？——-探寻脑电领域的“ImageNet”困境-e6f2757f.md"],"tags":["EEG","脑电","数据共享","标准化","BCI"],"created":"2026-08-07","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/EEG ImageNet 困境/","title":"EEG ImageNet 困境","tags":["#EEG","#脑电","#数据共享","#标准化","#BCI"],"created":"2026-08-07","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"EEG ImageNet 困境","source_count":1,"sources":["raw/2026-08-07-luyao-b001-03-EEG工程师们愿意分享数据吗？——-探寻脑电领域的“ImageNet”困境-e6f2757f.md"],"tags":["#EEG","#脑电","#数据共享","#标准化","#BCI"],"created":"2026-08-07","updated":"2026-08-09"}}
 ---
 
 # EEG ImageNet 困境

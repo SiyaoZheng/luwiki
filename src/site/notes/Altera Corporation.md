@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Altera Corporation/","title":"Altera Corporation","tags":["company","semiconductor","programmable-logic"],"created":"2026-08-12","updated":"2026-08-12","dg-note-properties":{"status":"processed","title":"Altera Corporation","tags":["company","semiconductor","programmable-logic"],"sources":["raw/2026-08-12-Altera-Corporation商业实体法律主体业务管理与关系核验.md"],"created":"2026-08-12","updated":"2026-08-12"}}
+{"dg-publish":true,"permalink":"/Altera Corporation/","title":"Altera Corporation","tags":["#company","#semiconductor","#programmable-logic"],"created":"2026-08-12","updated":"2026-08-12","dg-note-properties":{"status":"processed","title":"Altera Corporation","tags":["#company","#semiconductor","#programmable-logic"],"sources":["raw/2026-08-12-Altera-Corporation商业实体法律主体业务管理与关系核验.md"],"created":"2026-08-12","updated":"2026-08-12"}}
 ---
 
 

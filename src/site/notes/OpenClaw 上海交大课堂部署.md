@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/OpenClaw 上海交大课堂部署/","title":"OpenClaw 上海交大课堂部署","tags":["事件","OpenClaw","教学部署","上海交通大学","智算平台"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"OpenClaw 上海交大课堂部署","aliases":["OpenClaw 平行教室部署"],"source_count":2,"sources":["raw/2026-08-07-luyao-b045-220-“致远一号”支撑-OpenClaw-智能体走进大学课堂-8b8e76fb.md","https://www.sipa.sjtu.edu.cn/show/6726"],"tags":["事件","OpenClaw","教学部署","上海交通大学","智算平台"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/OpenClaw 上海交大课堂部署/","title":"OpenClaw 上海交大课堂部署","tags":["#事件","#OpenClaw","#教学部署","#上海交通大学","#智算平台"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"OpenClaw 上海交大课堂部署","aliases":["OpenClaw 平行教室部署"],"source_count":2,"sources":["raw/2026-08-07-luyao-b045-220-“致远一号”支撑-OpenClaw-智能体走进大学课堂-8b8e76fb.md","https://www.sipa.sjtu.edu.cn/show/6726"],"tags":["#事件","#OpenClaw","#教学部署","#上海交通大学","#智算平台"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # OpenClaw 上海交大课堂部署

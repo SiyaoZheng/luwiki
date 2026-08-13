@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Max Planck Institute for Intelligent Systems/","title":"Max Planck Institute for Intelligent Systems","tags":["研究机构","德国","智能系统","因果推断"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Max Planck Institute for Intelligent Systems","aliases":["MPI-IS","马克斯·普朗克智能系统研究所"],"source_count":3,"sources":["https://is.mpg.de/en/about/","https://is.mpg.de/al/en/publications/huazhazhaglysch17","https://biweihuang.com/"],"tags":["研究机构","德国","智能系统","因果推断"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Max Planck Institute for Intelligent Systems/","title":"Max Planck Institute for Intelligent Systems","tags":["#研究机构","#德国","#智能系统","#因果推断"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Max Planck Institute for Intelligent Systems","aliases":["MPI-IS","马克斯·普朗克智能系统研究所"],"source_count":3,"sources":["https://is.mpg.de/en/about/","https://is.mpg.de/al/en/publications/huazhazhaglysch17","https://biweihuang.com/"],"tags":["#研究机构","#德国","#智能系统","#因果推断"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Max Planck Institute for Intelligent Systems

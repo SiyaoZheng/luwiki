@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Git/","title":"Git","tags":["version-control","open-source-governance","software-history","software-supply-chain"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Git","aliases":["Git SCM"],"tags":["version-control","open-source-governance","software-history","software-supply-chain"],"sources":["raw/2026-08-11-Git历史治理许可与维护边界核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Git/","title":"Git","tags":["#version-control","#open-source-governance","#software-history","#software-supply-chain"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Git","aliases":["Git SCM"],"tags":["#version-control","#open-source-governance","#software-history","#software-supply-chain"],"sources":["raw/2026-08-11-Git历史治理许可与维护边界核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 

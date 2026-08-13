@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/EgoScale/","title":"EgoScale","tags":["第一视角数据","机器人预训练","本体适配","灵巧操作"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"seed","title":"EgoScale","source_count":5,"sources":["raw/2026-08-10-人类活动数据到机器人训练外部补证.md","raw/2026-08-10-规模化人类视频到机器人预训练路线核验.md","https://research.nvidia.com/labs/gear/egoscale/","https://arxiv.org/abs/2602.16710","https://arxiv.org/abs/2606.20521"],"tags":["第一视角数据","机器人预训练","本体适配","灵巧操作"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/EgoScale/","title":"EgoScale","tags":["#第一视角数据","#机器人预训练","#本体适配","#灵巧操作"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"seed","title":"EgoScale","source_count":5,"sources":["raw/2026-08-10-人类活动数据到机器人训练外部补证.md","raw/2026-08-10-规模化人类视频到机器人预训练路线核验.md","https://research.nvidia.com/labs/gear/egoscale/","https://arxiv.org/abs/2602.16710","https://arxiv.org/abs/2606.20521"],"tags":["#第一视角数据","#机器人预训练","#本体适配","#灵巧操作"],"created":"2026-08-10","updated":"2026-08-10"}}
 ---
 
 # EgoScale

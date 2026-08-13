@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/MindClaw/","title":"MindClaw","tags":["具身智能","TheoryOfMind","心理世界模型","Agent","人机协作"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"MindClaw","source_count":2,"sources":["raw/2026-08-07-luyao-b032-156-FlerkenS-FlerkenS-波动智能-e26d3792.md","https://arxiv.org/pdf/2606.01063"],"tags":["具身智能","TheoryOfMind","心理世界模型","Agent","人机协作"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/MindClaw/","title":"MindClaw","tags":["#具身智能","#TheoryOfMind","#心理世界模型","#Agent","#人机协作"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"MindClaw","source_count":2,"sources":["raw/2026-08-07-luyao-b032-156-FlerkenS-FlerkenS-波动智能-e26d3792.md","https://arxiv.org/pdf/2606.01063"],"tags":["#具身智能","#TheoryOfMind","#心理世界模型","#Agent","#人机协作"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # MindClaw

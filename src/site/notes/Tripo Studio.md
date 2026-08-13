@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Tripo Studio/","title":"Tripo Studio","tags":["AI3D","创作工具","产品"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Tripo Studio","source_count":3,"sources":["raw/2026-08-07-luyao-b038-185-对话宋亚宸：从-3D-生成到世界模型，VAST想搭一套「可交互世界」的底座-f9376994.md","https://www.tripo3d.ai/blog/introducing-tripo-studio","https://docs.tripo3d.ai/get-started/introduction.html"],"tags":["AI3D","创作工具","产品"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Tripo Studio/","title":"Tripo Studio","tags":["#AI3D","#创作工具","#产品"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Tripo Studio","source_count":3,"sources":["raw/2026-08-07-luyao-b038-185-对话宋亚宸：从-3D-生成到世界模型，VAST想搭一套「可交互世界」的底座-f9376994.md","https://www.tripo3d.ai/blog/introducing-tripo-studio","https://docs.tripo3d.ai/get-started/introduction.html"],"tags":["#AI3D","#创作工具","#产品"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Tripo Studio

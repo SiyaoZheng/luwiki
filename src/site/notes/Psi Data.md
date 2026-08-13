@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Psi Data/","title":"Psi Data","tags":["数据平台","具身智能","产品"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Psi Data","source_count":4,"sources":["https://www.psibot.ai/products_zh/","https://www.psibot.ai/products_zh/product_psi-data_zh/","raw/2026-08-10-待核验标签实体补证-batch-013.md","https://www.psibot.ai/%E7%81%B5%E5%88%9D%E6%99%BA%E8%83%BD%E5%B7%B2%E5%AE%8C%E6%88%9020%E4%BA%BF%E8%9E%8D%E8%B5%84%EF%BC%8C%E8%8E%B7%E5%9B%BD%E5%AE%B6%E9%98%9F%E8%B5%84%E6%9C%AC%E9%87%8D%E7%A3%85%E6%8A%95/"],"tags":["数据平台","具身智能","产品"],"created":"2026-08-09","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Psi Data/","title":"Psi Data","tags":["#数据平台","#具身智能","#产品"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Psi Data","source_count":4,"sources":["https://www.psibot.ai/products_zh/","https://www.psibot.ai/products_zh/product_psi-data_zh/","raw/2026-08-10-待核验标签实体补证-batch-013.md","https://www.psibot.ai/%E7%81%B5%E5%88%9D%E6%99%BA%E8%83%BD%E5%B7%B2%E5%AE%8C%E6%88%9020%E4%BA%BF%E8%9E%8D%E8%B5%84%EF%BC%8C%E8%8E%B7%E5%9B%BD%E5%AE%B6%E9%98%9F%E8%B5%84%E6%9C%AC%E9%87%8D%E7%A3%85%E6%8A%95/"],"tags":["#数据平台","#具身智能","#产品"],"created":"2026-08-09","updated":"2026-08-10"}}
 ---
 
 # Psi Data

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/建筑学长 AI/","title":"建筑学长 AI","tags":["AI建筑","空间智能","生成式AI","建筑设计","创业"],"created":"2026-08-07","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"建筑学长 AI","source_count":6,"sources":["raw/2026-08-07-luyao-b016-77-建筑学长AI获千万级天使轮投资，亮相2025世界青年科学家峰会-3b87f405.md","https://www.sohu.com/a/869023522_121106884","https://tidenews.com.cn/news.html?id=3182775","https://www.jianzhuxuezhang.com/app","https://apps.apple.com/cn/app/%E5%BB%BA%E7%AD%91%E5%AD%A6%E9%95%BF/id6749049905?platform=ipad","raw/2026-08-10-部署与产品证据补证-batch-020.md"],"tags":["AI建筑","空间智能","生成式AI","建筑设计","创业"],"created":"2026-08-07","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/建筑学长 AI/","title":"建筑学长 AI","tags":["#AI建筑","#空间智能","#生成式AI","#建筑设计","#创业"],"created":"2026-08-07","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"建筑学长 AI","source_count":6,"sources":["raw/2026-08-07-luyao-b016-77-建筑学长AI获千万级天使轮投资，亮相2025世界青年科学家峰会-3b87f405.md","https://www.sohu.com/a/869023522_121106884","https://tidenews.com.cn/news.html?id=3182775","https://www.jianzhuxuezhang.com/app","https://apps.apple.com/cn/app/%E5%BB%BA%E7%AD%91%E5%AD%A6%E9%95%BF/id6749049905?platform=ipad","raw/2026-08-10-部署与产品证据补证-batch-020.md"],"tags":["#AI建筑","#空间智能","#生成式AI","#建筑设计","#创业"],"created":"2026-08-07","updated":"2026-08-09"}}
 ---
 
 # 建筑学长 AI

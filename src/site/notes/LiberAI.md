@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/LiberAI/","title":"LiberAI","tags":["具身智能","世界模型","机器人","创业公司","PhysicalAI"],"created":"2026-08-07","updated":"2026-08-09","dg-note-properties":{"status":"seed","title":"LiberAI","source_count":5,"sources":["raw/2026-08-07-luyao-b022-108-00-后清华特奖得主完成数亿元融资，打造全球首创物理世界模型-4f01e8c6.md","https://www.liberai.com/","https://rdt-robotics.github.io/rdt2/","https://arxiv.org/abs/2602.03310","https://finance.eastmoney.com/a/202606153771242850.html"],"tags":["具身智能","世界模型","机器人","创业公司","PhysicalAI"],"created":"2026-08-07","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/LiberAI/","title":"LiberAI","tags":["#具身智能","#世界模型","#机器人","#创业公司","#PhysicalAI"],"created":"2026-08-07","updated":"2026-08-09","dg-note-properties":{"status":"seed","title":"LiberAI","source_count":5,"sources":["raw/2026-08-07-luyao-b022-108-00-后清华特奖得主完成数亿元融资，打造全球首创物理世界模型-4f01e8c6.md","https://www.liberai.com/","https://rdt-robotics.github.io/rdt2/","https://arxiv.org/abs/2602.03310","https://finance.eastmoney.com/a/202606153771242850.html"],"tags":["#具身智能","#世界模型","#机器人","#创业公司","#PhysicalAI"],"created":"2026-08-07","updated":"2026-08-09"}}
 ---
 
 # LiberAI

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/OpenClaw/","title":"OpenClaw","tags":["Agent","教学","城市治理","智能体基础设施","SJTU"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"OpenClaw","source_count":6,"sources":["raw/2026-08-07-luyao-b045-220-“致远一号”支撑-OpenClaw-智能体走进大学课堂-8b8e76fb.md","raw/2026-08-07-luyao-b045-223-小龙虾如何帮助交通、城管、公园解决问题-4bf630e5.md","raw/2026-08-10-全库软证据边界日期化-batch-034.md","https://claw.sjtu.edu.cn/","https://claw.sjtu.edu.cn/cases/","https://www.cnr.cn/shanghai/tt/20260314/t20260314_527551500.shtml"],"tags":["Agent","教学","城市治理","智能体基础设施","SJTU"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/OpenClaw/","title":"OpenClaw","tags":["#Agent","#教学","#城市治理","#智能体基础设施","#SJTU"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"OpenClaw","source_count":6,"sources":["raw/2026-08-07-luyao-b045-220-“致远一号”支撑-OpenClaw-智能体走进大学课堂-8b8e76fb.md","raw/2026-08-07-luyao-b045-223-小龙虾如何帮助交通、城管、公园解决问题-4bf630e5.md","raw/2026-08-10-全库软证据边界日期化-batch-034.md","https://claw.sjtu.edu.cn/","https://claw.sjtu.edu.cn/cases/","https://www.cnr.cn/shanghai/tt/20260314/t20260314_527551500.shtml"],"tags":["#Agent","#教学","#城市治理","#智能体基础设施","#SJTU"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # OpenClaw

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Project Deal/","title":"Project Deal","tags":["Agent","市场实验","谈判","AI经济","Anthropic"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Project Deal","source_count":2,"sources":["raw/2026-08-07-luyao-b043-213-Anthropic-做了个-Agent-版闲鱼-166575c3.md","https://www.anthropic.com/features/project-deal"],"tags":["Agent","市场实验","谈判","AI经济","Anthropic"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/Project Deal/","title":"Project Deal","tags":["#Agent","#市场实验","#谈判","#AI经济","#Anthropic"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Project Deal","source_count":2,"sources":["raw/2026-08-07-luyao-b043-213-Anthropic-做了个-Agent-版闲鱼-166575c3.md","https://www.anthropic.com/features/project-deal"],"tags":["#Agent","#市场实验","#谈判","#AI经济","#Anthropic"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # Project Deal

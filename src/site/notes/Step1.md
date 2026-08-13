@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Step1/","title":"Step1","tags":["AI网站生成","UI生成","前端工具","AI产品"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Step1","source_count":6,"sources":["raw/2026-08-07-luyao-b057-279-Step1登录页metadata-step1dev.md","raw/2026-08-10-主体与融资身份补证-batch-026.md","https://step1.dev/app","https://step1.dev/","https://docs.step1.dev/en/privacy","https://docs.step1.dev/en/terms-of-use"],"tags":["AI网站生成","UI生成","前端工具","AI产品"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Step1/","title":"Step1","tags":["#AI网站生成","#UI生成","#前端工具","#AI产品"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Step1","source_count":6,"sources":["raw/2026-08-07-luyao-b057-279-Step1登录页metadata-step1dev.md","raw/2026-08-10-主体与融资身份补证-batch-026.md","https://step1.dev/app","https://step1.dev/","https://docs.step1.dev/en/privacy","https://docs.step1.dev/en/terms-of-use"],"tags":["#AI网站生成","#UI生成","#前端工具","#AI产品"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # Step1

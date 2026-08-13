@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Amazon.com, Inc./","title":"Amazon.com, Inc.","tags":["公司","上市公司","控股母公司","零售","云服务"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Amazon.com, Inc.","tags":["公司","上市公司","控股母公司","零售","云服务"],"sources":["raw/2026-08-11-Amazon-com-Inc法律母公司治理商标与合同边界核验.md","raw/2026-08-11-Amazon商业实体财务治理并购与Anthropic关系核验.md","https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm","https://www.sec.gov/Archives/edgar/data/1018724/000110465926041026/tm261382-1_def14a.htm"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Amazon.com, Inc./","title":"Amazon.com, Inc.","tags":["#公司","#上市公司","#控股母公司","#零售","#云服务"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Amazon.com, Inc.","tags":["#公司","#上市公司","#控股母公司","#零售","#云服务"],"sources":["raw/2026-08-11-Amazon-com-Inc法律母公司治理商标与合同边界核验.md","raw/2026-08-11-Amazon商业实体财务治理并购与Anthropic关系核验.md","https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm","https://www.sec.gov/Archives/edgar/data/1018724/000110465926041026/tm261382-1_def14a.htm"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Body Operating System/","title":"Body Operating System","tags":["产品平台","人体智能","运动科技"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Body Operating System","aliases":["BOS"],"source_count":3,"sources":["raw/2026-08-07-luyao-b024-119-高瓴独家押注世界模型的“另一半”，首个AI人体模型完成天使轮-1a3b180f.md","https://xintlabs.com/","https://xintlabs.com/about"],"tags":["产品平台","人体智能","运动科技"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Body Operating System/","title":"Body Operating System","tags":["#产品平台","#人体智能","#运动科技"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Body Operating System","aliases":["BOS"],"source_count":3,"sources":["raw/2026-08-07-luyao-b024-119-高瓴独家押注世界模型的“另一半”，首个AI人体模型完成天使轮-1a3b180f.md","https://xintlabs.com/","https://xintlabs.com/about"],"tags":["#产品平台","#人体智能","#运动科技"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Body Operating System

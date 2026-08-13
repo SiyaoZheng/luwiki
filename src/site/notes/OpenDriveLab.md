@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/OpenDriveLab/","title":"OpenDriveLab","tags":["研究平台","自动驾驶","具身智能","开源"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"OpenDriveLab","aliases":["OpenDriveLab 开放驾驶实验室"],"source_count":3,"sources":["raw/2026-08-09-中国高校机构官方记录-创业与研究平台.md","https://opendrivelab.com/","https://datascience.hku.hk/people/hongyang-li/"],"tags":["研究平台","自动驾驶","具身智能","开源"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/OpenDriveLab/","title":"OpenDriveLab","tags":["#研究平台","#自动驾驶","#具身智能","#开源"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"OpenDriveLab","aliases":["OpenDriveLab 开放驾驶实验室"],"source_count":3,"sources":["raw/2026-08-09-中国高校机构官方记录-创业与研究平台.md","https://opendrivelab.com/","https://datascience.hku.hk/people/hongyang-li/"],"tags":["#研究平台","#自动驾驶","#具身智能","#开源"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # OpenDriveLab

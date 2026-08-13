@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Homerton College/","title":"Homerton College","tags":["学院","University of Cambridge","英国","学术网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Homerton College","aliases":["Homerton","霍默顿学院"],"source_count":3,"sources":["https://www.homerton.cam.ac.uk/sites/default/files/statutes_1_0_0.pdf","https://review.homerton.cam.ac.uk/membership/graduates/","https://www.cam.ac.uk/about-the-university/how-the-university-and-colleges-work/governance"],"tags":["学院","University of Cambridge","英国","学术网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Homerton College/","title":"Homerton College","tags":["#学院","#University of Cambridge","#英国","#学术网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Homerton College","aliases":["Homerton","霍默顿学院"],"source_count":3,"sources":["https://www.homerton.cam.ac.uk/sites/default/files/statutes_1_0_0.pdf","https://review.homerton.cam.ac.uk/membership/graduates/","https://www.cam.ac.uk/about-the-university/how-the-university-and-colleges-work/governance"],"tags":["#学院","#University of Cambridge","#英国","#学术网络"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Homerton College

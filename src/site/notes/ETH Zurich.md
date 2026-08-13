@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ETH Zurich/","title":"ETH Zurich","tags":["高校","瑞士","工程","建筑","学术网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"ETH Zurich","aliases":["Swiss Federal Institute of Technology Zurich","Eidgenössische Technische Hochschule Zürich","苏黎世联邦理工学院"],"source_count":3,"sources":["https://ethz.ch/en/the-eth-zurich/portrait/history/overview.html","https://calatrava.com/biography.html","https://mplus-gallery.nimbus-nimo.com/project/2024F-021"],"tags":["高校","瑞士","工程","建筑","学术网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/ETH Zurich/","title":"ETH Zurich","tags":["#高校","#瑞士","#工程","#建筑","#学术网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"ETH Zurich","aliases":["Swiss Federal Institute of Technology Zurich","Eidgenössische Technische Hochschule Zürich","苏黎世联邦理工学院"],"source_count":3,"sources":["https://ethz.ch/en/the-eth-zurich/portrait/history/overview.html","https://calatrava.com/biography.html","https://mplus-gallery.nimbus-nimo.com/project/2024F-021"],"tags":["#高校","#瑞士","#工程","#建筑","#学术网络"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # ETH Zurich

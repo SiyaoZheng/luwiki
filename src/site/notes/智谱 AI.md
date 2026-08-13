@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/智谱 AI/","title":"智谱 AI","tags":["机构","组织网络"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"智谱 AI","aliases":["智谱","Zhipu AI","Z.ai"],"source_count":5,"sources":["raw/2026-08-09-前雇主产业组织与资本端点官方记录.md","https://www.zhipuai.cn/en/about","raw/2026-08-10-机构基金与业务身份补证-batch-028.md","https://www1.hkexnews.hk/app/sehk/2026/108484/documents/sehk26042906016_c.pdf","https://www.nbd.com.cn/articles/2026-05-14/4391593.html"],"tags":["机构","组织网络"],"created":"2026-08-09","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/智谱 AI/","title":"智谱 AI","tags":["#机构","#组织网络"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"智谱 AI","aliases":["智谱","Zhipu AI","Z.ai"],"source_count":5,"sources":["raw/2026-08-09-前雇主产业组织与资本端点官方记录.md","https://www.zhipuai.cn/en/about","raw/2026-08-10-机构基金与业务身份补证-batch-028.md","https://www1.hkexnews.hk/app/sehk/2026/108484/documents/sehk26042906016_c.pdf","https://www.nbd.com.cn/articles/2026-05-14/4391593.html"],"tags":["#机构","#组织网络"],"created":"2026-08-09","updated":"2026-08-10"}}
 ---
 
 # 智谱 AI

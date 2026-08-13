@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2026 Schneider Electric拟收购Cognite/","title":"2026 Schneider Electric拟收购Cognite","tags":["Schneider Electric","Cognite","并购","工业软件","人工智能"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"2026 Schneider Electric拟收购Cognite","tags":["Schneider Electric","Cognite","并购","工业软件","人工智能"],"sources":["raw/2026-08-11-Schneider-Electric拟收购Cognite交易核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/2026 Schneider Electric拟收购Cognite/","title":"2026 Schneider Electric拟收购Cognite","tags":["#Schneider Electric","#Cognite","#并购","#工业软件","#人工智能"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"2026 Schneider Electric拟收购Cognite","tags":["#Schneider Electric","#Cognite","#并购","#工业软件","#人工智能"],"sources":["raw/2026-08-11-Schneider-Electric拟收购Cognite交易核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/King's College London/","title":"King's College London","tags":["高校","英国","学术网络","生物医学工程"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"King's College London","aliases":["KCL","伦敦国王学院"],"source_count":2,"sources":["https://www.kcl.ac.uk/about","https://www.kcl.ac.uk/people/yiran-wei"],"tags":["高校","英国","学术网络","生物医学工程"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/King's College London/","title":"King's College London","tags":["#高校","#英国","#学术网络","#生物医学工程"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"King's College London","aliases":["KCL","伦敦国王学院"],"source_count":2,"sources":["https://www.kcl.ac.uk/about","https://www.kcl.ac.uk/people/yiran-wei"],"tags":["#高校","#英国","#学术网络","#生物医学工程"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # King's College London

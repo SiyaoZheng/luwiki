@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Harvard University/","title":"Harvard University","tags":["高校","美国","学术网络"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Harvard University","aliases":["Harvard","哈佛大学"],"source_count":3,"sources":["https://www.harvard.edu/about/","https://hms.harvard.edu/about-hms","https://www.gsd.harvard.edu/about/"],"tags":["高校","美国","学术网络"],"created":"2026-08-09","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Harvard University/","title":"Harvard University","tags":["#高校","#美国","#学术网络"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Harvard University","aliases":["Harvard","哈佛大学"],"source_count":3,"sources":["https://www.harvard.edu/about/","https://hms.harvard.edu/about-hms","https://www.gsd.harvard.edu/about/"],"tags":["#高校","#美国","#学术网络"],"created":"2026-08-09","updated":"2026-08-10"}}
 ---
 
 # Harvard University

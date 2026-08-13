@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Inkling/","title":"Inkling","tags":["开放权重模型","MoE","多模态","长上下文","模型定制"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Inkling","source_count":5,"sources":["raw/2026-08-07-luyao-b010-48-刚刚，Thinking-Machines首发大模型：9750亿参数，完整开放权重-44733ba7.md","https://thinkingmachines.ai/news/introducing-inkling/","https://huggingface.co/thinkingmachines/Inkling","https://arcprize.org/results/thinky-inkling","raw/2026-08-10-未决问题技术模型补证-batch-001.md"],"tags":["开放权重模型","MoE","多模态","长上下文","模型定制"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Inkling/","title":"Inkling","tags":["#开放权重模型","#MoE","#多模态","#长上下文","#模型定制"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Inkling","source_count":5,"sources":["raw/2026-08-07-luyao-b010-48-刚刚，Thinking-Machines首发大模型：9750亿参数，完整开放权重-44733ba7.md","https://thinkingmachines.ai/news/introducing-inkling/","https://huggingface.co/thinkingmachines/Inkling","https://arcprize.org/results/thinky-inkling","raw/2026-08-10-未决问题技术模型补证-batch-001.md"],"tags":["#开放权重模型","#MoE","#多模态","#长上下文","#模型定制"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # Inkling

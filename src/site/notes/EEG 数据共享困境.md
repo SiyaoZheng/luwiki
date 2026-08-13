@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/EEG 数据共享困境/","title":"EEG 数据共享困境","tags":["EEG","数据共享","标准化","BCI","科研基础设施"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"seed","title":"EEG 数据共享困境","source_count":9,"sources":["[[EEG ImageNet 困境\|EEG ImageNet 困境]]","[[脑电进入机器人训练\|脑电进入机器人训练]]","[[Concept2Brain\|Concept2Brain]]","[[NeuraInsight\|NeuraInsight]]","[[EEG 数据注册库\|EEG 数据注册库]]","[[EMOTIV\|EMOTIV]]","raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","raw/2026-08-10-Hugging-Face-Gated-Repositories机制核验.md"],"tags":["EEG","数据共享","标准化","BCI","科研基础设施"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/EEG 数据共享困境/","title":"EEG 数据共享困境","tags":["#EEG","#数据共享","#标准化","#BCI","#科研基础设施"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"seed","title":"EEG 数据共享困境","source_count":9,"sources":["[[EEG ImageNet 困境\|EEG ImageNet 困境]]","[[脑电进入机器人训练\|脑电进入机器人训练]]","[[Concept2Brain\|Concept2Brain]]","[[NeuraInsight\|NeuraInsight]]","[[EEG 数据注册库\|EEG 数据注册库]]","[[EMOTIV\|EMOTIV]]","raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","raw/2026-08-10-Hugging-Face-Gated-Repositories机制核验.md"],"tags":["#EEG","#数据共享","#标准化","#BCI","#科研基础设施"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # EEG 数据共享困境

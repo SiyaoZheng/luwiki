@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Iowa State University/","title":"Iowa State University","tags":["高校","美国","电气工程","智能电网"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Iowa State University","aliases":["Iowa State","ISU","爱荷华州立大学"],"source_count":3,"sources":["https://www.iastate.edu/about","https://wzy.ece.iastate.edu/Members.html","https://qzz2023.github.io/"],"tags":["高校","美国","电气工程","智能电网"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Iowa State University/","title":"Iowa State University","tags":["#高校","#美国","#电气工程","#智能电网"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Iowa State University","aliases":["Iowa State","ISU","爱荷华州立大学"],"source_count":3,"sources":["https://www.iastate.edu/about","https://wzy.ece.iastate.edu/Members.html","https://qzz2023.github.io/"],"tags":["#高校","#美国","#电气工程","#智能电网"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Iowa State University

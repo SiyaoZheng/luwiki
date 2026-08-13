@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/LABUBU/","title":"LABUBU","tags":["潮玩","泡泡玛特","THEMONSTERS","IP联名","盲盒"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"LABUBU","source_count":4,"sources":["raw/2026-08-07-luyao-b016-81-“张飞穿洛丽塔”-拉布布-x三丽鸥联名！泡泡玛特-x-郭培-“娃娃穿上真高定”！-6380505d.md","raw/2026-08-07-luyao-b019-93-泡泡玛特王宁：柔软的偏执狂-b2bbf3b9.md","https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100394.pdf","raw/2026-08-10-部署与产品证据补证-batch-020.md"],"tags":["潮玩","泡泡玛特","THEMONSTERS","IP联名","盲盒"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/LABUBU/","title":"LABUBU","tags":["#潮玩","#泡泡玛特","#THEMONSTERS","#IP联名","#盲盒"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"LABUBU","source_count":4,"sources":["raw/2026-08-07-luyao-b016-81-“张飞穿洛丽塔”-拉布布-x三丽鸥联名！泡泡玛特-x-郭培-“娃娃穿上真高定”！-6380505d.md","raw/2026-08-07-luyao-b019-93-泡泡玛特王宁：柔软的偏执狂-b2bbf3b9.md","https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0421/2026042100394.pdf","raw/2026-08-10-部署与产品证据补证-batch-020.md"],"tags":["#潮玩","#泡泡玛特","#THEMONSTERS","#IP联名","#盲盒"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # LABUBU

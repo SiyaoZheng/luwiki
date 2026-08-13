@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WUDAPT/","title":"WUDAPT","tags":["城市数据","城市气候","LCZ","城市模拟","开放数据"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"WUDAPT","aliases":["World Urban Database and Access Portal Tools"],"source_count":6,"sources":["raw/2026-08-07-luyao-b026-129-World-Urban-Database-–-World-Urban-Database-and-Access-Portal-Tools-e8429c8c.md","https://www.wudapt.org/","https://www.wudapt.org/create-lcz-classification/","[[DataShareClub\|DataShareClub]]","[[潜空间数据同化\|潜空间数据同化]]","[[街景视域因子\|街景视域因子]]"],"tags":["城市数据","城市气候","LCZ","城市模拟","开放数据"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/WUDAPT/","title":"WUDAPT","tags":["#城市数据","#城市气候","#LCZ","#城市模拟","#开放数据"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"WUDAPT","aliases":["World Urban Database and Access Portal Tools"],"source_count":6,"sources":["raw/2026-08-07-luyao-b026-129-World-Urban-Database-–-World-Urban-Database-and-Access-Portal-Tools-e8429c8c.md","https://www.wudapt.org/","https://www.wudapt.org/create-lcz-classification/","[[DataShareClub\|DataShareClub]]","[[潜空间数据同化\|潜空间数据同化]]","[[街景视域因子\|街景视域因子]]"],"tags":["#城市数据","#城市气候","#LCZ","#城市模拟","#开放数据"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # WUDAPT

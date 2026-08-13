@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/EMOTIV/","title":"EMOTIV","tags":["EEG","BCI","可穿戴设备","NeuroAI","人体信号"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"EMOTIV","source_count":2,"sources":["raw/2026-08-07-luyao-b031-153-EMOTIV-59de91b9.md","https://www.emotiv.com/"],"tags":["EEG","BCI","可穿戴设备","NeuroAI","人体信号"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/EMOTIV/","title":"EMOTIV","tags":["#EEG","#BCI","#可穿戴设备","#NeuroAI","#人体信号"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"EMOTIV","source_count":2,"sources":["raw/2026-08-07-luyao-b031-153-EMOTIV-59de91b9.md","https://www.emotiv.com/"],"tags":["#EEG","#BCI","#可穿戴设备","#NeuroAI","#人体信号"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # EMOTIV

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AI 与大脑情绪系统/","title":"AI 与大脑情绪系统","tags":["NeuroAI","情绪学习","CNN","计算神经科学","情绪计算"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"AI 与大脑情绪系统","source_count":6,"sources":["raw/2026-08-07-luyao-b003-14-卷积神经网络也会“情绪联结”？一场人工智能与大脑情绪系统的正面对话-86673055.md","https://arxiv.org/abs/2607.19327","[[情绪计算\|情绪计算]]","[[泛化\|泛化]]","[[情绪调节过程模型\|情绪调节过程模型]]","raw/2026-08-10-研究制品复核-batch-014.md"],"tags":["NeuroAI","情绪学习","CNN","计算神经科学","情绪计算"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/AI 与大脑情绪系统/","title":"AI 与大脑情绪系统","tags":["#NeuroAI","#情绪学习","#CNN","#计算神经科学","#情绪计算"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"AI 与大脑情绪系统","source_count":6,"sources":["raw/2026-08-07-luyao-b003-14-卷积神经网络也会“情绪联结”？一场人工智能与大脑情绪系统的正面对话-86673055.md","https://arxiv.org/abs/2607.19327","[[情绪计算\|情绪计算]]","[[泛化\|泛化]]","[[情绪调节过程模型\|情绪调节过程模型]]","raw/2026-08-10-研究制品复核-batch-014.md"],"tags":["#NeuroAI","#情绪学习","#CNN","#计算神经科学","#情绪计算"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # AI 与大脑情绪系统

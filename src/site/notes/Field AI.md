@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Field AI/","title":"Field AI","tags":["机构","组织网络"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Field AI","aliases":["FieldAI"],"source_count":5,"sources":["raw/2026-08-09-前雇主产业组织与资本端点官方记录.md","https://www.fieldai.com/","raw/2026-08-10-平台主体身份补证-batch-019.md","https://www.fieldai.com/terms-of-use","https://www.fieldai.com/privacy-policy"],"tags":["机构","组织网络"],"created":"2026-08-09","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Field AI/","title":"Field AI","tags":["#机构","#组织网络"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Field AI","aliases":["FieldAI"],"source_count":5,"sources":["raw/2026-08-09-前雇主产业组织与资本端点官方记录.md","https://www.fieldai.com/","raw/2026-08-10-平台主体身份补证-batch-019.md","https://www.fieldai.com/terms-of-use","https://www.fieldai.com/privacy-policy"],"tags":["#机构","#组织网络"],"created":"2026-08-09","updated":"2026-08-10"}}
 ---
 
 # Field AI
