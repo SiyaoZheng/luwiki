@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zara Zhang/","title":"Zara Zhang","tags":["#人物","#Agent","#开源","#前端","#演示文稿"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Zara Zhang","source_count":5,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","https://github.com/zarazhangrui","https://deck.zarazhang.com/","[[Frontend Slides\|Frontend Slides]]"],"tags":["#人物","#Agent","#开源","#前端","#演示文稿"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Zara Zhang/","title":"Zara Zhang","tags":["人物","Agent","开源","前端","演示文稿"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Zara Zhang","source_count":5,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","https://github.com/zarazhangrui","https://deck.zarazhang.com/","[[Frontend Slides\|Frontend Slides]]"],"tags":["人物","Agent","开源","前端","演示文稿"],"created":"2026-08-10","updated":"2026-08-10"}}
 ---
 
 # Zara Zhang

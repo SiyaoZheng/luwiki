@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Date Drop/","title":"Date Drop","tags":["#校园社交","#约会应用","#匹配系统","#关系脚本","#产品"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Date Drop","source_count":2,"sources":["raw/2026-08-07-luyao-b055-271-Date-Drop校园约会匹配-trydatedrop.md","https://trydatedrop.com/"],"tags":["#校园社交","#约会应用","#匹配系统","#关系脚本","#产品"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/Date Drop/","title":"Date Drop","tags":["校园社交","约会应用","匹配系统","关系脚本","产品"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Date Drop","source_count":2,"sources":["raw/2026-08-07-luyao-b055-271-Date-Drop校园约会匹配-trydatedrop.md","https://trydatedrop.com/"],"tags":["校园社交","约会应用","匹配系统","关系脚本","产品"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # Date Drop

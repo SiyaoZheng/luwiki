@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/University of California San Diego/","title":"University of California San Diego","tags":["#高校","#美国","#学术网络","#数据科学"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University of California San Diego","aliases":["UC San Diego","UCSD","加州大学圣迭戈分校"],"source_count":4,"sources":["https://ucsd.edu/about/index.html","https://datascience.ucsd.edu/","https://datascience.ucsd.edu/people/biwei-huang/","https://yuewang.xyz/"],"tags":["#高校","#美国","#学术网络","#数据科学"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/University of California San Diego/","title":"University of California San Diego","tags":["高校","美国","学术网络","数据科学"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University of California San Diego","aliases":["UC San Diego","UCSD","加州大学圣迭戈分校"],"source_count":4,"sources":["https://ucsd.edu/about/index.html","https://datascience.ucsd.edu/","https://datascience.ucsd.edu/people/biwei-huang/","https://yuewang.xyz/"],"tags":["高校","美国","学术网络","数据科学"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # University of California San Diego

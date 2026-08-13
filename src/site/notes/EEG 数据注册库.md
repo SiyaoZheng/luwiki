@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/EEG 数据注册库/","title":"EEG 数据注册库","tags":["#EEG","#数据注册库","#NeuroAI","#数据基础设施","#开放科学"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"EEG 数据注册库","source_count":3,"sources":["raw/2026-08-07-luyao-b022-110-Brain-X---华南理工-麻省理工团队：面向EEG基础模型的大规模数据集-78bf3cb2.md","https://onlinelibrary.wiley.com/doi/10.1002/brx2.70046","https://zenodo.org/records/18815016"],"tags":["#EEG","#数据注册库","#NeuroAI","#数据基础设施","#开放科学"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/EEG 数据注册库/","title":"EEG 数据注册库","tags":["EEG","数据注册库","NeuroAI","数据基础设施","开放科学"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"EEG 数据注册库","source_count":3,"sources":["raw/2026-08-07-luyao-b022-110-Brain-X---华南理工-麻省理工团队：面向EEG基础模型的大规模数据集-78bf3cb2.md","https://onlinelibrary.wiley.com/doi/10.1002/brx2.70046","https://zenodo.org/records/18815016"],"tags":["EEG","数据注册库","NeuroAI","数据基础设施","开放科学"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # EEG 数据注册库

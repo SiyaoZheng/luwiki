@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/香港中文大学 MMLab/","title":"香港中文大学 MMLab","tags":["#实验室","#香港中文大学","#计算机视觉","#机器学习"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"香港中文大学 MMLab","aliases":["CUHK MMLab","Multimedia Laboratory CUHK","港中文 MMLab"],"source_count":5,"sources":["raw/2026-08-09-中国高校机构官方记录-香港高校.md","raw/2026-08-10-公共机构人物补证-batch-018.md","https://mmlab.ie.cuhk.edu.hk/","https://mmlab.ie.cuhk.edu.hk/alumni.html","https://mmlab.ie.cuhk.edu.hk/people.html"],"tags":["#实验室","#香港中文大学","#计算机视觉","#机器学习"],"created":"2026-08-09","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/香港中文大学 MMLab/","title":"香港中文大学 MMLab","tags":["实验室","香港中文大学","计算机视觉","机器学习"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"香港中文大学 MMLab","aliases":["CUHK MMLab","Multimedia Laboratory CUHK","港中文 MMLab"],"source_count":5,"sources":["raw/2026-08-09-中国高校机构官方记录-香港高校.md","raw/2026-08-10-公共机构人物补证-batch-018.md","https://mmlab.ie.cuhk.edu.hk/","https://mmlab.ie.cuhk.edu.hk/alumni.html","https://mmlab.ie.cuhk.edu.hk/people.html"],"tags":["实验室","香港中文大学","计算机视觉","机器学习"],"created":"2026-08-09","updated":"2026-08-10"}}
 ---
 
 # 香港中文大学 MMLab

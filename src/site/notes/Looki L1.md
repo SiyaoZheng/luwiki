@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Looki L1/","title":"Looki L1","tags":["#AI硬件","#可穿戴设备","#AI记忆","#影像设备","#隐私"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Looki L1","source_count":3,"sources":["raw/2026-08-07-luyao-b048-235-AI硬件新物种爆火-Looki-L1理念成熟但体验让人失望-3a46e57a.md","[[AI 可穿戴上下文设备\|AI 可穿戴上下文设备]]","raw/2026-08-07-luyao-b054-266-Looki-L1穿戴式AI生活日志相机-ffa68124.md"],"tags":["#AI硬件","#可穿戴设备","#AI记忆","#影像设备","#隐私"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/Looki L1/","title":"Looki L1","tags":["AI硬件","可穿戴设备","AI记忆","影像设备","隐私"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Looki L1","source_count":3,"sources":["raw/2026-08-07-luyao-b048-235-AI硬件新物种爆火-Looki-L1理念成熟但体验让人失望-3a46e57a.md","[[AI 可穿戴上下文设备\|AI 可穿戴上下文设备]]","raw/2026-08-07-luyao-b054-266-Looki-L1穿戴式AI生活日志相机-ffa68124.md"],"tags":["AI硬件","可穿戴设备","AI记忆","影像设备","隐私"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # Looki L1

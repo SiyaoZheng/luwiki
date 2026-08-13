@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AI4SS 技术入门/","title":"AI4SS 技术入门","tags":["#AI4SS","#计算社会科学","#Agent","#研究基础设施","#教学"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"AI4SS 技术入门","source_count":1,"sources":["raw/2026-08-07-luyao-b052-256-AI4SS技术入门-7408f5e1.md"],"tags":["#AI4SS","#计算社会科学","#Agent","#研究基础设施","#教学"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/AI4SS 技术入门/","title":"AI4SS 技术入门","tags":["AI4SS","计算社会科学","Agent","研究基础设施","教学"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"AI4SS 技术入门","source_count":1,"sources":["raw/2026-08-07-luyao-b052-256-AI4SS技术入门-7408f5e1.md"],"tags":["AI4SS","计算社会科学","Agent","研究基础设施","教学"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # AI4SS 技术入门

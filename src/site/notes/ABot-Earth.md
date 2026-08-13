@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ABot-Earth/","title":"ABot-Earth","tags":["#空间智能","#世界模型","#3DGS","#数字孪生","#高德"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"ABot-Earth","source_count":7,"sources":["raw/2026-08-07-luyao-b023-112-高德发布全球首个3D原生城市世界模型ABot-Earth0.5，已开放内测-c3230453.md","https://abot-earth.amap.com/","https://github.com/amap-cvlab/ABot-Earth-0.5","https://arxiv.org/abs/2606.09967","[[WUDAPT\|WUDAPT]]","[[MILO\|MILO]]","raw/2026-08-10-研究制品复核-batch-014.md"],"tags":["#空间智能","#世界模型","#3DGS","#数字孪生","#高德"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/ABot-Earth/","title":"ABot-Earth","tags":["空间智能","世界模型","3DGS","数字孪生","高德"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"ABot-Earth","source_count":7,"sources":["raw/2026-08-07-luyao-b023-112-高德发布全球首个3D原生城市世界模型ABot-Earth0.5，已开放内测-c3230453.md","https://abot-earth.amap.com/","https://github.com/amap-cvlab/ABot-Earth-0.5","https://arxiv.org/abs/2606.09967","[[WUDAPT\|WUDAPT]]","[[MILO\|MILO]]","raw/2026-08-10-研究制品复核-batch-014.md"],"tags":["空间智能","世界模型","3DGS","数字孪生","高德"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # ABot-Earth

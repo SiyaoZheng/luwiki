@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/GOAI 世界人工智能开源大赛/","title":"GOAI 世界人工智能开源大赛","tags":["#开源","#AI竞赛","#Agent","#具身智能","#杭州"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"GOAI 世界人工智能开源大赛","source_count":5,"sources":["raw/2026-08-07-luyao-b008-36-Global-丨全球汇聚-449f094c.md","https://www.goaihz.com/","raw/2026-08-10-全库硬未决最终收口-batch-033.md","https://www.goaihz.com/tracks","https://www.goaihz.com/guide"],"tags":["#开源","#AI竞赛","#Agent","#具身智能","#杭州"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/GOAI 世界人工智能开源大赛/","title":"GOAI 世界人工智能开源大赛","tags":["开源","AI竞赛","Agent","具身智能","杭州"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"GOAI 世界人工智能开源大赛","source_count":5,"sources":["raw/2026-08-07-luyao-b008-36-Global-丨全球汇聚-449f094c.md","https://www.goaihz.com/","raw/2026-08-10-全库硬未决最终收口-batch-033.md","https://www.goaihz.com/tracks","https://www.goaihz.com/guide"],"tags":["开源","AI竞赛","Agent","具身智能","杭州"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # GOAI 世界人工智能开源大赛

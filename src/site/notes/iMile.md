@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iMile/","title":"iMile","tags":["#机构","#组织网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"iMile","aliases":["iMile Delivery"],"source_count":2,"sources":["raw/2026-08-09-前雇主产业组织与资本端点官方记录.md","https://www.imile.com/AE-en/AboutUs"],"tags":["#机构","#组织网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/iMile/","title":"iMile","tags":["机构","组织网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"iMile","aliases":["iMile Delivery"],"source_count":2,"sources":["raw/2026-08-09-前雇主产业组织与资本端点官方记录.md","https://www.imile.com/AE-en/AboutUs"],"tags":["机构","组织网络"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # iMile

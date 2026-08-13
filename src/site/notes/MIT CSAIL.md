@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/MIT CSAIL/","title":"MIT CSAIL","tags":["#实验室","#MIT","#计算机科学","#人工智能"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"MIT CSAIL","aliases":["MIT Computer Science and Artificial Intelligence Laboratory","麻省理工学院计算机科学与人工智能实验室"],"source_count":3,"sources":["https://www.csail.mit.edu/about/mission-history","https://www.csail.mit.edu/research/geometric-data-processing-group","https://groups.csail.mit.edu/gdpgroup/team.html"],"tags":["#实验室","#MIT","#计算机科学","#人工智能"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/MIT CSAIL/","title":"MIT CSAIL","tags":["实验室","MIT","计算机科学","人工智能"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"MIT CSAIL","aliases":["MIT Computer Science and Artificial Intelligence Laboratory","麻省理工学院计算机科学与人工智能实验室"],"source_count":3,"sources":["https://www.csail.mit.edu/about/mission-history","https://www.csail.mit.edu/research/geometric-data-processing-group","https://groups.csail.mit.edu/gdpgroup/team.html"],"tags":["实验室","MIT","计算机科学","人工智能"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # MIT CSAIL

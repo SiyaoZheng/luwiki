@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/MIT EECS/","title":"MIT EECS","tags":["#院系","#MIT","#计算机科学","#电气工程"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"MIT EECS","aliases":["MIT Department of Electrical Engineering and Computer Science","麻省理工学院电子工程与计算机科学系"],"source_count":4,"sources":["https://www.eecs.mit.edu/about/","https://www.eecs.mit.edu/about/departmental-organization/","https://groups.csail.mit.edu/gdpgroup/team.html","https://yuewang.xyz/"],"tags":["#院系","#MIT","#计算机科学","#电气工程"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/MIT EECS/","title":"MIT EECS","tags":["院系","MIT","计算机科学","电气工程"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"MIT EECS","aliases":["MIT Department of Electrical Engineering and Computer Science","麻省理工学院电子工程与计算机科学系"],"source_count":4,"sources":["https://www.eecs.mit.edu/about/","https://www.eecs.mit.edu/about/departmental-organization/","https://groups.csail.mit.edu/gdpgroup/team.html","https://yuewang.xyz/"],"tags":["院系","MIT","计算机科学","电气工程"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # MIT EECS

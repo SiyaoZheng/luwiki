@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Emergence World/","title":"Emergence World","tags":["#Agent","#多智能体","#社会模拟","#长程评测","#世界模型"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Emergence World","source_count":6,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","https://www.emergence.ai/blog/emergence-world-a-laboratory-for-evaluating-long-horizon-agent-autonomy","https://world.emergence.ai/","https://github.com/EmergenceAI/Emergence-World","[[Emergence AI\|Emergence AI]]"],"tags":["#Agent","#多智能体","#社会模拟","#长程评测","#世界模型"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Emergence World/","title":"Emergence World","tags":["Agent","多智能体","社会模拟","长程评测","世界模型"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Emergence World","source_count":6,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","https://www.emergence.ai/blog/emergence-world-a-laboratory-for-evaluating-long-horizon-agent-autonomy","https://world.emergence.ai/","https://github.com/EmergenceAI/Emergence-World","[[Emergence AI\|Emergence AI]]"],"tags":["Agent","多智能体","社会模拟","长程评测","世界模型"],"created":"2026-08-10","updated":"2026-08-10"}}
 ---
 
 # Emergence World

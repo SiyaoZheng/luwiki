@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SparkLabs/","title":"SparkLabs","tags":["#游戏AI","#开源项目","#AI游戏引擎","#NPC","#Agent"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"SparkLabs","source_count":3,"sources":["raw/2026-08-07-luyao-b007-31-SparkLabs：首个-AI-原生游戏引擎，NPC-终于拥有了真正的大脑-4411779d.md","https://github.com/Yuan-ManX/SparkLabs","https://github.com/Yuan-ManX"],"tags":["#游戏AI","#开源项目","#AI游戏引擎","#NPC","#Agent"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/SparkLabs/","title":"SparkLabs","tags":["游戏AI","开源项目","AI游戏引擎","NPC","Agent"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"SparkLabs","source_count":3,"sources":["raw/2026-08-07-luyao-b007-31-SparkLabs：首个-AI-原生游戏引擎，NPC-终于拥有了真正的大脑-4411779d.md","https://github.com/Yuan-ManX/SparkLabs","https://github.com/Yuan-ManX"],"tags":["游戏AI","开源项目","AI游戏引擎","NPC","Agent"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # SparkLabs

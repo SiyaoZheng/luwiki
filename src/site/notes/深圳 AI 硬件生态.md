@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/深圳 AI 硬件生态/","title":"深圳 AI 硬件生态","tags":["#深圳","#AI硬件","#创业生态","#具身智能","#开源硬件"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"深圳 AI 硬件生态","source_count":3,"sources":["raw/2026-08-07-luyao-b036-178-深圳AI硬件十分疯狂-ac681d17.md","[[十镜科技\|十镜科技]]","[[AI 可穿戴上下文设备\|AI 可穿戴上下文设备]]"],"tags":["#深圳","#AI硬件","#创业生态","#具身智能","#开源硬件"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/深圳 AI 硬件生态/","title":"深圳 AI 硬件生态","tags":["深圳","AI硬件","创业生态","具身智能","开源硬件"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"深圳 AI 硬件生态","source_count":3,"sources":["raw/2026-08-07-luyao-b036-178-深圳AI硬件十分疯狂-ac681d17.md","[[十镜科技\|十镜科技]]","[[AI 可穿戴上下文设备\|AI 可穿戴上下文设备]]"],"tags":["深圳","AI硬件","创业生态","具身智能","开源硬件"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # 深圳 AI 硬件生态

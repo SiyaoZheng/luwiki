@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/University of Washington/","title":"University of Washington","tags":["#高校","#美国","#学术网络","#AI芯片"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University of Washington","aliases":["UW","华盛顿大学"],"source_count":2,"sources":["https://www.washington.edu/about/","https://m.36kr.com/p/3865136165344516"],"tags":["#高校","#美国","#学术网络","#AI芯片"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/University of Washington/","title":"University of Washington","tags":["高校","美国","学术网络","AI芯片"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University of Washington","aliases":["UW","华盛顿大学"],"source_count":2,"sources":["https://www.washington.edu/about/","https://m.36kr.com/p/3865136165344516"],"tags":["高校","美国","学术网络","AI芯片"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # University of Washington

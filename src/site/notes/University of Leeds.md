@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/University of Leeds/","title":"University of Leeds","tags":["#高校","#英国","#教育网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University of Leeds","aliases":["利兹大学"],"source_count":2,"sources":["raw/2026-08-09-Mile-Robotics-英国登记与人物机构记录.md","https://www.leeds.ac.uk/about"],"tags":["#高校","#英国","#教育网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/University of Leeds/","title":"University of Leeds","tags":["高校","英国","教育网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University of Leeds","aliases":["利兹大学"],"source_count":2,"sources":["raw/2026-08-09-Mile-Robotics-英国登记与人物机构记录.md","https://www.leeds.ac.uk/about"],"tags":["高校","英国","教育网络"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # University of Leeds

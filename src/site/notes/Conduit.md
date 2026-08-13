@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Conduit/","title":"Conduit","tags":["#NeuroAI","#脑机接口","#神经数据","#thought-to-text","#创业公司"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Conduit","source_count":5,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","https://condu.it/","https://condu.it/thought/10k-hours","https://naomibashkansky.com/blog/telepathy/"],"tags":["#NeuroAI","#脑机接口","#神经数据","#thought-to-text","#创业公司"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Conduit/","title":"Conduit","tags":["NeuroAI","脑机接口","神经数据","thought-to-text","创业公司"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Conduit","source_count":5,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","https://condu.it/","https://condu.it/thought/10k-hours","https://naomibashkansky.com/blog/telepathy/"],"tags":["NeuroAI","脑机接口","神经数据","thought-to-text","创业公司"],"created":"2026-08-10","updated":"2026-08-10"}}
 ---
 
 # Conduit

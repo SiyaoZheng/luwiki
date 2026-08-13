@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/MBTI 智性恋叙事/","title":"MBTI 智性恋叙事","tags":["#MBTI","#亲密关系","#网络文化","#人格类型","#情感叙事"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"MBTI 智性恋叙事","source_count":2,"sources":["raw/2026-08-07-luyao-b046-224-INTP+ENTJ：药水姐和指挥官为什么是智性恋天花板？-2b5915ae.md","[[Date Drop\|Date Drop]]"],"tags":["#MBTI","#亲密关系","#网络文化","#人格类型","#情感叙事"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/MBTI 智性恋叙事/","title":"MBTI 智性恋叙事","tags":["MBTI","亲密关系","网络文化","人格类型","情感叙事"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"MBTI 智性恋叙事","source_count":2,"sources":["raw/2026-08-07-luyao-b046-224-INTP+ENTJ：药水姐和指挥官为什么是智性恋天花板？-2b5915ae.md","[[Date Drop\|Date Drop]]"],"tags":["MBTI","亲密关系","网络文化","人格类型","情感叙事"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # MBTI 智性恋叙事

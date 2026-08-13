@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/IDG资本/","title":"IDG资本","tags":["#机构","#投资","#组织网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"IDG资本","aliases":["IDG Capital"],"source_count":2,"sources":["raw/2026-08-09-前雇主产业组织与资本端点官方记录.md","https://idgcapital.com/cn/about-us-2/"],"tags":["#机构","#投资","#组织网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/IDG资本/","title":"IDG资本","tags":["机构","投资","组织网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"IDG资本","aliases":["IDG Capital"],"source_count":2,"sources":["raw/2026-08-09-前雇主产业组织与资本端点官方记录.md","https://idgcapital.com/cn/about-us-2/"],"tags":["机构","投资","组织网络"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # IDG资本

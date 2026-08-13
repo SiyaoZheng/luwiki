@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Amazon/","title":"Amazon","tags":["#公司","#电子商务","#云服务","#广告","#订阅","#并购","#投资"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Amazon","tags":["#公司","#电子商务","#云服务","#广告","#订阅","#并购","#投资"],"sources":["raw/2026-08-11-Amazon商业实体财务治理并购与Anthropic关系核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Amazon/","title":"Amazon","tags":["公司","电子商务","云服务","广告","订阅","并购","投资"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Amazon","tags":["公司","电子商务","云服务","广告","订阅","并购","投资"],"sources":["raw/2026-08-11-Amazon商业实体财务治理并购与Anthropic关系核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 <!-- issue: luwiki-beic -->

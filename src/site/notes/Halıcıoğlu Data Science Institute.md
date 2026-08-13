@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Halıcıoğlu Data Science Institute/","title":"Halıcıoğlu Data Science Institute","tags":["#研究机构","#数据科学","#UCSD","#学术网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Halıcıoğlu Data Science Institute","aliases":["HDSI","Halicioglu Data Science Institute","哈利乔卢数据科学研究所"],"source_count":3,"sources":["https://datascience.ucsd.edu/","https://datascience.ucsd.edu/people/biwei-huang/","https://datascience.ucsd.edu/research/theoretical-foundations-of-data-science/"],"tags":["#研究机构","#数据科学","#UCSD","#学术网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Halıcıoğlu Data Science Institute/","title":"Halıcıoğlu Data Science Institute","tags":["研究机构","数据科学","UCSD","学术网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Halıcıoğlu Data Science Institute","aliases":["HDSI","Halicioglu Data Science Institute","哈利乔卢数据科学研究所"],"source_count":3,"sources":["https://datascience.ucsd.edu/","https://datascience.ucsd.edu/people/biwei-huang/","https://datascience.ucsd.edu/research/theoretical-foundations-of-data-science/"],"tags":["研究机构","数据科学","UCSD","学术网络"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Halıcıoğlu Data Science Institute

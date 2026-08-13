@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cornell University/","title":"Cornell University","tags":["#高校","#美国","#系统工程","#智能电网"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Cornell University","aliases":["Cornell","康奈尔大学"],"source_count":3,"sources":["https://www.cornell.edu/about/","https://qzz2023.github.io/","https://wzy.ece.iastate.edu/CV/c209.pdf"],"tags":["#高校","#美国","#系统工程","#智能电网"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Cornell University/","title":"Cornell University","tags":["高校","美国","系统工程","智能电网"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Cornell University","aliases":["Cornell","康奈尔大学"],"source_count":3,"sources":["https://www.cornell.edu/about/","https://qzz2023.github.io/","https://wzy.ece.iastate.edu/CV/c209.pdf"],"tags":["高校","美国","系统工程","智能电网"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Cornell University

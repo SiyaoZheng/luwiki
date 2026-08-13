@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mile Robotics/","title":"Mile Robotics","tags":["#机器人","#仿真","#具身智能","#数据基础设施"],"created":"2026-08-07","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Mile Robotics","source_count":5,"sources":["raw/2026-08-07-luyao-b002-10-Mile-Robotics.-Next-Gen-Simulations-for-Robot-In-92fb7f65.md","raw/2026-08-09-Mile-Robotics-英国登记与人物机构记录.md","https://milelabs.co/","https://www.f6s.com/company/mile-robotics-ltd","https://find-and-update.company-information.service.gov.uk/company/17195589/officers"],"tags":["#机器人","#仿真","#具身智能","#数据基础设施"],"created":"2026-08-07","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Mile Robotics/","title":"Mile Robotics","tags":["机器人","仿真","具身智能","数据基础设施"],"created":"2026-08-07","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Mile Robotics","source_count":5,"sources":["raw/2026-08-07-luyao-b002-10-Mile-Robotics.-Next-Gen-Simulations-for-Robot-In-92fb7f65.md","raw/2026-08-09-Mile-Robotics-英国登记与人物机构记录.md","https://milelabs.co/","https://www.f6s.com/company/mile-robotics-ltd","https://find-and-update.company-information.service.gov.uk/company/17195589/officers"],"tags":["机器人","仿真","具身智能","数据基础设施"],"created":"2026-08-07","updated":"2026-08-09"}}
 ---
 
 # Mile Robotics

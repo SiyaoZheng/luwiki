@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Swarthmore College/","title":"Swarthmore College","tags":["#高校","#美国","#学术网络","#文理学院"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Swarthmore College","aliases":["斯沃斯莫尔学院"],"source_count":2,"sources":["https://www.swarthmore.edu/sites/default/files/assets/documents/admissions-aid/9.2023_FactSheet%20-%20Domestic%20-%20Updated_V2.pdf","https://www.joonsungpark.com/cv"],"tags":["#高校","#美国","#学术网络","#文理学院"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Swarthmore College/","title":"Swarthmore College","tags":["高校","美国","学术网络","文理学院"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Swarthmore College","aliases":["斯沃斯莫尔学院"],"source_count":2,"sources":["https://www.swarthmore.edu/sites/default/files/assets/documents/admissions-aid/9.2023_FactSheet%20-%20Domestic%20-%20Updated_V2.pdf","https://www.joonsungpark.com/cv"],"tags":["高校","美国","学术网络","文理学院"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Swarthmore College

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Wiichee/","title":"Wiichee","tags":["#智能测量","#空间数据","#硬件产品"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Wiichee","aliases":["微尺"],"source_count":4,"sources":["raw/2026-08-07-luyao-b033-159-AING硬迹-AING硬迹-AING硬迹-bf651297.md","https://wiichee.com/","https://wiichee.com/pages/wiichee-basic","https://apps.apple.com/cn/app/id6746122794"],"tags":["#智能测量","#空间数据","#硬件产品"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Wiichee/","title":"Wiichee","tags":["智能测量","空间数据","硬件产品"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Wiichee","aliases":["微尺"],"source_count":4,"sources":["raw/2026-08-07-luyao-b033-159-AING硬迹-AING硬迹-AING硬迹-bf651297.md","https://wiichee.com/","https://wiichee.com/pages/wiichee-basic","https://apps.apple.com/cn/app/id6746122794"],"tags":["智能测量","空间数据","硬件产品"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Wiichee

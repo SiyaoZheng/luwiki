@@ -70,6 +70,7 @@ Intel 的 2026 年第二季度报告分部是 [[Client Computing and Physical AI
 - Intel 主要向 OEM、ODM、云服务提供商、其他制造商和渠道伙伴销售；三大客户保持匿名。
 - 部分先进产品依赖 [[Taiwan Semiconductor Manufacturing Company Limited\|Taiwan Semiconductor Manufacturing Company Limited]] 制造关键部件，Intel 披露与其没有长期合同；[[ASML Holding N.V.\|ASML Holding N.V.]] 是 Intel 极紫外光刻设备的单一供应商。供应依赖不等于供应商对 Intel 持股或控制。
 - [[2024 AWS与Intel战略合作\|2024 AWS与Intel战略合作]]由 Intel Corporation 与 Amazon Web Services, Inc. 建立多年、多十亿美元框架，覆盖产品、晶圆和共同投入；公开公告不足以证明已确认收入、实际交付量或排他关系。
+- [[2026 Intel与SambaNova战略合作\|2026 Intel与SambaNova战略合作]]记录双方从2026年2月拟议多年合作到4月一手确认已签协议的过程；合作与Intel Capital参与Series E分开，且未来可用计划不等于完成供应或客户验收。
 - [[刘凌志\|刘凌志]]的公开履历把 Intel 经历列作其更早的技术管理任职。前任职不能推出 Intel 对凌川科技持股、授权或保持现时合作。
 
 ## 证据边界

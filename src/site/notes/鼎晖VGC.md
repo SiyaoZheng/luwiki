@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/鼎晖VGC/","title":"鼎晖VGC","tags":["#风险投资","#成长投资","#鼎晖投资"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"鼎晖VGC","aliases":["CDH VGC"],"source_count":3,"sources":["raw/2026-08-07-luyao-b033-159-AING硬迹-AING硬迹-AING硬迹-bf651297.md","https://www.cdhfund.com/vgc/","https://finance.sina.com.cn/tech/shenji/2026-05-25/doc-inhzamvq2664737.shtml"],"tags":["#风险投资","#成长投资","#鼎晖投资"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/鼎晖VGC/","title":"鼎晖VGC","tags":["风险投资","成长投资","鼎晖投资"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"鼎晖VGC","aliases":["CDH VGC"],"source_count":3,"sources":["raw/2026-08-07-luyao-b033-159-AING硬迹-AING硬迹-AING硬迹-bf651297.md","https://www.cdhfund.com/vgc/","https://finance.sina.com.cn/tech/shenji/2026-05-25/doc-inhzamvq2664737.shtml"],"tags":["风险投资","成长投资","鼎晖投资"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # 鼎晖VGC

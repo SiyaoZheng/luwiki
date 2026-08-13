@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/GEZHI 观察台/","title":"GEZHI 观察台","tags":["#GEZHI","#弱信号","#Agent","#anomaly","#工作流"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"GEZHI 观察台","source_count":1,"sources":["raw/2026-08-07-luyao-b027-134-观察台-·-GEZHI-·-弱信号智能体-8c5ebd8e.md"],"tags":["#GEZHI","#弱信号","#Agent","#anomaly","#工作流"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/GEZHI 观察台/","title":"GEZHI 观察台","tags":["GEZHI","弱信号","Agent","anomaly","工作流"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"GEZHI 观察台","source_count":1,"sources":["raw/2026-08-07-luyao-b027-134-观察台-·-GEZHI-·-弱信号智能体-8c5ebd8e.md"],"tags":["GEZHI","弱信号","Agent","anomaly","工作流"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # GEZHI 观察台

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Naomi Bashkansky/","title":"Naomi Bashkansky","tags":["#人物","#AI安全","#NeuroAI","#脑机接口","#创业"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Naomi Bashkansky","source_count":3,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","https://naomibashkansky.com/blog/telepathy/"],"tags":["#人物","#AI安全","#NeuroAI","#脑机接口","#创业"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Naomi Bashkansky/","title":"Naomi Bashkansky","tags":["人物","AI安全","NeuroAI","脑机接口","创业"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Naomi Bashkansky","source_count":3,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","https://naomibashkansky.com/blog/telepathy/"],"tags":["人物","AI安全","NeuroAI","脑机接口","创业"],"created":"2026-08-10","updated":"2026-08-10"}}
 ---
 
 # Naomi Bashkansky

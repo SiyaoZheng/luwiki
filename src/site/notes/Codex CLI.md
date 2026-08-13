@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Codex CLI/","title":"Codex CLI","tags":["#OpenAI","#Codex","#CLI","#Agent","#开发工具"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"seed","title":"Codex CLI","source_count":5,"sources":["raw/2026-08-07-luyao-b006-26-Inspect,-edit,-and-run-code-from-your-terminal-2c5be618.md","[[Frontend Slides\|Frontend Slides]]","[[CC Switch\|CC Switch]]","raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md"],"tags":["#OpenAI","#Codex","#CLI","#Agent","#开发工具"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Codex CLI/","title":"Codex CLI","tags":["OpenAI","Codex","CLI","Agent","开发工具"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"seed","title":"Codex CLI","source_count":5,"sources":["raw/2026-08-07-luyao-b006-26-Inspect,-edit,-and-run-code-from-your-terminal-2c5be618.md","[[Frontend Slides\|Frontend Slides]]","[[CC Switch\|CC Switch]]","raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md"],"tags":["OpenAI","Codex","CLI","Agent","开发工具"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # Codex CLI

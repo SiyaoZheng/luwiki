@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Harvard Medical School/","title":"Harvard Medical School","tags":["#医学院","#Harvard","#美国","#脑科学"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Harvard Medical School","aliases":["HMS","哈佛医学院"],"source_count":3,"sources":["https://hms.harvard.edu/about-hms","https://www.harvard.edu/about/","https://mplus-gallery.nimbus-nimo.com/project/2024F-021"],"tags":["#医学院","#Harvard","#美国","#脑科学"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Harvard Medical School/","title":"Harvard Medical School","tags":["医学院","Harvard","美国","脑科学"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Harvard Medical School","aliases":["HMS","哈佛医学院"],"source_count":3,"sources":["https://hms.harvard.edu/about-hms","https://www.harvard.edu/about/","https://mplus-gallery.nimbus-nimo.com/project/2024F-021"],"tags":["医学院","Harvard","美国","脑科学"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Harvard Medical School

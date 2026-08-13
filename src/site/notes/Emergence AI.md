@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Emergence AI/","title":"Emergence AI","tags":["#Agent","#公司","#自主系统","#验证","#多智能体"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Emergence AI","source_count":4,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","https://www.emergence.ai/about-us","[[Emergence World\|Emergence World]]"],"tags":["#Agent","#公司","#自主系统","#验证","#多智能体"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Emergence AI/","title":"Emergence AI","tags":["Agent","公司","自主系统","验证","多智能体"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Emergence AI","source_count":4,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","https://www.emergence.ai/about-us","[[Emergence World\|Emergence World]]"],"tags":["Agent","公司","自主系统","验证","多智能体"],"created":"2026-08-10","updated":"2026-08-10"}}
 ---
 
 # Emergence AI

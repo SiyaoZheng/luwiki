@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/University of Manchester/","title":"University of Manchester","tags":["#高校","#英国","#教育网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University of Manchester","aliases":["曼彻斯特大学"],"source_count":1,"sources":["https://www.manchester.ac.uk/about/"],"tags":["#高校","#英国","#教育网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/University of Manchester/","title":"University of Manchester","tags":["高校","英国","教育网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University of Manchester","aliases":["曼彻斯特大学"],"source_count":1,"sources":["https://www.manchester.ac.uk/about/"],"tags":["高校","英国","教育网络"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # University of Manchester

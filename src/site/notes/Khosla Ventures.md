@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Khosla Ventures/","title":"Khosla Ventures","tags":["#机构","#投资","#组织网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Khosla Ventures","aliases":[],"source_count":2,"sources":["raw/2026-08-09-公司前雇主与融资重连证据.md","https://www.khoslaventures.com/"],"tags":["#机构","#投资","#组织网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Khosla Ventures/","title":"Khosla Ventures","tags":["机构","投资","组织网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Khosla Ventures","aliases":[],"source_count":2,"sources":["raw/2026-08-09-公司前雇主与融资重连证据.md","https://www.khoslaventures.com/"],"tags":["机构","投资","组织网络"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Khosla Ventures

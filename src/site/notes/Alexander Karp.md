@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Alexander Karp/","title":"Alexander Karp","tags":["#人物","#企业软件","#创业者","#学术网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Alexander Karp","aliases":["Alexander C. Karp","Alex Karp"],"source_count":2,"sources":["https://www.sec.gov/Archives/edgar/data/1321655/000132165526000019/pltr-20260423.htm","https://www.sec.gov/Archives/edgar/data/1321655/000119312521140597/d137991ddef14a.htm"],"tags":["#人物","#企业软件","#创业者","#学术网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Alexander Karp/","title":"Alexander Karp","tags":["人物","企业软件","创业者","学术网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Alexander Karp","aliases":["Alexander C. Karp","Alex Karp"],"source_count":2,"sources":["https://www.sec.gov/Archives/edgar/data/1321655/000132165526000019/pltr-20260423.htm","https://www.sec.gov/Archives/edgar/data/1321655/000119312521140597/d137991ddef14a.htm"],"tags":["人物","企业软件","创业者","学术网络"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Alexander Karp

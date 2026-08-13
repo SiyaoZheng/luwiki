@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/University of Illinois Urbana-Champaign/","title":"University of Illinois Urbana-Champaign","tags":["#高校","#美国","#学术网络","#计算机科学"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University of Illinois Urbana-Champaign","aliases":["UIUC","University of Illinois at Urbana-Champaign","伊利诺伊大学厄巴纳-香槟分校"],"source_count":2,"sources":["https://illinois.edu/about/","https://www.joonsungpark.com/cv"],"tags":["#高校","#美国","#学术网络","#计算机科学"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/University of Illinois Urbana-Champaign/","title":"University of Illinois Urbana-Champaign","tags":["高校","美国","学术网络","计算机科学"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University of Illinois Urbana-Champaign","aliases":["UIUC","University of Illinois at Urbana-Champaign","伊利诺伊大学厄巴纳-香槟分校"],"source_count":2,"sources":["https://illinois.edu/about/","https://www.joonsungpark.com/cv"],"tags":["高校","美国","学术网络","计算机科学"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # University of Illinois Urbana-Champaign

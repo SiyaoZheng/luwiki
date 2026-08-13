@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Kleiner Perkins/","title":"Kleiner Perkins","tags":["#机构","#投资","#组织网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Kleiner Perkins","aliases":["KPCB"],"source_count":2,"sources":["raw/2026-08-09-前雇主产业组织与资本端点官方记录.md","https://www.kleinerperkins.com/"],"tags":["#机构","#投资","#组织网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Kleiner Perkins/","title":"Kleiner Perkins","tags":["机构","投资","组织网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Kleiner Perkins","aliases":["KPCB"],"source_count":2,"sources":["raw/2026-08-09-前雇主产业组织与资本端点官方记录.md","https://www.kleinerperkins.com/"],"tags":["机构","投资","组织网络"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Kleiner Perkins

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Looped World Models/","title":"Looped World Models","tags":["#世界模型","#LoopEngineering","#具身智能","#EgoCentricData"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Looped World Models","source_count":3,"sources":["raw/2026-08-07-luyao-b015-72-AI圈刚开始谈Loop-Engineering，两位95后博士已经盯上了人类闭环数据-1e42d860.md","https://arxiv.org/abs/2606.18208","raw/2026-08-10-研究制品复核-batch-014.md"],"tags":["#世界模型","#LoopEngineering","#具身智能","#EgoCentricData"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Looped World Models/","title":"Looped World Models","tags":["世界模型","LoopEngineering","具身智能","EgoCentricData"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Looped World Models","source_count":3,"sources":["raw/2026-08-07-luyao-b015-72-AI圈刚开始谈Loop-Engineering，两位95后博士已经盯上了人类闭环数据-1e42d860.md","https://arxiv.org/abs/2606.18208","raw/2026-08-10-研究制品复核-batch-014.md"],"tags":["世界模型","LoopEngineering","具身智能","EgoCentricData"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # Looped World Models

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/金融数据 MCP/","title":"金融数据 MCP","tags":["#MCP","#金融科技","#Agent","#数据接口","#风险"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"金融数据 MCP","source_count":3,"sources":["raw/2026-08-07-luyao-b018-90-金融AI系统开源！打通AI实时金融投研，10分钟搞定量化分析!-完全免费！适合金融投资！-8d93e290.md","https://www.gitcc.com/zhangqiang/tradingview-mcp-cn","[[Qlib\|Qlib]]"],"tags":["#MCP","#金融科技","#Agent","#数据接口","#风险"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/金融数据 MCP/","title":"金融数据 MCP","tags":["MCP","金融科技","Agent","数据接口","风险"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"金融数据 MCP","source_count":3,"sources":["raw/2026-08-07-luyao-b018-90-金融AI系统开源！打通AI实时金融投研，10分钟搞定量化分析!-完全免费！适合金融投资！-8d93e290.md","https://www.gitcc.com/zhangqiang/tradingview-mcp-cn","[[Qlib\|Qlib]]"],"tags":["MCP","金融科技","Agent","数据接口","风险"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # 金融数据 MCP

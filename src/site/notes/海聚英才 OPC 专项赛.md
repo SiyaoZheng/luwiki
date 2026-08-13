@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/海聚英才 OPC 专项赛/","title":"海聚英才 OPC 专项赛","tags":["#OPC","#AI创业","#黑客松","#上海徐汇","#多智能体"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"海聚英才 OPC 专项赛","source_count":1,"sources":["raw/2026-08-07-luyao-b016-79-第六届海聚英才OPC专项赛招募开启！-21154985.md"],"tags":["#OPC","#AI创业","#黑客松","#上海徐汇","#多智能体"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/海聚英才 OPC 专项赛/","title":"海聚英才 OPC 专项赛","tags":["OPC","AI创业","黑客松","上海徐汇","多智能体"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"海聚英才 OPC 专项赛","source_count":1,"sources":["raw/2026-08-07-luyao-b016-79-第六届海聚英才OPC专项赛招募开启！-21154985.md"],"tags":["OPC","AI创业","黑客松","上海徐汇","多智能体"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # 海聚英才 OPC 专项赛

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/University of California San Francisco/","title":"University of California San Francisco","tags":["#高校","#美国","#健康科学","#EEG"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University of California San Francisco","aliases":["UC San Francisco","UCSF","加州大学旧金山分校"],"source_count":2,"sources":["https://www.ucsf.edu/about","https://mplus-gallery.nimbus-nimo.com/project/2024F-021"],"tags":["#高校","#美国","#健康科学","#EEG"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/University of California San Francisco/","title":"University of California San Francisco","tags":["高校","美国","健康科学","EEG"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University of California San Francisco","aliases":["UC San Francisco","UCSF","加州大学旧金山分校"],"source_count":2,"sources":["https://www.ucsf.edu/about","https://mplus-gallery.nimbus-nimo.com/project/2024F-021"],"tags":["高校","美国","健康科学","EEG"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # University of California San Francisco

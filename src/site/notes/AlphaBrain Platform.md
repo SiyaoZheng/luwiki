@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AlphaBrain Platform/","title":"AlphaBrain Platform","tags":["#平台","#具身智能","#开源社区","#组织网络"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"AlphaBrain Platform","aliases":[],"source_count":5,"sources":["raw/2026-08-09-公司前雇主与融资重连证据.md","https://www.alphabrain-platform.com/","raw/2026-08-10-平台主体身份补证-batch-019.md","https://github.com/AlphaBrainGroup/AlphaBrain","https://ai2robotics.com/about/"],"tags":["#平台","#具身智能","#开源社区","#组织网络"],"created":"2026-08-09","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/AlphaBrain Platform/","title":"AlphaBrain Platform","tags":["平台","具身智能","开源社区","组织网络"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"AlphaBrain Platform","aliases":[],"source_count":5,"sources":["raw/2026-08-09-公司前雇主与融资重连证据.md","https://www.alphabrain-platform.com/","raw/2026-08-10-平台主体身份补证-batch-019.md","https://github.com/AlphaBrainGroup/AlphaBrain","https://ai2robotics.com/about/"],"tags":["平台","具身智能","开源社区","组织网络"],"created":"2026-08-09","updated":"2026-08-10"}}
 ---
 
 # AlphaBrain Platform

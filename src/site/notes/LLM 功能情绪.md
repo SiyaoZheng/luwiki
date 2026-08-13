@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/LLM 功能情绪/","title":"LLM 功能情绪","tags":["#LLM","#情绪计算","#机制解释","#AI安全","#Anthropic"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"LLM 功能情绪","aliases":["功能性情绪概念","Emotion Concepts in LLMs"],"source_count":4,"sources":["raw/2026-08-07-luyao-b051-250-Claude情绪代码-0e41be66.md","https://www.anthropic.com/research/emotion-concepts-function","https://transformer-circuits.pub/2026/emotions/index.html","raw/2026-08-10-研究制品复核-batch-014.md"],"tags":["#LLM","#情绪计算","#机制解释","#AI安全","#Anthropic"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/LLM 功能情绪/","title":"LLM 功能情绪","tags":["LLM","情绪计算","机制解释","AI安全","Anthropic"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"LLM 功能情绪","aliases":["功能性情绪概念","Emotion Concepts in LLMs"],"source_count":4,"sources":["raw/2026-08-07-luyao-b051-250-Claude情绪代码-0e41be66.md","https://www.anthropic.com/research/emotion-concepts-function","https://transformer-circuits.pub/2026/emotions/index.html","raw/2026-08-10-研究制品复核-batch-014.md"],"tags":["LLM","情绪计算","机制解释","AI安全","Anthropic"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # LLM 功能情绪

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AI 服务市场/","title":"AI 服务市场","tags":["#AI服务","#平台经济","#撮合市场","#交付保障"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"AI 服务市场","source_count":4,"sources":["[[蜗牛 AI 交易市场\|蜗牛 AI 交易市场]]","[[Profound\|Profound]]","[[Project Deal\|Project Deal]]","[[App Store AI 应用审核\|App Store AI 应用审核]]"],"tags":["#AI服务","#平台经济","#撮合市场","#交付保障"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/AI 服务市场/","title":"AI 服务市场","tags":["AI服务","平台经济","撮合市场","交付保障"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"AI 服务市场","source_count":4,"sources":["[[蜗牛 AI 交易市场\|蜗牛 AI 交易市场]]","[[Profound\|Profound]]","[[Project Deal\|Project Deal]]","[[App Store AI 应用审核\|App Store AI 应用审核]]"],"tags":["AI服务","平台经济","撮合市场","交付保障"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # AI 服务市场

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/STReasoner/","title":"STReasoner","tags":["#时空推理","#时间序列","#LLM","#因果推理","#图结构"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"STReasoner","source_count":1,"sources":["raw/2026-08-07-luyao-b041-202-首个时空时序推理框架：让大模型真正读懂时空数据---ACL'26-1ec2ff60.md"],"tags":["#时空推理","#时间序列","#LLM","#因果推理","#图结构"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/STReasoner/","title":"STReasoner","tags":["时空推理","时间序列","LLM","因果推理","图结构"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"STReasoner","source_count":1,"sources":["raw/2026-08-07-luyao-b041-202-首个时空时序推理框架：让大模型真正读懂时空数据---ACL'26-1ec2ff60.md"],"tags":["时空推理","时间序列","LLM","因果推理","图结构"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # STReasoner

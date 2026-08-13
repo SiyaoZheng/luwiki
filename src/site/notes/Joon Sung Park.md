@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Joon Sung Park/","title":"Joon Sung Park","tags":["#人物","#社会模拟","#生成式智能体","#创业者","#计算机科学"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Joon Sung Park","source_count":4,"sources":["https://www.joonsungpark.com/cv","https://www.joonsungpark.com/","https://sequoiacap.com/podcast/simulating-humans-at-scale-similes-joon-sung-park/","https://arxiv.org/abs/2304.03442"],"tags":["#人物","#社会模拟","#生成式智能体","#创业者","#计算机科学"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Joon Sung Park/","title":"Joon Sung Park","tags":["人物","社会模拟","生成式智能体","创业者","计算机科学"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Joon Sung Park","source_count":4,"sources":["https://www.joonsungpark.com/cv","https://www.joonsungpark.com/","https://sequoiacap.com/podcast/simulating-humans-at-scale-similes-joon-sung-park/","https://arxiv.org/abs/2304.03442"],"tags":["人物","社会模拟","生成式智能体","创业者","计算机科学"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Joon Sung Park
