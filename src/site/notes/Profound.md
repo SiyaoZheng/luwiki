@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Profound/","title":"Profound","tags":["GEO","AI搜索","营销技术","Agent","品牌可见性"],"created":"2026-08-07","updated":"2026-08-09","dg-note-properties":{"status":"seed","title":"Profound","source_count":4,"sources":["raw/2026-08-07-luyao-b043-210-深度｜对话红杉资本：SEO-已死，未来三年不懂-Agent-的营销人将被淘汰-0788ef2c.md","https://www.tryprofound.com/","https://www.tryprofound.com/blog/series-b","https://sequoiacap.com/article/partnering-with-profound-winning-on-the-ai-stage/"],"tags":["GEO","AI搜索","营销技术","Agent","品牌可见性"],"created":"2026-08-07","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Profound/","title":"Profound","tags":["#GEO","#AI搜索","#营销技术","#Agent","#品牌可见性"],"created":"2026-08-07","updated":"2026-08-09","dg-note-properties":{"status":"seed","title":"Profound","source_count":4,"sources":["raw/2026-08-07-luyao-b043-210-深度｜对话红杉资本：SEO-已死，未来三年不懂-Agent-的营销人将被淘汰-0788ef2c.md","https://www.tryprofound.com/","https://www.tryprofound.com/blog/series-b","https://sequoiacap.com/article/partnering-with-profound-winning-on-the-ai-stage/"],"tags":["#GEO","#AI搜索","#营销技术","#Agent","#品牌可见性"],"created":"2026-08-07","updated":"2026-08-09"}}
 ---
 
 # Profound

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Token Grant/","title":"Token Grant","tags":["AI创业","Token","算力","Agent","早期资助"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Token Grant","source_count":2,"sources":["raw/2026-08-07-luyao-b043-211-你的第一个-Agent，我们为你充值｜真格-Token-Grant-86bfc851.md","[[Token-maxxing\|Token-maxxing]]"],"tags":["AI创业","Token","算力","Agent","早期资助"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/Token Grant/","title":"Token Grant","tags":["#AI创业","#Token","#算力","#Agent","#早期资助"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Token Grant","source_count":2,"sources":["raw/2026-08-07-luyao-b043-211-你的第一个-Agent，我们为你充值｜真格-Token-Grant-86bfc851.md","[[Token-maxxing\|Token-maxxing]]"],"tags":["#AI创业","#Token","#算力","#Agent","#早期资助"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # Token Grant

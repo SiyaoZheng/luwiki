@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Linux kernel CVE repository/","title":"Linux kernel CVE repository","tags":["linux","kernel","cve","vulnerability-management","data-provenance"],"created":"2026-08-10","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Linux kernel CVE repository","tags":["linux","kernel","cve","vulnerability-management","data-provenance"],"sources":["raw/2026-08-11-Linux-kernel-CVE-repository结构同步与复现边界核验.md"],"created":"2026-08-10","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Linux kernel CVE repository/","title":"Linux kernel CVE repository","tags":["#linux","#kernel","#cve","#vulnerability-management","#data-provenance"],"created":"2026-08-10","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Linux kernel CVE repository","tags":["#linux","#kernel","#cve","#vulnerability-management","#data-provenance"],"sources":["raw/2026-08-11-Linux-kernel-CVE-repository结构同步与复现边界核验.md"],"created":"2026-08-10","updated":"2026-08-11"}}
 ---
 
 

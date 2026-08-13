@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Profound B轮融资/","title":"Profound B轮融资","tags":["融资事件","GEO","组织网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Profound B轮融资","source_count":3,"sources":["raw/2026-08-09-公司前雇主与融资重连证据.md","https://www.tryprofound.com/blog/series-b","https://sequoiacap.com/article/partnering-with-profound-winning-on-the-ai-stage/"],"tags":["融资事件","GEO","组织网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Profound B轮融资/","title":"Profound B轮融资","tags":["#融资事件","#GEO","#组织网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Profound B轮融资","source_count":3,"sources":["raw/2026-08-09-公司前雇主与融资重连证据.md","https://www.tryprofound.com/blog/series-b","https://sequoiacap.com/article/partnering-with-profound-winning-on-the-ai-stage/"],"tags":["#融资事件","#GEO","#组织网络"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Profound B轮融资

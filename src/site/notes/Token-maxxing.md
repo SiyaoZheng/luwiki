@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Token-maxxing/","title":"Token-maxxing","tags":["Token","Agent","AI组织","软件开发","算力成本"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"seed","title":"Token-maxxing","source_count":2,"sources":["raw/2026-08-07-luyao-b044-218-全员-token-maxxing，一场没人敢停的军备竞赛-e5565695.md","raw/2026-08-10-路遥最近一周文字对话知识摘录.md"],"tags":["Token","Agent","AI组织","软件开发","算力成本"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Token-maxxing/","title":"Token-maxxing","tags":["#Token","#Agent","#AI组织","#软件开发","#算力成本"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"seed","title":"Token-maxxing","source_count":2,"sources":["raw/2026-08-07-luyao-b044-218-全员-token-maxxing，一场没人敢停的军备竞赛-e5565695.md","raw/2026-08-10-路遥最近一周文字对话知识摘录.md"],"tags":["#Token","#Agent","#AI组织","#软件开发","#算力成本"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # Token-maxxing

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/APRU 可持续城市与景观年会/","title":"APRU 可持续城市与景观年会","tags":["可持续城市","景观","人居环境","城市治理","设计教育"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"APRU 可持续城市与景观年会","aliases":["APRU SCL","APRU Sustainable Cities and Landscapes"],"source_count":1,"sources":["raw/2026-08-07-luyao-b034-168-第九届环太平洋大学联盟（APRU）可持续城市与景观年会在上海交通大学成功举办！-43c49880.md"],"tags":["可持续城市","景观","人居环境","城市治理","设计教育"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/APRU 可持续城市与景观年会/","title":"APRU 可持续城市与景观年会","tags":["#可持续城市","#景观","#人居环境","#城市治理","#设计教育"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"APRU 可持续城市与景观年会","aliases":["APRU SCL","APRU Sustainable Cities and Landscapes"],"source_count":1,"sources":["raw/2026-08-07-luyao-b034-168-第九届环太平洋大学联盟（APRU）可持续城市与景观年会在上海交通大学成功举办！-43c49880.md"],"tags":["#可持续城市","#景观","#人居环境","#城市治理","#设计教育"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # APRU 可持续城市与景观年会

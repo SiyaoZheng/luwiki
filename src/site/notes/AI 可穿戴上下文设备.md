@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AI 可穿戴上下文设备/","title":"AI 可穿戴上下文设备","tags":["AI硬件","可穿戴设备","AI记忆","情绪计算","健康硬件"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"AI 可穿戴上下文设备","source_count":6,"sources":["raw/2026-08-07-luyao-b053-259-AI智能戒指健康硬件爆发-2d2a0755.md","raw/2026-08-07-luyao-b053-263-AI可穿戴全天候情感导师-ba42606e.md","raw/2026-08-07-luyao-b054-266-Looki-L1穿戴式AI生活日志相机-ffa68124.md","[[Looki L1\|Looki L1]]","[[Spiro\|Spiro]]","[[十镜科技\|十镜科技]]"],"tags":["AI硬件","可穿戴设备","AI记忆","情绪计算","健康硬件"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/AI 可穿戴上下文设备/","title":"AI 可穿戴上下文设备","tags":["#AI硬件","#可穿戴设备","#AI记忆","#情绪计算","#健康硬件"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"AI 可穿戴上下文设备","source_count":6,"sources":["raw/2026-08-07-luyao-b053-259-AI智能戒指健康硬件爆发-2d2a0755.md","raw/2026-08-07-luyao-b053-263-AI可穿戴全天候情感导师-ba42606e.md","raw/2026-08-07-luyao-b054-266-Looki-L1穿戴式AI生活日志相机-ffa68124.md","[[Looki L1\|Looki L1]]","[[Spiro\|Spiro]]","[[十镜科技\|十镜科技]]"],"tags":["#AI硬件","#可穿戴设备","#AI记忆","#情绪计算","#健康硬件"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # AI 可穿戴上下文设备

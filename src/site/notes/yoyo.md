@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/yoyo/","title":"yoyo","tags":["Agent","自进化","编程智能体","VibeCoding","AI原生"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"yoyo","source_count":2,"sources":["raw/2026-08-07-luyao-b043-212-我给了他一个梦想：超越-Claude-Code-a9bcab45.md","[[Token Grant\|Token Grant]]"],"tags":["Agent","自进化","编程智能体","VibeCoding","AI原生"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/yoyo/","title":"yoyo","tags":["#Agent","#自进化","#编程智能体","#VibeCoding","#AI原生"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"yoyo","source_count":2,"sources":["raw/2026-08-07-luyao-b043-212-我给了他一个梦想：超越-Claude-Code-a9bcab45.md","[[Token Grant\|Token Grant]]"],"tags":["#Agent","#自进化","#编程智能体","#VibeCoding","#AI原生"],"created":"2026-08-07","updated":"2026-08-07"}}
 ---
 
 # yoyo

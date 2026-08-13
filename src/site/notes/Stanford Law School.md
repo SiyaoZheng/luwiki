@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Stanford Law School/","title":"Stanford Law School","tags":["法学院","Stanford","美国","创业网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Stanford Law School","aliases":["SLS","斯坦福法学院"],"source_count":3,"sources":["https://www.stanford.edu/academics/schools/","https://law.stanford.edu/wp-content/uploads/2015/05/by_Kirkwood_A_Brief_History_of_the_Stanford_Law_School_1893-1946.pdf","https://www.sec.gov/Archives/edgar/data/1321655/000119312521140597/d137991ddef14a.htm"],"tags":["法学院","Stanford","美国","创业网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Stanford Law School/","title":"Stanford Law School","tags":["#法学院","#Stanford","#美国","#创业网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Stanford Law School","aliases":["SLS","斯坦福法学院"],"source_count":3,"sources":["https://www.stanford.edu/academics/schools/","https://law.stanford.edu/wp-content/uploads/2015/05/by_Kirkwood_A_Brief_History_of_the_Stanford_Law_School_1893-1946.pdf","https://www.sec.gov/Archives/edgar/data/1321655/000119312521140597/d137991ddef14a.htm"],"tags":["#法学院","#Stanford","#美国","#创业网络"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Stanford Law School

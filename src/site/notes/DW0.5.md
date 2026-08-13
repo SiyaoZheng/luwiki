@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DW0.5/","title":"DW0.5","tags":["世界模型","具身智能","VLA","后训练","开源模型"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"DW0.5","aliases":["DW05"],"source_count":5,"sources":["raw/2026-08-07-luyao-b009-46-最近我们发现，世界模型开始有了更务实的场景应用...-d117db3b.md","https://github.com/dexmal/opendw","https://huggingface.co/Dexmal/DW05-Base","raw/2026-08-10-未决问题技术模型补证-batch-001.md","raw/2026-08-10-残余任务信号收口-batch-032.md"],"tags":["世界模型","具身智能","VLA","后训练","开源模型"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/DW0.5/","title":"DW0.5","tags":["#世界模型","#具身智能","#VLA","#后训练","#开源模型"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"DW0.5","aliases":["DW05"],"source_count":5,"sources":["raw/2026-08-07-luyao-b009-46-最近我们发现，世界模型开始有了更务实的场景应用...-d117db3b.md","https://github.com/dexmal/opendw","https://huggingface.co/Dexmal/DW05-Base","raw/2026-08-10-未决问题技术模型补证-batch-001.md","raw/2026-08-10-残余任务信号收口-batch-032.md"],"tags":["#世界模型","#具身智能","#VLA","#后训练","#开源模型"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # DW0.5

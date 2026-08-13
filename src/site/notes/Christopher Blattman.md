@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Christopher Blattman/","title":"Christopher Blattman","tags":["人物","公共政策","政治学","发展","实证研究"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Christopher Blattman","aliases":["Chris Blattman"],"source_count":6,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","https://claudeblattman.com/workflows/first-session-skills/","https://harris.uchicago.edu/directory/christopher-blattman","https://harris.uchicago.edu/files/CV.Blattman.pdf","[[芝加哥大学哈里斯公共政策学院\|芝加哥大学哈里斯公共政策学院]]"],"tags":["人物","公共政策","政治学","发展","实证研究"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Christopher Blattman/","title":"Christopher Blattman","tags":["#人物","#公共政策","#政治学","#发展","#实证研究"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Christopher Blattman","aliases":["Chris Blattman"],"source_count":6,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","https://claudeblattman.com/workflows/first-session-skills/","https://harris.uchicago.edu/directory/christopher-blattman","https://harris.uchicago.edu/files/CV.Blattman.pdf","[[芝加哥大学哈里斯公共政策学院\|芝加哥大学哈里斯公共政策学院]]"],"tags":["#人物","#公共政策","#政治学","#发展","#实证研究"],"created":"2026-08-10","updated":"2026-08-10"}}
 ---
 
 # Christopher Blattman

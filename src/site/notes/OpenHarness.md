@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/OpenHarness/","title":"OpenHarness","tags":["Agent","Harness","开源","软件工程","多智能体"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"OpenHarness","source_count":6,"sources":["raw/2026-08-07-luyao-b048-238-港大的OpenHarness太硬了-刚开源就狂揽3.9k星标-6a16dea7.md","https://github.com/HKUDS/OpenHarness","https://github.com/HKUDS","raw/2026-08-10-全库硬未决最终收口-batch-033.md","https://raw.githubusercontent.com/HKUDS/OpenHarness/main/LICENSE","https://github.com/HKUDS/OpenHarness/releases"],"tags":["Agent","Harness","开源","软件工程","多智能体"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/OpenHarness/","title":"OpenHarness","tags":["#Agent","#Harness","#开源","#软件工程","#多智能体"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"OpenHarness","source_count":6,"sources":["raw/2026-08-07-luyao-b048-238-港大的OpenHarness太硬了-刚开源就狂揽3.9k星标-6a16dea7.md","https://github.com/HKUDS/OpenHarness","https://github.com/HKUDS","raw/2026-08-10-全库硬未决最终收口-batch-033.md","https://raw.githubusercontent.com/HKUDS/OpenHarness/main/LICENSE","https://github.com/HKUDS/OpenHarness/releases"],"tags":["#Agent","#Harness","#开源","#软件工程","#多智能体"],"created":"2026-08-07","updated":"2026-08-10"}}
 ---
 
 # OpenHarness

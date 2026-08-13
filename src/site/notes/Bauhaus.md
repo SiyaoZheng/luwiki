@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Bauhaus/","title":"Bauhaus","tags":["历史机构","德国","建筑","设计教育","现代主义"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Bauhaus","aliases":["Staatliches Bauhaus","包豪斯"],"source_count":3,"sources":["https://www.bauhaus.de/en/discover/article/the-bauhaus-idea-and-programme/","https://www.bauhaus.de/en/bauhaus-archiv/211_architektur/","https://www.bauhaus.de/en/discover/podcasts/1932-33-the-closure-of-bauhaus/"],"tags":["历史机构","德国","建筑","设计教育","现代主义"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Bauhaus/","title":"Bauhaus","tags":["#历史机构","#德国","#建筑","#设计教育","#现代主义"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Bauhaus","aliases":["Staatliches Bauhaus","包豪斯"],"source_count":3,"sources":["https://www.bauhaus.de/en/discover/article/the-bauhaus-idea-and-programme/","https://www.bauhaus.de/en/bauhaus-archiv/211_architektur/","https://www.bauhaus.de/en/discover/podcasts/1932-33-the-closure-of-bauhaus/"],"tags":["#历史机构","#德国","#建筑","#设计教育","#现代主义"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # Bauhaus

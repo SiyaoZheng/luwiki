@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Johns Hopkins University/","title":"Johns Hopkins University","tags":["大学","美国","研究机构"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Johns Hopkins University","aliases":["JHU","约翰斯·霍普金斯大学"],"source_count":4,"sources":["raw/2026-08-10-公共机构人物补证-batch-018.md","https://www.jhu.edu/about/","https://www.jhu.edu/","https://engage.mit.edu/fma/invited-speakers/"],"tags":["大学","美国","研究机构"],"created":"2026-08-09","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Johns Hopkins University/","title":"Johns Hopkins University","tags":["#大学","#美国","#研究机构"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Johns Hopkins University","aliases":["JHU","约翰斯·霍普金斯大学"],"source_count":4,"sources":["raw/2026-08-10-公共机构人物补证-batch-018.md","https://www.jhu.edu/about/","https://www.jhu.edu/","https://engage.mit.edu/fma/invited-speakers/"],"tags":["#大学","#美国","#研究机构"],"created":"2026-08-09","updated":"2026-08-10"}}
 ---
 
 # Johns Hopkins University

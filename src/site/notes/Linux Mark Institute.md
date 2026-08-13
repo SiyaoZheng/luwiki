@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Linux Mark Institute/","title":"Linux Mark Institute","tags":["trademark-governance","open-source-governance","sublicensing"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Linux Mark Institute","aliases":["LMI"],"tags":["trademark-governance","open-source-governance","sublicensing"],"sources":["raw/2026-08-11-Linux-Mark-Institute制度与历史核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Linux Mark Institute/","title":"Linux Mark Institute","tags":["#trademark-governance","#open-source-governance","#sublicensing"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Linux Mark Institute","aliases":["LMI"],"tags":["#trademark-governance","#open-source-governance","#sublicensing"],"sources":["raw/2026-08-11-Linux-Mark-Institute制度与历史核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
 ---
 
 

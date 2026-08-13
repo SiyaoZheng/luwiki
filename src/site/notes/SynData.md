@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SynData/","title":"SynData","tags":["数据集","人类操作数据","具身智能","开源"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"SynData","source_count":3,"sources":["raw/2026-08-07-luyao-b036-177-用人类数据训练模型，这家中国公司拿下多个全球第一-c7942157.md","https://huggingface.co/datasets/PsiBotAI/SynData","https://www.psibot.ai/灵初智能新一代具身模型发布，全球最大人类手部/"],"tags":["数据集","人类操作数据","具身智能","开源"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/SynData/","title":"SynData","tags":["#数据集","#人类操作数据","#具身智能","#开源"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"SynData","source_count":3,"sources":["raw/2026-08-07-luyao-b036-177-用人类数据训练模型，这家中国公司拿下多个全球第一-c7942157.md","https://huggingface.co/datasets/PsiBotAI/SynData","https://www.psibot.ai/灵初智能新一代具身模型发布，全球最大人类手部/"],"tags":["#数据集","#人类操作数据","#具身智能","#开源"],"created":"2026-08-09","updated":"2026-08-09"}}
 ---
 
 # SynData
