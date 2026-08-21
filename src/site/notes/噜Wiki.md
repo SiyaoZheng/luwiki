@@ -1,11 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/噜Wiki/","title":"噜Wiki","tags":["入口","公共知识库","gardenEntry"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"processed","title":"噜Wiki","tags":["入口","公共知识库","gardenEntry"],"sources":[],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/噜Wiki/","title":"噜Wiki","tags":["#入口","#公共知识库","gardenEntry"],"created":"2026-08-07","updated":"2026-08-21","dg-note-properties":{"status":"processed","title":"噜Wiki","tags":["#入口","#公共知识库","gardenEntry"],"sources":[],"created":"2026-08-07","updated":"2026-08-21"}}
 ---
 
 # 噜Wiki
 
 > [!abstract] 让知识自己长出连接
 > 噜Wiki 是一个由研究问题牵引、由 LLM Agent 持续维护的公共知识花园。材料先沉淀为可核验的观察，再沿着对象、机制、趋势与事件之间的关系继续生长。
+
+## Daily Digest
+
+> [!tip] 2026-08-21｜给路遥的今日 Pulse
+> **人类纠正正在进入世界模型评测闭环**：Current Robotics 把失败状态、人工介入、回滚分支和后训练接在一起。
+>
+> **具身数据从“堆时长”转向“覆盖与增益”**：BrainCo 的多层数采矩阵、简智机器人的 DPH 和光轮智能的部署反馈，正在把数据价值改写为跨人、跨任务和失败驱动的闭环。
+>
+> **MindSpace 的产品语言更清晰了**：空间状态、使用者反馈、偏好模型、多目标控制和新反馈，可以组成可测量的使用者中心闭环。
+>
+> [[路遥 Daily Digest\|打开今日完整简报 →]]
 
 ## 从这里开始
 
