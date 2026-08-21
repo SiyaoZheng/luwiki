@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2026 BCPE Meta Cayman取得MCJ控制权/","title":"2026 BCPE Meta Cayman取得MCJ控制权","tags":["#并购","#控制权变更","#日本","#MCJ"],"created":"2026-08-15","updated":"2026-08-15","dg-note-properties":{"status":"processed","title":"2026 BCPE Meta Cayman取得MCJ控制权","aliases":["2026 MCJ MBO","BCPE Meta Cayman MCJ公开收购与私有化"],"tags":["#并购","#控制权变更","#日本","#MCJ"],"sources":["raw/2026-08-15-BCPE-Meta-Cayman取得MCJ控制权与退市边界核验.md"],"created":"2026-08-15","updated":"2026-08-15"}}
+{"dg-publish":true,"permalink":"/2026 BCPE Meta Cayman取得MCJ控制权/","title":"2026 BCPE Meta Cayman取得MCJ控制权","tags":["并购","控制权变更","日本","MCJ"],"created":"2026-08-15","updated":"2026-08-15","dg-note-properties":{"status":"processed","title":"2026 BCPE Meta Cayman取得MCJ控制权","aliases":["2026 MCJ MBO","BCPE Meta Cayman MCJ公开收购与私有化"],"tags":["并购","控制权变更","日本","MCJ"],"sources":["raw/2026-08-15-BCPE-Meta-Cayman取得MCJ控制权与退市边界核验.md"],"created":"2026-08-15","updated":"2026-08-15"}}
 ---
 
 

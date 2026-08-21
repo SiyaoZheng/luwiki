@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ego-NeuroLoop/","title":"Ego-NeuroLoop","tags":["具身智能","脑电","肌电","眼动","人体信号","机器人数据"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Ego-NeuroLoop","source_count":9,"sources":["raw/2026-08-07-luyao-b015-72-AI圈刚开始谈Loop-Engineering，两位95后博士已经盯上了人类闭环数据-1e42d860.md","raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","raw/2026-08-10-未决问题学术测量补证-batch-006.md","raw/2026-08-10-人类活动数据到机器人训练外部补证.md","[[人类活动数据]]","raw/2026-08-10-人类活动到机器人训练外部补证.md","[[EgoMimic\|EgoMimic]]","[[Universal Manipulation Interface\|Universal Manipulation Interface]]"],"tags":["具身智能","脑电","肌电","眼动","人体信号","机器人数据"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Ego-NeuroLoop/","title":"Ego-NeuroLoop","tags":["#具身智能","#脑电","#肌电","#眼动","#人体信号","#机器人数据"],"created":"2026-08-07","updated":"2026-08-21","dg-note-properties":{"status":"processed","title":"Ego-NeuroLoop","source_count":9,"sources":["raw/2026-08-07-luyao-b015-72-AI圈刚开始谈Loop-Engineering，两位95后博士已经盯上了人类闭环数据-1e42d860.md","raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","raw/2026-08-10-未决问题学术测量补证-batch-006.md","raw/2026-08-10-人类活动数据到机器人训练外部补证.md","[[人类活动数据]]","raw/2026-08-10-人类活动到机器人训练外部补证.md","[[EgoMimic\|EgoMimic]]","[[Universal Manipulation Interface\|Universal Manipulation Interface]]"],"tags":["#具身智能","#脑电","#肌电","#眼动","#人体信号","#机器人数据"],"created":"2026-08-07","updated":"2026-08-21"}}
 ---
 
 # Ego-NeuroLoop
@@ -58,3 +58,11 @@ EEG、sEMG 和眼动中的错误感知、注意或肌肉激活信号，不等于
 ## 与动作迁移证据的关系（2026-08-10）
 
 [[Ego4D\|Ego4D]]、[[Ego-Exo4D\|Ego-Exo4D]]、[[EgoMimic\|EgoMimic]] 与 [[Universal Manipulation Interface\|UMI]] 给出了从自然视频到可执行动作的对照：增加视角、姿态或同步信号仍不等于跨过 embodiment gap，必须再有动作映射、机器人监督和真机验证。Ego-NeuroLoop 即使同步 gaze、EEG 与 sEMG，也需要在同一机器人任务上做视觉/动作基线、模态消融和伪同步对照，证明这些人体信号提供额外增益；否则只能支持状态关联，不能升级为意图真值或控制能力。
+
+## 2026-08-21：BrainCo 产品样本与神经信号边界
+
+[[BrainCo强脑科技\|BrainCo强脑科技]]把 EEG 脑控机器人平台与 RevoHuman、RevoEgo、真机触觉数据放进同一产品矩阵，为“神经信号—人类示范—机器人执行”提供了现实公司样本。但当前公开证据只支持产品入口、演示和采集架构存在，不能把检测到的任务相关 EEG 模式升级为潜在意图真值。
+
+对 Ego-NeuroLoop 的真正增量验收应同时保留：可观察任务标签、策略原动作、控制权、EEG/动作时延、跨人/跨日稳定性、视觉/动作基线、EEG 与其他模态消融、伪同步对照，以及目标机器人成功率和安全结果。若只证明分类或指令触发，结论应停在状态/任务阶段预测，不得外推为因果意图读取。
+
+证据：原始资料快照（本地归档）。
