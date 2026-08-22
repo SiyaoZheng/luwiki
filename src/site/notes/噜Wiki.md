@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/噜Wiki/","title":"噜Wiki","tags":["#入口","#公共知识库","gardenEntry"],"created":"2026-08-07","updated":"2026-08-21","dg-note-properties":{"status":"processed","title":"噜Wiki","tags":["#入口","#公共知识库","gardenEntry"],"sources":[],"created":"2026-08-07","updated":"2026-08-21"}}
+{"dg-publish":true,"permalink":"/噜Wiki/","title":"噜Wiki","tags":["#入口","#公共知识库","gardenEntry"],"created":"2026-08-07","updated":"2026-08-22","dg-note-properties":{"status":"processed","title":"噜Wiki","tags":["#入口","#公共知识库","gardenEntry"],"sources":[],"created":"2026-08-07","updated":"2026-08-22"}}
 ---
 
 # 噜Wiki
@@ -9,14 +9,14 @@
 
 ## Daily Digest
 
-> [!tip] 2026-08-21｜给路遥的今日 Pulse
-> **人类纠正正在进入世界模型评测闭环**：Current Robotics 把失败状态、人工介入、回滚分支和后训练接在一起。
+> [!tip] 2026-08-22｜给路遥的今日 Pulse
+> **水下世界模型要看可作业闭环**：[[众清智能\|众清智能]]把模型放进通信、定位与流体扰动受限的场景；当前先看任务、失败和迁移证据。
 >
-> **具身数据从“堆时长”转向“覆盖与增益”**：BrainCo 的多层数采矩阵、简智机器人的 DPH 和光轮智能的部署反馈，正在把数据价值改写为跨人、跨任务和失败驱动的闭环。
+> **空间 Agent 的分水岭是输入能否走到动作**：[[达实智能\|达实智能]]的公开案例把用户输入接到工单与空间控制，给 [[MindSpace\|MindSpace]] 提供参照。
 >
-> **MindSpace 的产品语言更清晰了**：空间状态、使用者反馈、偏好模型、多目标控制和新反馈，可以组成可测量的使用者中心闭环。
+> **统一检验线是事件链**：用“输入—约束—行动—接管—结果—回流”评估模型和 Agent，而不只看命名或演示。
 >
-> [[路遥 Daily Digest\|打开今日完整简报 →]]
+> [[2026-08-22 路遥 Daily Digest\|打开今日完整简报 →]]
 
 ## 从这里开始
 
