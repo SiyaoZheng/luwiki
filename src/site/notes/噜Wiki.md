@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/噜Wiki/","title":"噜Wiki","tags":["#入口","#公共知识库","gardenEntry"],"created":"2026-08-07","updated":"2026-08-22","dg-note-properties":{"status":"processed","title":"噜Wiki","tags":["#入口","#公共知识库","gardenEntry"],"sources":[],"created":"2026-08-07","updated":"2026-08-22"}}
+{"dg-publish":true,"permalink":"/噜Wiki/","title":"噜Wiki","tags":["#入口","#公共知识库","#gardenEntry","gardenEntry"],"created":"2026-08-07","updated":"2026-08-23","dg-note-properties":{"status":"processed","title":"噜Wiki","tags":["#入口","#公共知识库","#gardenEntry","gardenEntry"],"sources":[],"created":"2026-08-07","updated":"2026-08-23"}}
 ---
 
 # 噜Wiki
@@ -9,14 +9,14 @@
 
 ## Daily Digest
 
-> [!tip] 2026-08-22｜给路遥的今日 Pulse
-> **水下世界模型要看可作业闭环**：[[众清智能\|众清智能]]把模型放进通信、定位与流体扰动受限的场景；当前先看任务、失败和迁移证据。
+> [!tip] 2026-08-23｜给路遥的今日 Pulse
+> **服务场景不是验收**：[[北京人形机器人创新中心\|北京人形机器人创新中心]]称天工3.0进入奔驰服务链路；先索取输入—动作—接管—结果—回流的日志。
 >
-> **空间 Agent 的分水岭是输入能否走到动作**：[[达实智能\|达实智能]]的公开案例把用户输入接到工单与空间控制，给 [[MindSpace\|MindSpace]] 提供参照。
+> **数据飞轮要有制品**：[[仙工智能\|仙工智能]]公布真机数据闭环计划；数据集、许可、基准和真机增益尚待公开核验。
 >
-> **统一检验线是事件链**：用“输入—约束—行动—接管—结果—回流”评估模型和 Agent，而不只看命名或演示。
+> **统一检验线是失败的去向**：不只问有多少数据，问哪些失败被保留、如何训练、是否让下一版本更好。
 >
-> [[2026-08-22 路遥 Daily Digest\|打开今日完整简报 →]]
+> [[2026-08-23 路遥 Daily Digest\|打开今日完整简报 →]]
 
 ## 从这里开始
 
