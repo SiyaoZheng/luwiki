@@ -17,6 +17,8 @@ const matterOptions = {
 };
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const normalizeFavicon = require("./src/site/normalize-favicon.js");
+const { convertMdHrefs } = require("./src/helpers/linkUtils");
+const nodePath = require("path");
 
 const FAVICON_SOURCE = "./src/site/favicon.svg";
 const FAVICON_NORMALIZED = "./.cache/favicon.normalized.svg";
@@ -167,6 +169,22 @@ module.exports = function(eleventyConfig) {
       options: {
         skipHtmlTags: { "[-]": ["pre"] },
       },
+    })
+    .use(function(md) {
+      // mathjax-full 3.2.2 throws on characters outside its operator
+      // dictionary (e.g. "€") — a stray $...€...$ span in prose would
+      // otherwise abort the entire build. Fall back to the raw text.
+      for (const rule of ["math_inline", "math_block"]) {
+        const original = md.renderer.rules[rule];
+        if (!original) continue;
+        md.renderer.rules[rule] = function(tokens, idx, options, env, self) {
+          try {
+            return original(tokens, idx, options, env, self);
+          } catch (e) {
+            return md.utils.escapeHtml(tokens[idx].content);
+          }
+        };
+      }
     })
     .use(require("markdown-it-attrs"))
     .use(require("markdown-it-task-checkbox"), {
@@ -392,6 +410,40 @@ module.exports = function(eleventyConfig) {
         return getAnchorLink(fileLink, linkTitle);
       })
     );
+  });
+
+  // Resolve markdown-style relative links to .md files (e.g. [X](../a/b.md))
+  // to their real permalinks. Obsidian resolves these in-app, but they reach
+  // the rendered HTML untouched, where trailing-slash page URLs make the
+  // browser resolve them one directory too deep.
+  // pageInputPath overrides this.page for contexts like the feed, where the
+  // rendered content belongs to a looped-over note rather than the current page.
+  eleventyConfig.addFilter("resolveMdLinks", function(str, pageInputPath) {
+    const inputPath = pageInputPath || (this.page && this.page.inputPath);
+    if (!str || !inputPath) {
+      return str;
+    }
+    const notesRoot = "src/site/notes/";
+    const normalizedInput = inputPath.replace(/^\.\//, "");
+    const rootIndex = normalizedInput.indexOf(notesRoot);
+    if (rootIndex === -1) {
+      return str;
+    }
+    const vaultFilePath = normalizedInput.slice(rootIndex + notesRoot.length);
+    const sourceDir = nodePath.posix.dirname(vaultFilePath);
+    return convertMdHrefs(str, sourceDir === "." ? "" : sourceDir, (candidates) => {
+      let firstAttempt = null;
+      for (const vaultPath of candidates) {
+        const { attributes } = getAnchorAttributes(vaultPath);
+        if (!attributes.class.includes("is-unresolved")) {
+          return attributes;
+        }
+        firstAttempt = firstAttempt || attributes;
+      }
+      // Unresolved targets keep getAnchorAttributes' /404 behavior, matching
+      // how dead wikilinks are handled.
+      return firstAttempt;
+    });
   });
 
   eleventyConfig.addFilter("taggify", function(str) {
