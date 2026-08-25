@@ -12,6 +12,8 @@
         "build:sass": "sass src/site/styles:dist/styles --style compressed",
         "get-theme": "node src/site/get-theme.js",
         "build": "npm-run-all get-theme build:*",
+        "sites:build": "npm run build && node sites/stage.mjs",
+        "sites:test": "node sites/test.mjs",
         "test": "vitest run"
     },
     "keywords": [],
