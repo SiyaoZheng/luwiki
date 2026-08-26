@@ -17,7 +17,8 @@ const matterOptions = {
 };
 const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const normalizeFavicon = require("./src/site/normalize-favicon.js");
-const { convertMdHrefs } = require("./src/helpers/linkUtils");
+const { convertMdHrefs, clearGraphCache } = require("./src/helpers/linkUtils");
+const { getFileTree } = require("./src/helpers/filetreeUtils");
 const nodePath = require("path");
 
 const FAVICON_SOURCE = "./src/site/favicon.svg";
@@ -142,6 +143,11 @@ const markdownFileTypeRegex = /\.(md|markdown)$/i;
 const isMarkdownPage = (inputPath) => inputPath && inputPath.match(markdownFileTypeRegex);
 
 module.exports = function(eleventyConfig) {
+  eleventyConfig.addCollection("filetree", (collectionApi) =>
+    getFileTree({
+      collections: { note: collectionApi.getFilteredByTag("note") },
+    })
+  );
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
@@ -803,6 +809,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
   eleventyConfig.addPassthroughCopy({ "src/site/logo.*": "/" });
   eleventyConfig.on("eleventy.before", () => {
+    clearGraphCache();
     normalizeFavicon(FAVICON_SOURCE, FAVICON_NORMALIZED);
   });
   eleventyConfig.on("eleventy.after", async () => {

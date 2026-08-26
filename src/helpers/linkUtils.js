@@ -204,7 +204,13 @@ function extractBasesLinks(content, basesNotes) {
   return links;
 }
 
-async function getGraph(data) {
+let graphPromises = new WeakMap();
+
+function graphCacheKey(notes) {
+  return notes[0]?.template || notes;
+}
+
+async function buildGraph(data) {
   let nodes = {};
   let links = [];
   let stemURLs = {};
@@ -332,10 +338,29 @@ async function getGraph(data) {
   };
 }
 
+function getGraph(data) {
+  const notes = data.collections.note || [];
+  const key = graphCacheKey(notes);
+  const cached = graphPromises.get(key);
+  if (cached) return cached;
+
+  const pending = buildGraph(data).catch((error) => {
+    graphPromises.delete(key);
+    throw error;
+  });
+  graphPromises.set(key, pending);
+  return pending;
+}
+
+function clearGraphCache() {
+  graphPromises = new WeakMap();
+}
+
 exports.wikiLinkRegex = wikiLinkRegex;
 exports.internalLinkRegex = internalLinkRegex;
 exports.extractLinks = extractLinks;
 exports.resolveVaultPath = resolveVaultPath;
 exports.convertMdHrefs = convertMdHrefs;
 exports.getGraph = getGraph;
+exports.clearGraphCache = clearGraphCache;
 exports._basesNotesWithLinks = null;
