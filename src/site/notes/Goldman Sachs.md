@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+permalink: "/Goldman Sachs/"
 status: processed
 title: 高盛集团
 aliases:

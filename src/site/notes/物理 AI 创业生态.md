@@ -1,5 +1,6 @@
 ---
 dg-publish: true
+permalink: "/物理 AI 创业生态/"
 status: seed
 title: 物理 AI 创业生态
 source_count: 26
