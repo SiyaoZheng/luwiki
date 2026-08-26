@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/噜Wiki/","title":"噜Wiki","tags":["#入口","#公共知识库","#gardenEntry","gardenEntry"],"created":"2026-08-07","updated":"2026-08-24","dg-note-properties":{"status":"processed","title":"噜Wiki","tags":["#入口","#公共知识库","#gardenEntry","gardenEntry"],"sources":[],"created":"2026-08-07","updated":"2026-08-24"}}
+{"dg-publish":true,"permalink":"/噜Wiki/","title":"噜Wiki","tags":["#入口","#公共知识库","#gardenEntry","gardenEntry"],"created":"2026-08-07","updated":"2026-08-26","dg-note-properties":{"status":"processed","title":"噜Wiki","tags":["#入口","#公共知识库","#gardenEntry","gardenEntry"],"sources":[],"created":"2026-08-07","updated":"2026-08-26"}}
 ---
 
 # 噜Wiki
@@ -9,14 +9,14 @@
 
 ## Daily Digest
 
-> [!tip] 2026-08-24｜给路遥的今日 Pulse
-> **场景供给转入试用**：[[2026 全球机器人应用探索计划\|全球机器人应用探索计划]]启动；看遴选规则与试用后的可复用证据。
+> [!tip] 2026-08-26｜给路遥的今日 Pulse
+> **资本押注可交付闭环**：[[XPENG Robotics\|XPENG Robotics]] 获超 9 亿美元融资；重点跟踪真机数据、模型迭代与交付如何相互验证。
 >
-> **持续评测有了时间轴**：[[2027 北京亦庄人形机器人半程马拉松\|2027 北京亦庄人形机器人半程马拉松]]启动招募；观察长期稳定性与安全接管。
+> **标准让边界变成产品能力**：国家人形机器人产业标准体系公开征求意见；状态标签、校准、数据权利和责任记录会更重要。
 >
-> **运营治理成了产品门槛**：[[北京经开区具身机器人演艺沙盒审批试点\|具身机器人演艺沙盒审批试点]]已披露审批链路，规模和正式规则待追踪。
+> **意图不是读心**：服务机器人的可检验目标是从情境预测任务相关状态，并改善下一步行动。
 >
-> [[2026-08-24 路遥 Daily Digest\|打开今日完整简报 →]]
+> [[2026-08-26 路遥 Daily Digest\|打开今日完整简报 →]]
 
 ## 从这里开始
 
