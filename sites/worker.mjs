@@ -99,8 +99,8 @@ async function findPage(db, route) {
 
 async function renderDynamicPage(request, env, record) {
   const templatePath = record.route === "/"
-    ? "/__luwiki_static/__luwiki_templates/home.html"
-    : "/__luwiki_static/__luwiki_templates/note.html";
+    ? "/__luwiki_static/__luwiki_templates/home.txt"
+    : "/__luwiki_static/__luwiki_templates/note.txt";
   const templateResponse = await env.ASSETS.fetch(requestForPath(request, templatePath));
   if (!templateResponse.ok) return null;
 
@@ -277,7 +277,12 @@ async function health(env) {
 
 async function staticFallback(request, env, pathname) {
   for (const candidate of candidatePaths(pathname)) {
-    const response = await env.ASSETS.fetch(requestForPath(request, `/__luwiki_static${candidate}`));
+    let response = await env.ASSETS.fetch(requestForPath(request, `/__luwiki_static${candidate}`));
+    for (let redirects = 0; redirects < 3 && response.status >= 300 && response.status < 400; redirects += 1) {
+      const location = response.headers.get("location");
+      if (!location?.startsWith("/__luwiki_static/")) break;
+      response = await env.ASSETS.fetch(requestForPath(request, location));
+    }
     if (response.status !== 404) return response;
   }
   return env.ASSETS.fetch(requestForPath(request, "/__luwiki_static/404/index.html"));

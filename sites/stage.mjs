@@ -58,8 +58,8 @@ async function writeDynamicTemplates() {
   if (!notePath) throw new Error("No rendered note was available for the dynamic Sites template");
   await mkdir(templatesDir, { recursive: true });
   await Promise.all([
-    writeFile(path.join(templatesDir, "home.html"), dynamicTemplate(await readFile(homePath, "utf8"))),
-    writeFile(path.join(templatesDir, "note.html"), dynamicTemplate(await readFile(notePath, "utf8"))),
+    writeFile(path.join(templatesDir, "home.txt"), dynamicTemplate(await readFile(homePath, "utf8"))),
+    writeFile(path.join(templatesDir, "note.txt"), dynamicTemplate(await readFile(notePath, "utf8"))),
   ]);
 }
 
