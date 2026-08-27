@@ -20,6 +20,7 @@ const dynamicRecord = {
   content_sha: "content-sha",
   markdown: "D1 中的条目正文。",
   metadata_json: JSON.stringify({ tags: ["动态发布"], updated: "2026-08-27" }),
+  published: 1,
   route: "/动态发布测试",
   source_path: "src/site/notes/动态发布测试.md",
   source_sha: "1111111111111111111111111111111111111111",

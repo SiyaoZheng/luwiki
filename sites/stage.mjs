@@ -65,6 +65,10 @@ async function writeDynamicTemplates() {
 
 async function bundleWorker() {
   const esbuild = path.join(projectDir, "node_modules", ".bin", "esbuild");
+  const { stdout } = await run("git", ["rev-parse", "HEAD"], { cwd: projectDir });
+  const sourceSha = stdout.trim();
+  if (!/^[0-9a-f]{40}$/.test(sourceSha)) throw new Error("Unable to resolve the source commit");
+  const workerPath = path.join(distDir, "server", "index.js");
   await run(esbuild, [
     path.join(projectDir, "sites", "worker.mjs"),
     "--bundle",
@@ -72,8 +76,11 @@ async function bundleWorker() {
     "--platform=browser",
     "--target=es2022",
     "--minify",
-    `--outfile=${path.join(distDir, "server", "index.js")}`,
+    `--outfile=${workerPath}`,
   ]);
+  const bundled = await readFile(workerPath, "utf8");
+  if (!bundled.includes("__LUWIKI_BUILD_SHA__")) throw new Error("Worker build SHA placeholder is missing");
+  await writeFile(workerPath, bundled.replaceAll("__LUWIKI_BUILD_SHA__", sourceSha));
 }
 
 await rm(stagedDir, { recursive: true, force: true });

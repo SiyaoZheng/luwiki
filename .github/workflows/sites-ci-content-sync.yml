@@ -1,0 +1,76 @@
+name: Sites CI and content sync
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: luwiki-sites-production
+  cancel-in-progress: false
+
+jobs:
+  validate-and-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Resolve change base
+        id: changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          base="${{ github.event.before }}"
+          if [[ -z "$base" || "$base" =~ ^0+$ ]] || ! git cat-file -e "$base^{commit}" 2>/dev/null; then
+            base="$(git rev-parse HEAD^)"
+          fi
+          echo "base=$base" >> "$GITHUB_OUTPUT"
+          if git diff --name-only "$base" "$GITHUB_SHA" | grep -Ev '^src/site/notes/[^/]+\.md$' | grep -q .; then
+            echo "code_changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "code_changed=false" >> "$GITHUB_OUTPUT"
+          fi
+          if git diff --name-only "$base" "$GITHUB_SHA" -- 'src/site/notes/*.md' | grep -q .; then
+            echo "content_changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "content_changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Install dependencies
+        if: steps.changes.outputs.code_changed == 'true'
+        run: npm ci
+
+      - name: Build and check Sites application
+        if: steps.changes.outputs.code_changed == 'true'
+        run: |
+          npm run sites:build
+          npm run sites:test
+
+      - name: Incrementally sync published content
+        if: steps.changes.outputs.content_changed == 'true'
+        shell: bash
+        env:
+          LUWIKI_PUBLIC_CHECKOUT: ${{ github.workspace }}
+        run: |
+          set -euo pipefail
+          base="${{ steps.changes.outputs.base }}"
+          if git diff --diff-filter=DR --name-only "$base" "$GITHUB_SHA" -- 'src/site/notes/*.md' | grep -q .; then
+            node scripts/sync-sites-content.mjs --all
+            exit 0
+          fi
+          mapfile -d '' paths < <(git diff --diff-filter=ACMRT --name-only -z "$base" "$GITHUB_SHA" -- 'src/site/notes/*.md')
+          pages=()
+          for path in "${paths[@]}"; do
+            pages+=("${path#src/site/notes/}")
+          done
+          node scripts/sync-sites-content.mjs "${pages[@]}"

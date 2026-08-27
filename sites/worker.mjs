@@ -8,6 +8,7 @@ const githubRefs = "https://github.com/SiyaoZheng/luwiki.git/info/refs?service=g
 const githubRaw = "https://raw.githubusercontent.com/SiyaoZheng/luwiki";
 const verifiedShaTtlMs = 5 * 60 * 1000;
 const maxSyncItems = 12;
+const buildSha = "__LUWIKI_BUILD_SHA__";
 
 const createPagesSql = `CREATE TABLE IF NOT EXISTS wiki_pages (
   route TEXT PRIMARY KEY,
@@ -89,12 +90,25 @@ async function ensureSchema(db) {
 
 async function findPage(db, route) {
   return db
-    .prepare(`SELECT route, source_path, title, markdown, metadata_json,
+    .prepare(`SELECT route, source_path, title, markdown, metadata_json, published,
       content_sha, source_sha, synced_at
       FROM wiki_pages
-      WHERE route = ? AND published = 1`)
+      WHERE route = ?`)
     .bind(route)
     .first();
+}
+
+async function renderTombstone(request, env, record) {
+  const notFound = await env.ASSETS.fetch(requestForPath(request, "/__luwiki_static/404/index.html"));
+  return new Response(notFound.body, {
+    status: 404,
+    headers: {
+      ...Object.fromEntries(notFound.headers),
+      "cache-control": "no-cache",
+      "x-luwiki-source": "d1-tombstone",
+      "x-luwiki-source-sha": record.source_sha,
+    },
+  });
 }
 
 async function renderDynamicPage(request, env, record) {
@@ -208,11 +222,12 @@ async function syncPublishedNotes(request, env) {
 
   const sourceSha = payload?.source_sha;
   const sourcePaths = Array.isArray(payload?.source_paths) ? payload.source_paths : [];
+  const prune = payload?.prune === true;
   if (!/^[0-9a-f]{40}$/.test(sourceSha || "")) {
     return jsonResponse({ error: "source_sha must be a full Git commit SHA" }, 400);
   }
-  if (!sourcePaths.length || sourcePaths.length > maxSyncItems) {
-    return jsonResponse({ error: `source_paths must contain 1-${maxSyncItems} notes` }, 400);
+  if ((!sourcePaths.length && !prune) || sourcePaths.length > maxSyncItems) {
+    return jsonResponse({ error: `source_paths must contain 1-${maxSyncItems} notes unless prune is true` }, 400);
   }
   if (new Set(sourcePaths).size !== sourcePaths.length) {
     return jsonResponse({ error: "source_paths must not contain duplicates" }, 400);
@@ -223,6 +238,12 @@ async function syncPublishedNotes(request, env) {
     await requireCurrentGithubMain(env.DB, sourceSha);
     const notes = await Promise.all(sourcePaths.map((sourcePath) => fetchPublishedNote(sourceSha, sourcePath)));
     const syncedAt = new Date().toISOString();
+    const prunedRows = prune
+      ? (await env.DB
+        .prepare("SELECT route, source_path FROM wiki_pages WHERE source_sha <> ? AND published = 1")
+        .bind(sourceSha)
+        .all()).results || []
+      : [];
     const statements = notes.map((note) => env.DB
       .prepare(`INSERT INTO wiki_pages (
           route, source_path, title, markdown, metadata_json,
@@ -247,6 +268,13 @@ async function syncPublishedNotes(request, env) {
         sourceSha,
         syncedAt,
       ));
+    if (prune) {
+      statements.push(env.DB
+        .prepare(`UPDATE wiki_pages
+          SET published = 0, source_sha = ?, synced_at = ?
+          WHERE source_sha <> ? AND published = 1`)
+        .bind(sourceSha, syncedAt, sourceSha));
+    }
     await env.DB.batch(statements);
     return jsonResponse({
       source_sha: sourceSha,
@@ -256,6 +284,11 @@ async function syncPublishedNotes(request, env) {
         route: note.route,
         source_path: note.sourcePath,
         url: new URL(note.route, request.url).href,
+      })),
+      pruned: prunedRows.map((row) => ({
+        route: row.route,
+        source_path: row.source_path,
+        url: new URL(row.route, request.url).href,
       })),
     });
   } catch (error) {
@@ -268,7 +301,12 @@ async function health(env) {
   try {
     await ensureSchema(env.DB);
     const row = await env.DB.prepare("SELECT COUNT(*) AS page_count FROM wiki_pages WHERE published = 1").first();
-    return jsonResponse({ d1: true, page_count: Number(row?.page_count || 0), status: "ok" });
+    return jsonResponse({
+      build_sha: buildSha,
+      d1: true,
+      page_count: Number(row?.page_count || 0),
+      status: "ok",
+    });
   } catch (error) {
     return jsonResponse({ d1: false, error: error.message, status: "degraded" }, 503);
   }
@@ -298,6 +336,7 @@ export default {
       try {
         const record = await findPage(env.DB, normalizedRoute(url.pathname));
         if (record) {
+          if (Number(record.published) !== 1) return renderTombstone(request, env, record);
           const response = await renderDynamicPage(request, env, record);
           if (response) return response;
         }

@@ -66,6 +66,28 @@ async function postBatch(sourceSha, sourcePaths) {
   throw lastError || new Error("Sites sync did not complete");
 }
 
+async function pruneMissingPages(sourceSha) {
+  let lastError;
+  for (let attempt = 1; attempt <= 20; attempt += 1) {
+    try {
+      const response = await fetch(`${siteUrl}/__luwiki/sync`, {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ prune: true, source_sha: sourceSha, source_paths: [] }),
+        signal: AbortSignal.timeout(120_000),
+      });
+      const payload = await response.json().catch(() => ({}));
+      if (response.ok) return payload.pruned || [];
+      lastError = new Error(payload.error || `HTTP ${response.status}`);
+      if (response.status !== 409 && response.status !== 429 && response.status < 500) throw lastError;
+    } catch (error) {
+      lastError = error;
+    }
+    await new Promise((resolve) => setTimeout(resolve, 2_000));
+  }
+  throw lastError || new Error("Sites prune did not complete");
+}
+
 async function verifyItem(item, sourceSha) {
   let lastStatus = "unreachable";
   for (let attempt = 1; attempt <= 90; attempt += 1) {
@@ -90,6 +112,21 @@ async function verifyItem(item, sourceSha) {
     await new Promise((resolve) => setTimeout(resolve, 1_000));
   }
   fail(`public verification timed out for ${item.url}: ${lastStatus}`);
+}
+
+async function verifyPrunedItem(item, sourceSha) {
+  const response = await fetch(item.url, {
+    headers: { "cache-control": "no-cache" },
+    redirect: "manual",
+    signal: AbortSignal.timeout(20_000),
+  });
+  if (
+    response.status !== 404 ||
+    response.headers.get("x-luwiki-source") !== "d1-tombstone" ||
+    response.headers.get("x-luwiki-source-sha") !== sourceSha
+  ) {
+    fail(`public deletion verification failed for ${item.url}: ${response.status}`);
+  }
 }
 
 const startedAt = new Date();
@@ -117,17 +154,20 @@ for (let offset = 0; offset < sourcePaths.length; offset += batchSize) {
   const batch = sourcePaths.slice(offset, offset + batchSize);
   syncedItems.push(...await postBatch(sourceSha, batch));
 }
+const prunedItems = args[0] === "--all" ? await pruneMissingPages(sourceSha) : [];
 
 const verificationItems = args[0] === "--all" && syncedItems.length > 3
   ? [syncedItems[0], syncedItems[Math.floor(syncedItems.length / 2)], syncedItems.at(-1)]
   : syncedItems;
 await Promise.all(verificationItems.map((item) => verifyItem(item, sourceSha)));
+await Promise.all(prunedItems.map((item) => verifyPrunedItem(item, sourceSha)));
 
 const finishedAt = new Date();
 console.log(JSON.stringify({
   elapsed_seconds: Number(((finishedAt - startedAt) / 1000).toFixed(3)),
   finished_at: finishedAt.toISOString(),
   page_count: syncedItems.length,
+  pruned_count: prunedItems.length,
   source_sha: sourceSha,
   started_at: startedAt.toISOString(),
   verified_urls: verificationItems.map((item) => item.url),
