@@ -122,7 +122,11 @@ function normalizeRoute(value) {
   if (!withoutTrailingSlash || withoutTrailingSlash.includes("..") || withoutTrailingSlash.includes("?")) {
     throw new Error("unsafe permalink");
   }
-  return decodeURIComponent(withoutTrailingSlash);
+  try {
+    return decodeURIComponent(withoutTrailingSlash);
+  } catch {
+    return withoutTrailingSlash;
+  }
 }
 
 function titleFromPath(sourcePath) {
