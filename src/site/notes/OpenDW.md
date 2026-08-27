@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/OpenDW/","title":"OpenDW","tags":["开源项目","世界模型","具身智能"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"OpenDW","aliases":["dexmal/opendw"],"source_count":4,"sources":["https://github.com/dexmal/opendw","https://huggingface.co/Dexmal/DW05-Base","raw/2026-08-07-luyao-b009-46-最近我们发现，世界模型开始有了更务实的场景应用...-d117db3b.md","raw/2026-08-10-未决问题技术模型补证-batch-001.md"],"tags":["开源项目","世界模型","具身智能"],"created":"2026-08-09","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/OpenDW/","title":"OpenDW","tags":["#开源项目","#世界模型","#具身智能"],"created":"2026-08-09","updated":"2026-08-26","dg-note-properties":{"status":"processed","title":"OpenDW","aliases":["dexmal/opendw"],"source_count":4,"sources":["https://github.com/dexmal/opendw","https://huggingface.co/Dexmal/DW05-Base","raw/2026-08-07-luyao-b009-46-最近我们发现，世界模型开始有了更务实的场景应用...-d117db3b.md","raw/2026-08-10-未决问题技术模型补证-batch-001.md"],"tags":["#开源项目","#世界模型","#具身智能"],"created":"2026-08-09","updated":"2026-08-26","product_name":"OpenDW","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":null,"product_status":"active_open_source","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-10","status_note":"原力灵机公开仓库与模型入口"}}
 ---
 
 # OpenDW

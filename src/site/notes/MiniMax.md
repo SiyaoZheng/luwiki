@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/MiniMax/","title":"MiniMax","tags":["机构","组织网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"MiniMax","aliases":["稀宇科技"],"source_count":2,"sources":["raw/2026-08-09-前雇主产业组织与资本端点官方记录.md","https://ir.minimax.io/corporate-information/company-profile"],"tags":["机构","组织网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/MiniMax/","title":"MiniMax","tags":["#机构","#组织网络"],"created":"2026-08-09","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"MiniMax","aliases":["稀宇科技"],"source_count":1,"sources":["https://ir.minimax.io/corporate-information/company-profile"],"tags":["#机构","#组织网络"],"created":"2026-08-09","updated":"2026-08-25","official_name":"MiniMax","english_name":null,"jurisdiction":null,"founded":null,"headquarters":null,"parent_organization":null,"leaders":[],"key_people":[],"units":[],"affiliations":[],"website":null,"as_of":null}}
 ---
 
 # MiniMax

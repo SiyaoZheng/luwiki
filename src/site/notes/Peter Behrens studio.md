@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Peter Behrens studio/","title":"Peter Behrens studio","tags":["历史机构","德国","建筑事务所","现代主义"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Peter Behrens studio","aliases":["Peter Behrens office","Peter Behrens architectural office","彼得·贝伦斯工作室"],"source_count":2,"sources":["https://www.metmuseum.org/art/collection/search/482117","https://www.moma.org/collection/artists/2359"],"tags":["历史机构","德国","建筑事务所","现代主义"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Peter Behrens studio/","title":"Peter Behrens studio","tags":["历史机构","德国","建筑事务所","现代主义"],"created":"2026-08-09","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"Peter Behrens studio","aliases":["Peter Behrens office","Peter Behrens architectural office","彼得·贝伦斯工作室"],"source_count":2,"sources":["https://www.metmuseum.org/art/collection/search/482117","https://www.moma.org/collection/artists/2359"],"tags":["历史机构","德国","建筑事务所","现代主义"],"created":"2026-08-09","updated":"2026-08-25","official_name":"Peter Behrens studio","english_name":null,"jurisdiction":null,"founded":null,"headquarters":null,"parent_organization":null,"leaders":[],"key_people":[],"units":[],"affiliations":[],"website":null,"as_of":null}}
 ---
 
 # Peter Behrens studio

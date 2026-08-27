@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DataShareClub/","title":"DataShareClub","tags":["城市数据","天气数据","空气质量","城市模拟","数据平台"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"DataShareClub","source_count":4,"sources":["raw/2026-08-07-luyao-b029-144-全国历史天气查询平台-3200+城市逐小时温度-降水量-AQI-湿度-风速风向-气压-能见度-辐射数据-5b3bd181.md","https://datashareclub.com/","[[PepWeather\|PepWeather]]","[[潜空间数据同化\|潜空间数据同化]]"],"tags":["城市数据","天气数据","空气质量","城市模拟","数据平台"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/DataShareClub/","title":"DataShareClub","tags":["#城市数据","#天气数据","#空气质量","#城市模拟","#数据平台"],"created":"2026-08-07","updated":"2026-08-26","dg-note-properties":{"status":"seed","title":"DataShareClub","source_count":4,"sources":["raw/2026-08-07-luyao-b029-144-全国历史天气查询平台-3200+城市逐小时温度-降水量-AQI-湿度-风速风向-气压-能见度-辐射数据-5b3bd181.md","https://datashareclub.com/","[[PepWeather\|PepWeather]]","[[潜空间数据同化\|潜空间数据同化]]"],"tags":["#城市数据","#天气数据","#空气质量","#城市模拟","#数据平台"],"created":"2026-08-07","updated":"2026-08-26","product_name":"DataShareClub","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":null,"product_status":"active","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-25","status_note":"当前平台页面可访问并展示数据查询能力"}}
 ---
 
 # DataShareClub

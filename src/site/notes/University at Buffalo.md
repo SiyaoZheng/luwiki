@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/University at Buffalo/","title":"University at Buffalo","tags":["大学","美国","SUNY"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University at Buffalo","aliases":["UB","纽约州立大学布法罗分校"],"source_count":2,"sources":["https://www.buffalo.edu/brand/identity/Naming/our-name.html","https://www.buffalo.edu/leadership-searches/about-the-university.html"],"tags":["大学","美国","SUNY"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/University at Buffalo/","title":"University at Buffalo","tags":["大学","美国","SUNY"],"created":"2026-08-09","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"University at Buffalo","aliases":["UB","纽约州立大学布法罗分校"],"source_count":2,"sources":["https://www.buffalo.edu/brand/identity/Naming/our-name.html","https://www.buffalo.edu/leadership-searches/about-the-university.html"],"tags":["大学","美国","SUNY"],"created":"2026-08-09","updated":"2026-08-25","official_name":"University at Buffalo","english_name":null,"jurisdiction":"美国","founded":null,"headquarters":null,"parent_organization":null,"leaders":[],"key_people":[],"units":[],"affiliations":[],"website":null,"as_of":null}}
 ---
 
 # University at Buffalo

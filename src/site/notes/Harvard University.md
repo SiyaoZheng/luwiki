@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Harvard University/","title":"Harvard University","tags":["高校","美国","学术网络"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Harvard University","aliases":["Harvard","哈佛大学"],"source_count":3,"sources":["https://www.harvard.edu/about/","https://hms.harvard.edu/about-hms","https://www.gsd.harvard.edu/about/"],"tags":["高校","美国","学术网络"],"created":"2026-08-09","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Harvard University/","title":"Harvard University","tags":["高校","美国","学术网络"],"created":"2026-08-09","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"Harvard University","aliases":["Harvard","哈佛大学"],"source_count":3,"sources":["https://www.harvard.edu/about/","https://hms.harvard.edu/about-hms","https://www.gsd.harvard.edu/about/"],"tags":["高校","美国","学术网络"],"created":"2026-08-09","updated":"2026-08-25","official_name":"Harvard University","english_name":null,"jurisdiction":"美国","founded":null,"headquarters":null,"parent_organization":null,"leaders":[],"key_people":[],"units":[],"affiliations":[],"website":null,"as_of":null}}
 ---
 
 # Harvard University
@@ -22,3 +22,8 @@ Harvard Medical School 的人物或附属医院关系不能自动上卷为整个
 - [Harvard University：About](https://www.harvard.edu/about/)
 - [Harvard Medical School：About HMS](https://hms.harvard.edu/about-hms)
 - [Harvard GSD：About](https://www.gsd.harvard.edu/about/)
+
+
+## 2026-08-25：Eric Landau 教育关系
+
+[[Encord\|Encord]] 官方人物页称联合创始人 [[Eric Landau\|Eric Landau]]拥有 Harvard University 应用物理 S.M.。该关系只确认公开教育履历。

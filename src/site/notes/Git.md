@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Git/","title":"Git","tags":["version-control","open-source-governance","software-history","software-supply-chain"],"created":"2026-08-11","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Git","aliases":["Git SCM"],"tags":["version-control","open-source-governance","software-history","software-supply-chain"],"sources":["raw/2026-08-11-Git历史治理许可与维护边界核验.md"],"created":"2026-08-11","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Git/","title":"Git","tags":["#version-control","#open-source-governance","#software-history","#software-supply-chain"],"created":"2026-08-11","updated":"2026-08-26","dg-note-properties":{"status":"processed","title":"Git","aliases":["Git SCM"],"tags":["#version-control","#open-source-governance","#software-history","#software-supply-chain"],"sources":["raw/2026-08-11-Git历史治理许可与维护边界核验.md"],"created":"2026-08-11","updated":"2026-08-26","product_name":"Git","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":null,"product_status":"active_open_source","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-11","status_note":"Actively maintained distributed version-control project","source_count":1}}
 ---
 
 

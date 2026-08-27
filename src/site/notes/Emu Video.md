@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Emu Video/","title":"Emu Video","tags":["AI视频","扩散模型","生成式AI","设计工具"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Emu Video","source_count":1,"sources":["raw/2026-08-07-luyao-b041-199-AI工具：让设计稿原地动起来！Meta最新AI神器，4秒生成高清视频-af0f0fc4.md"],"tags":["AI视频","扩散模型","生成式AI","设计工具"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/Emu Video/","title":"Emu Video","tags":["#AI视频","#扩散模型","#生成式AI","#设计工具"],"created":"2026-08-07","updated":"2026-08-26","dg-note-properties":{"status":"seed","title":"Emu Video","source_count":1,"sources":["raw/2026-08-07-luyao-b041-199-AI工具：让设计稿原地动起来！Meta最新AI神器，4秒生成高清视频-af0f0fc4.md"],"tags":["#AI视频","#扩散模型","#生成式AI","#设计工具"],"created":"2026-08-07","updated":"2026-08-26","product_name":"Emu Video","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":null,"product_status":"active_research","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-25","status_note":"公开研究模型"}}
 ---
 
 # Emu Video

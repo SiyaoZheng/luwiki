@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/EgoMimic/","title":"EgoMimic","tags":["机器人学习","人类示范","第一视角视频","共同训练","本体对齐"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"EgoMimic","source_count":8,"sources":["raw/2026-08-10-人类活动到机器人训练外部补证.md","raw/2026-08-10-Project-Aria-Research-Community-Guidelines核验.md","raw/2026-08-10-Hugging-Face-Gated-Repositories机制核验.md","https://egomimic.github.io/","https://arxiv.org/abs/2410.24221","https://github.com/SimarKareer/EgoMimic","https://huggingface.co/datasets/gatech/EgoMimic/tree/main","https://arxiv.org/abs/2503.00779"],"tags":["机器人学习","人类示范","第一视角视频","共同训练","本体对齐"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/EgoMimic/","title":"EgoMimic","tags":["#机器人学习","#人类示范","#第一视角视频","#共同训练","#本体对齐"],"created":"2026-08-10","updated":"2026-08-26","dg-note-properties":{"status":"processed","title":"EgoMimic","source_count":8,"sources":["raw/2026-08-10-人类活动到机器人训练外部补证.md","raw/2026-08-10-Project-Aria-Research-Community-Guidelines核验.md","raw/2026-08-10-Hugging-Face-Gated-Repositories机制核验.md","https://egomimic.github.io/","https://arxiv.org/abs/2410.24221","https://github.com/SimarKareer/EgoMimic","https://huggingface.co/datasets/gatech/EgoMimic/tree/main","https://arxiv.org/abs/2503.00779"],"tags":["#机器人学习","#人类示范","#第一视角视频","#共同训练","#本体对齐"],"created":"2026-08-10","updated":"2026-08-26","product_name":"EgoMimic","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":null,"product_status":"active_research","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-10","status_note":"公开模仿学习框架"}}
 ---
 
 # EgoMimic
@@ -80,7 +80,7 @@ EgoMimic 是把第一视角裸手人类示范与目标机器人遥操作数据�
 
 ## Project Aria 伙伴规则不等于项目级合规披露（2026-08-10）
 
-[[EgoMimic\|EgoMimic]] 使用 Project Aria Research Kit；官方准入文档与设备论文均把 [[Project Aria Research Community Guidelines\|Project Aria Research Community Guidelines]] 作为 partner 的制度要求。该链条足以说明其采集应受通知、适用同意、旁观者停止／删除、场所、留存、去标识和禁止重识别等规则约束。
+[[EgoMimic\|EgoMimic]] 使用 Project Aria Research Kit；官方准入文档与设备论文均把 原始资料快照（本地归档） 作为 partner 的制度要求。该链条足以说明其采集应受通知、适用同意、旁观者停止／删除、场所、留存、去标识和禁止重识别等规则约束。
 
 但 EgoMimic 论文、补充、项目页与公开仓库中，本轮没有找到对 Guidelines 的直接文本引用，也没有找到公开 IRB 编号、同意书、旁观者告知文本、场所授权、保留／删除计划或去标识执行记录。正确结论是“制度适用已证实、项目执行公开状态未证实”，而不是“已证明逐项合规”或“未取得同意”。
 

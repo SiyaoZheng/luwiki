@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Play Time组合披露/","title":"Play Time组合披露","tags":["组合披露","投资关系","组织网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Play Time组合披露","source_count":2,"sources":["raw/2026-08-09-前雇主产业组织与资本端点官方记录.md","https://www.playtime.vc/"],"tags":["组合披露","投资关系","组织网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Play Time组合披露/","title":"Play Time组合披露","tags":["#组合披露","#投资关系","#组织网络"],"created":"2026-08-09","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"Play Time组合披露","source_count":2,"sources":["https://www.playtime.vc/","raw/2026-08-09-前雇主产业组织与资本端点官方记录.md"],"tags":["#组合披露","#投资关系","#组织网络"],"created":"2026-08-09","updated":"2026-08-25","event_date":"2026-08-09","participants":["[[Play Time\|Play Time]]"],"investors":[],"round":null,"amount":null,"buyer":[],"seller":[],"acquirer":[],"target":[],"event_status":null,"as_of":null,"event_type":"ownership_disclosure"}}
 ---
 
 # Play Time组合披露

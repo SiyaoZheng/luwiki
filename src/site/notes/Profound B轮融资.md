@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Profound B轮融资/","title":"Profound B轮融资","tags":["融资事件","GEO","组织网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Profound B轮融资","source_count":3,"sources":["raw/2026-08-09-公司前雇主与融资重连证据.md","https://www.tryprofound.com/blog/series-b","https://sequoiacap.com/article/partnering-with-profound-winning-on-the-ai-stage/"],"tags":["融资事件","GEO","组织网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Profound B轮融资/","title":"Profound B轮融资","tags":["#融资事件","#GEO","#组织网络"],"created":"2026-08-09","updated":"2026-08-26","dg-note-properties":{"status":"processed","title":"Profound B轮融资","source_count":2,"sources":["https://www.tryprofound.com/blog/series-b","https://sequoiacap.com/article/partnering-with-profound-winning-on-the-ai-stage/"],"tags":["#融资事件","#GEO","#组织网络"],"created":"2026-08-09","updated":"2026-08-26","event_date":"2025-08","participants":["[[Profound\|Profound]]"],"investors":["[[Sequoia Capital\|Sequoia Capital]]","Kleiner Perkins","[[Khosla Ventures\|Khosla Ventures]]","[[Saga Ventures\|Saga Ventures]]","South Park Commons"],"round":"B轮","amount":"3500 万美元","buyer":[],"seller":[],"acquirer":[],"target":[],"event_status":"已宣布并完成","as_of":"2026-08-26","event_type":"financing","event_date_status":"month_only"}}
 ---
 
 # Profound B轮融资

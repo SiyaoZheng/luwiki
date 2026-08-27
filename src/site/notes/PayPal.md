@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/PayPal/","title":"PayPal","tags":["机构","组织网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"PayPal","aliases":["PayPal Holdings"],"source_count":3,"sources":["raw/2026-08-09-前雇主产业组织与资本端点官方记录.md","https://about.pypl.com/who-we-are/history-and-facts/default.aspx","https://www.sec.gov/Archives/edgar/data/1321655/000132165526000019/pltr-20260423.htm"],"tags":["机构","组织网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/PayPal/","title":"PayPal","tags":["#机构","#组织网络"],"created":"2026-08-09","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"PayPal","aliases":["PayPal Holdings"],"source_count":2,"sources":["https://about.pypl.com/who-we-are/history-and-facts/default.aspx","https://www.sec.gov/Archives/edgar/data/1321655/000132165526000019/pltr-20260423.htm"],"tags":["#机构","#组织网络"],"created":"2026-08-09","updated":"2026-08-25","official_name":"PayPal","english_name":null,"jurisdiction":null,"founded":null,"headquarters":null,"parent_organization":null,"leaders":[],"key_people":[],"units":[],"affiliations":[],"website":null,"as_of":null}}
 ---
 
 # PayPal

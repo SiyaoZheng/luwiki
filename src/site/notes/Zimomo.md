@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Zimomo/","title":"Zimomo","tags":["潮玩","泡泡玛特","THEMONSTERS","IP运营"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Zimomo","source_count":3,"sources":["raw/2026-08-07-luyao-b005-22-等了近一年终于发售！泡泡玛特Zimomo三代正式官宣，下周开抢！-3d92b07c.md","https://www.brandstar.com.cn/news/7998","raw/2026-08-07-luyao-b016-81-“张飞穿洛丽塔”-拉布布-x三丽鸥联名！泡泡玛特-x-郭培-“娃娃穿上真高定”！-6380505d.md"],"tags":["潮玩","泡泡玛特","THEMONSTERS","IP运营"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/Zimomo/","title":"Zimomo","tags":["#潮玩","#泡泡玛特","#THEMONSTERS","#IP运营"],"created":"2026-08-07","updated":"2026-08-26","dg-note-properties":{"status":"seed","title":"Zimomo","source_count":3,"sources":["raw/2026-08-07-luyao-b005-22-等了近一年终于发售！泡泡玛特Zimomo三代正式官宣，下周开抢！-3d92b07c.md","https://www.brandstar.com.cn/news/7998","raw/2026-08-07-luyao-b016-81-“张飞穿洛丽塔”-拉布布-x三丽鸥联名！泡泡玛特-x-郭培-“娃娃穿上真高定”！-6380505d.md"],"tags":["#潮玩","#泡泡玛特","#THEMONSTERS","#IP运营"],"created":"2026-08-07","updated":"2026-08-26","product_name":"Zimomo","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":"2026-01-29","product_status":"active","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-25","status_note":"2026年仍有官方周年系列发售"}}
 ---
 
 # Zimomo

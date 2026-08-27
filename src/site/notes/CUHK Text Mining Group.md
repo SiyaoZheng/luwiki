@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/CUHK Text Mining Group/","title":"CUHK Text Mining Group","tags":["实验室","香港中文大学","文本挖掘","自然语言处理"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"CUHK Text Mining Group","aliases":["香港中文大学文本挖掘组"],"source_count":2,"sources":["https://www1.se.cuhk.edu.hk/~textmine/","https://research.cuhk.edu.hk/en/persons/wai-lam/"],"tags":["实验室","香港中文大学","文本挖掘","自然语言处理"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/CUHK Text Mining Group/","title":"CUHK Text Mining Group","tags":["实验室","香港中文大学","文本挖掘","自然语言处理"],"created":"2026-08-09","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"CUHK Text Mining Group","aliases":["香港中文大学文本挖掘组"],"source_count":2,"sources":["https://www1.se.cuhk.edu.hk/~textmine/","https://research.cuhk.edu.hk/en/persons/wai-lam/"],"tags":["实验室","香港中文大学","文本挖掘","自然语言处理"],"created":"2026-08-09","updated":"2026-08-25","official_name":"CUHK Text Mining Group","english_name":null,"jurisdiction":null,"founded":null,"headquarters":null,"parent_organization":null,"leaders":[],"key_people":[],"units":[],"affiliations":[],"website":null,"as_of":null}}
 ---
 
 # CUHK Text Mining Group

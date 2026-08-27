@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Osaka Metropolitan University/","title":"Osaka Metropolitan University","tags":["高校","日本","机构沿革","大阪"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Osaka Metropolitan University","aliases":["OMU","大阪公立大学"],"source_count":3,"sources":["https://www.omu.ac.jp/en/about/","https://www.omu.ac.jp/en/about/history/","https://www.omu.ac.jp/info/news/entry-08782.html"],"tags":["高校","日本","机构沿革","大阪"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Osaka Metropolitan University/","title":"Osaka Metropolitan University","tags":["高校","日本","机构沿革","大阪"],"created":"2026-08-09","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"Osaka Metropolitan University","aliases":["OMU","大阪公立大学"],"source_count":3,"sources":["https://www.omu.ac.jp/en/about/","https://www.omu.ac.jp/en/about/history/","https://www.omu.ac.jp/info/news/entry-08782.html"],"tags":["高校","日本","机构沿革","大阪"],"created":"2026-08-09","updated":"2026-08-25","official_name":"Osaka Metropolitan University","english_name":null,"jurisdiction":"日本","founded":null,"headquarters":null,"parent_organization":null,"leaders":[],"key_people":[],"units":[],"affiliations":[],"website":null,"as_of":null}}
 ---
 
 # Osaka Metropolitan University

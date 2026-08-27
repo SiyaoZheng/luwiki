@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/爱诗科技 A轮系列融资/","title":"爱诗科技 A轮系列融资","tags":["融资事件","AI视频",2024],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"爱诗科技 A轮系列融资","source_count":3,"sources":["raw/2026-08-07-luyao-b009-45-PixVerse-29.8-亿融资后，正在押注一个更大的故事-c8b59c65.md","https://www.cls.cn/detail/1895959","https://aishiai.com/"],"tags":["融资事件","AI视频",2024],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/爱诗科技 A轮系列融资/","title":"爱诗科技 A轮系列融资","tags":["#融资事件","#AI视频"],"created":"2026-08-09","updated":"2026-08-26","dg-note-properties":{"status":"processed","title":"爱诗科技 A轮系列融资","source_count":2,"sources":["https://www.cls.cn/detail/1895959","https://aishiai.com/"],"tags":["#融资事件","#AI视频"],"created":"2026-08-09","updated":"2026-08-26","event_date":null,"participants":["[[爱诗科技\|爱诗科技]]"],"investors":["[[蚂蚁集团\|蚂蚁集团]]","[[北京市人工智能产业投资基金\|北京市人工智能产业投资基金]]","[[国科投资\|国科投资]]","[[光源资本\|光源资本]]"],"round":"A2-A4 series","amount":"3 亿元","buyer":[],"seller":[],"acquirer":[],"target":[],"event_status":"multiple rounds; total near RMB 300m","as_of":null,"event_type":"financing","event_date_status":"multiple_dates"}}
 ---
 
 # 爱诗科技 A轮系列融资

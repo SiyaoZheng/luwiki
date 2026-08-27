@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Qlib/","title":"Qlib","tags":["量化研究","金融数据","机器学习","开源工具","Agent"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Qlib","source_count":4,"sources":["raw/2026-08-07-luyao-b029-142-Microsoft-Qlib-33cef784.md","raw/2026-08-07-luyao-b051-252-微软Qlib量化交易神器-899023e3.md","https://github.com/microsoft/qlib","https://qlib.readthedocs.io/en/latest/"],"tags":["量化研究","金融数据","机器学习","开源工具","Agent"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/Qlib/","title":"Qlib","tags":["#量化研究","#金融数据","#机器学习","#开源工具","#Agent"],"created":"2026-08-07","updated":"2026-08-26","dg-note-properties":{"status":"seed","title":"Qlib","source_count":4,"sources":["raw/2026-08-07-luyao-b029-142-Microsoft-Qlib-33cef784.md","raw/2026-08-07-luyao-b051-252-微软Qlib量化交易神器-899023e3.md","https://github.com/microsoft/qlib","https://qlib.readthedocs.io/en/latest/"],"tags":["#量化研究","#金融数据","#机器学习","#开源工具","#Agent"],"created":"2026-08-07","updated":"2026-08-26","product_name":"Qlib","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":null,"product_status":"active_open_source","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-25","status_note":"Active open-source quantitative research platform"}}
 ---
 
 # Qlib

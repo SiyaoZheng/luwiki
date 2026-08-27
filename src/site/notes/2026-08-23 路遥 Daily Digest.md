@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2026-08-23 路遥 Daily Digest/","title":"2026-08-23 路遥 Daily Digest","tags":["#Daily Digest","#路遥","#具身智能","#机器人数据","#商业服务"],"created":"2026-08-23","updated":"2026-08-23","dg-note-properties":{"status":"processed","title":"2026-08-23 路遥 Daily Digest","tags":["#Daily Digest","#路遥","#具身智能","#机器人数据","#商业服务"],"sources":["raw/2026-08-23-北京人形与梅赛德斯奔驰服务合作核验.md","raw/2026-08-23-仙工智能具身数据基础设施与阶梯计划核验.md","raw/2026-08-23-OpenLET具身智能开源数据社区核验.md"],"created":"2026-08-23","updated":"2026-08-23"}}
+{"dg-publish":true,"permalink":"/2026-08-23 路遥 Daily Digest/","title":"2026-08-23 路遥 Daily Digest","tags":["Daily Digest","路遥","具身智能","机器人数据","商业服务"],"created":"2026-08-23","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"2026-08-23 路遥 Daily Digest","tags":["Daily Digest","路遥","具身智能","机器人数据","商业服务"],"sources":[],"created":"2026-08-23","updated":"2026-08-25","hideInGraph":true,"publication_date":"2026-08-23","series":"[[路遥 Daily Digest\|路遥 Daily Digest]]"}}
 ---
 
 # 2026-08-23 路遥 Daily Digest
@@ -32,7 +32,7 @@
 
 新建：[[北京人形机器人创新中心\|北京人形机器人创新中心]]、[[梅赛德斯-奔驰\|梅赛德斯-奔驰]]、[[2026 北京人形机器人创新中心与梅赛德斯-奔驰服务合作\|2026 北京人形机器人创新中心与梅赛德斯-奔驰服务合作]]、[[仙工智能\|仙工智能]]、[[OpenLET具身智能开源数据集社区\|OpenLET具身智能开源数据集社区]]及三份公开来源记录。
 
-更新：[[具身智能数据基础设施\|具身智能数据基础设施]]、[[路遥 Daily Digest\|路遥 Daily Digest]]、[[噜Wiki\|噜Wiki]]、内部维护记录（不公开）、内部维护记录（不公开）。
+更新：[[具身智能数据基础设施\|具身智能数据基础设施]]、[[路遥 Daily Digest\|路遥 Daily Digest]]、[[噜Wiki\|噜Wiki]]、index、log。
 
 未新增 redlink：本轮所有作为关系端点的稳定实体均已写成有证据边界的页面。
 

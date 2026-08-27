@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Monolith 砺思资本/","title":"Monolith 砺思资本","tags":["投资管理","风险投资","科技投资","交易网络"],"created":"2026-08-09","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Monolith 砺思资本","aliases":["砺思资本","Monolith","Monolith Management"],"source_count":5,"sources":["raw/2026-08-09-OriginFlow-机构网络官方记录.md","raw/2026-08-09-高鹄资本-OriginFlow交易公告.md","raw/2026-08-09-originflow-工商主体记录.md","raw/2026-08-10-全库软证据边界日期化-batch-034.md","https://monolithmgt.com/products?lan=zh"],"tags":["投资管理","风险投资","科技投资","交易网络"],"created":"2026-08-09","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Monolith 砺思资本/","title":"Monolith 砺思资本","tags":["#投资管理","#风险投资","#科技投资","#交易网络"],"created":"2026-08-09","updated":"2026-08-26","dg-note-properties":{"status":"processed","title":"Monolith 砺思资本","aliases":["砺思资本","Monolith","Monolith Management"],"source_count":1,"sources":["https://monolithmgt.com/products?lan=zh"],"tags":["#投资管理","#风险投资","#科技投资","#交易网络"],"created":"2026-08-09","updated":"2026-08-26","legal_name":null,"english_name":"Monolith Management","jurisdiction":null,"legal_form":null,"registration_number":null,"legal_status":null,"founded":null,"headquarters":null,"registration_authority":null,"founders":[],"key_people":[],"parent_organization":null,"owners":[],"funds":[],"portfolio_companies":["OriginFlow"],"limited_partners":[],"general_partners":[],"management_entities":[],"website":"https://monolithmgt.com/products?lan=zh","registered_capital":null,"as_of":"2026-08-25","stock_code":null,"market":null,"chairperson":null,"legal_representatives":[],"directors":[],"shareholders":[],"subsidiaries":[],"brands":[],"products":[],"services":[],"business_areas":["technology-driven business innovation","next-generation digital industries","technology manufacturing"],"related_parties":[],"governance_entities":[],"relationship_events":[],"authorized_capital":null,"paid_in_capital":null,"issued_shares":null,"par_value":null}}
 ---
 
 # Monolith 砺思资本
@@ -29,3 +29,8 @@ Monolith 砺思资本是一家研究驱动的投资管理机构。官网称其 V
 - 原始资料快照（本地归档）
 - 原始资料快照（本地归档）
 - [Monolith 砺思资本关于我们](https://monolithmgt.com/products?lan=zh)
+
+
+## 2026-08-25：OriginFlow 当前股东载体线索
+
+企查查当前股东表显示，砺思二期创投有限公司持有 [[北京渊澈太初智能科技有限公司\|北京渊澈太初智能科技有限公司]] 4.5356%。名称与交易公告形成线索，但本轮未返回基金管理关系。

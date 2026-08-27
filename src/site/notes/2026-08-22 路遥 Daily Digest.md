@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2026-08-22 路遥 Daily Digest/","title":"2026-08-22 路遥 Daily Digest","tags":["#Daily Digest","#路遥","#具身智能","#世界模型","#智慧空间"],"created":"2026-08-22","updated":"2026-08-22","dg-note-properties":{"status":"processed","title":"2026-08-22 路遥 Daily Digest","tags":["#Daily Digest","#路遥","#具身智能","#世界模型","#智慧空间"],"sources":["raw/2026-08-22-众清智能DegriiMind水下具身智能世界模型发布核验.md","raw/2026-08-22-达实智能AI-Agent智慧空间应用核验.md"],"created":"2026-08-22","updated":"2026-08-22"}}
+{"dg-publish":true,"permalink":"/2026-08-22 路遥 Daily Digest/","title":"2026-08-22 路遥 Daily Digest","tags":["Daily Digest","路遥","具身智能","世界模型","智慧空间"],"created":"2026-08-22","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"2026-08-22 路遥 Daily Digest","tags":["Daily Digest","路遥","具身智能","世界模型","智慧空间"],"sources":[],"created":"2026-08-22","updated":"2026-08-25","hideInGraph":true,"publication_date":"2026-08-22","series":"[[路遥 Daily Digest\|路遥 Daily Digest]]"}}
 ---
 
 # 2026-08-22 路遥 Daily Digest
@@ -31,7 +31,7 @@
 ## 本期更新
 
 新建：[[众清智能\|众清智能]]、[[达实智能\|达实智能]]、两份公开来源快照。  
-更新：[[路遥 Daily Digest\|路遥 Daily Digest]]、[[噜Wiki\|噜Wiki]]、内部维护记录（不公开）、内部维护记录（不公开）。  
+更新：[[路遥 Daily Digest\|路遥 Daily Digest]]、[[噜Wiki\|噜Wiki]]、index、log。  
 未新增 redlink：本轮未发现需独立追踪且证据不足的稳定商业实体。
 
 ## 公开来源

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Stanford University/","title":"Stanford University","tags":["高校","美国","学术网络","社会模拟","学术创业"],"created":"2026-08-09","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Stanford University","aliases":["Stanford","斯坦福大学"],"source_count":13,"sources":["https://www.stanford.edu/about/","https://www.stanford.edu/academics/schools/","https://www.sec.gov/Archives/edgar/data/1321655/000132165526000019/pltr-20260423.htm","https://www.sec.gov/Archives/edgar/data/1321655/000119312521140597/d137991ddef14a.htm","https://arxiv.org/abs/2304.03442","https://www.joonsungpark.com/cv","https://profiles.stanford.edu/kunle-olukotun","https://ppl.stanford.edu/","https://dawnd9.sites.stanford.edu/","https://dawn.cs.stanford.edu/news/new-dawn-data-analytics","https://sambanova.ai/company/team","https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/Speaker-Bios_PCAST-May-12-2022.pdf","https://www.globenewswire.com/news-release/2014/07/29/1022205/0/en/Michael-Noonen-and-Rodrigo-Liang-Join-Kilopass-Technology-Inc-Board-of-Directors.html"],"tags":["高校","美国","学术网络","社会模拟","学术创业"],"created":"2026-08-09","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Stanford University/","title":"Stanford University","tags":["高校","美国","学术网络","社会模拟","学术创业"],"created":"2026-08-09","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"Stanford University","aliases":["Stanford","斯坦福大学"],"source_count":13,"sources":["https://www.stanford.edu/about/","https://www.stanford.edu/academics/schools/","https://www.sec.gov/Archives/edgar/data/1321655/000132165526000019/pltr-20260423.htm","https://www.sec.gov/Archives/edgar/data/1321655/000119312521140597/d137991ddef14a.htm","https://arxiv.org/abs/2304.03442","https://www.joonsungpark.com/cv","https://profiles.stanford.edu/kunle-olukotun","https://ppl.stanford.edu/","https://dawnd9.sites.stanford.edu/","https://dawn.cs.stanford.edu/news/new-dawn-data-analytics","https://sambanova.ai/company/team","https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/05/Speaker-Bios_PCAST-May-12-2022.pdf","https://www.globenewswire.com/news-release/2014/07/29/1022205/0/en/Michael-Noonen-and-Rodrigo-Liang-Join-Kilopass-Technology-Inc-Board-of-Directors.html"],"tags":["高校","美国","学术网络","社会模拟","学术创业"],"created":"2026-08-09","updated":"2026-08-25","official_name":"Stanford University","english_name":null,"jurisdiction":"美国","founded":null,"headquarters":null,"parent_organization":null,"leaders":[],"key_people":[],"units":[],"affiliations":[],"website":null,"as_of":null}}
 ---
 
 # Stanford University
@@ -50,3 +50,21 @@ Olukotun 的 PPL、DAWN 学术角色与 Afara Websystems、SambaNova 创业经�
 - [Stanford Pervasive Parallelism Lab](https://ppl.stanford.edu/)
 - [Stanford DAWN 存档站](https://dawnd9.sites.stanford.edu/)
 - [Stanford DAWN 启动说明](https://dawn.cs.stanford.edu/news/new-dawn-data-analytics)
+
+
+## 王淮教育关系
+
+[[王淮\|王淮]]获 Stanford University 管理科学与工程硕士学位，由线性资本、Aspen Institute 与未来论坛人物资料交叉支持；尚未找到 Stanford 校方个体档案。该边只表示教育经历，不证明他与本页其他校友同届、同门、师生或共同创业，也不建立[[线性资本\|线性资本]]与 Stanford University 的机构合作、投资或背书关系。
+
+证据见原始资料快照（本地归档）。
+
+## 线性资本与旧人物页的 Stanford 机构碰撞
+
+[[王淮\|王淮]]的管理科学与工程硕士把[[线性资本\|线性资本]]人物网络接入本库较早建立的 Stanford 人物群：[[Peter Thiel\|Peter Thiel]]、[[Sundar Pichai\|Sundar Pichai]]、[[Jensen Huang\|Jensen Huang]]、[[Dario Amodei\|Dario Amodei]]、[[Alexander Karp\|Alexander Karp]]、[[Rodrigo Liang\|Rodrigo Liang]]、[[Kunle Olukotun\|Kunle Olukotun]]等。各条教育或任职边分别有公司证券文件、人物页或 Stanford 资料支持。
+
+这组碰撞的价值是把一个共同机构端点显性化，不是证明共同圈层。现有资料没有支持王淮与这些人物同届、同门、师生、共同项目或私人交往；Daniela Amodei 的 Stanford 命中来自活动／来源语境而非 Stanford 学位，不能纳入校友关系。
+
+
+## 2026-08-25：Eric Landau 教育关系
+
+[[Encord\|Encord]] 官方人物页称 [[Eric Landau\|Eric Landau]]拥有 Stanford University 电气工程 M.S. 与物理 B.S.。该关系只确认公开教育履历。

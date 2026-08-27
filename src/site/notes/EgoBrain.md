@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/EgoBrain/","title":"EgoBrain","tags":["NeuroAI","EEG","第一视角视频","动作分类","多模态数据集"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"EgoBrain","source_count":5,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","raw/2026-08-10-Hugging-Face-Gated-Repositories机制核验.md","https://arxiv.org/abs/2506.01353","https://huggingface.co/datasets/ut-vision/EgoBrain"],"tags":["NeuroAI","EEG","第一视角视频","动作分类","多模态数据集"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/EgoBrain/","title":"EgoBrain","tags":["NeuroAI","EEG","第一视角视频","动作分类","多模态数据集"],"created":"2026-08-10","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"EgoBrain","source_count":5,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","raw/2026-08-10-Hugging-Face-Gated-Repositories机制核验.md","https://arxiv.org/abs/2506.01353","https://huggingface.co/datasets/ut-vision/EgoBrain"],"tags":["NeuroAI","EEG","第一视角视频","动作分类","多模态数据集"],"created":"2026-08-10","updated":"2026-08-25","authors":["Nie Lin","Yansen Wang","Dongqi Han","Weibang Jiang","Jingyuan Li","Ryosuke Furuta","Yoichi Sato","Dongsheng Li"],"publication_date":"2025-06-02","venue":"ICLR 2026","doi":null,"arxiv":"2506.01353","affiliations":["[[东京大学\|东京大学]]","[[微软亚洲研究院\|微软亚洲研究院]]"],"datasets":["EgoBrain (61 hours, 40 participants, egocentric video + 32-channel EEG + IMU)"],"related_companies":[],"as_of":"2026-08-25"}}
 ---
 
 # EgoBrain
@@ -53,3 +53,10 @@ EgoBrain 是一项把第一视角视觉与脑电同步用于人类动作分类�
 - 原始资料快照（本地归档）
 - [arXiv：EgoBrain](https://arxiv.org/abs/2506.01353)
 - [官方 Hugging Face 数据页](https://huggingface.co/datasets/ut-vision/EgoBrain)
+
+
+## 2026-08-25：作者实体与机构网络
+
+EgoBrain 的 8 名作者已全部节点化：[[Nie Lin（EgoBrain）\|Nie Lin（EgoBrain）]]、[[Yansen Wang（EgoBrain）\|Yansen Wang（EgoBrain）]]、[[Dongqi Han（EgoBrain）\|Dongqi Han（EgoBrain）]]、[[Weibang Jiang（EgoBrain）\|Weibang Jiang（EgoBrain）]]、[[Jingyuan Li（EgoBrain）\|Jingyuan Li（EgoBrain）]]、[[Ryosuke Furuta\|Ryosuke Furuta]]、[[Yoichi Sato\|Yoichi Sato]]、[[Dongsheng Li（EgoBrain）\|Dongsheng Li（EgoBrain）]]。
+
+论文时点，Nie Lin、Ryosuke Furuta、Yoichi Sato 标注 [[东京大学\|东京大学]]；其余五人标注 [[微软亚洲研究院\|微软亚洲研究院]]。论文脚注另把 Nie Lin、Weibang Jiang、Jingyuan Li 识别为 Microsoft Research 实习期间完成相关工作的作者，Yoichi Sato 与 Dongsheng Li 为共同通讯作者。详见 原始资料快照（本地归档）。

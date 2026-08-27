@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Wiichee/","title":"Wiichee","tags":["智能测量","空间数据","硬件产品"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Wiichee","aliases":["微尺"],"source_count":4,"sources":["raw/2026-08-07-luyao-b033-159-AING硬迹-AING硬迹-AING硬迹-bf651297.md","https://wiichee.com/","https://wiichee.com/pages/wiichee-basic","https://apps.apple.com/cn/app/id6746122794"],"tags":["智能测量","空间数据","硬件产品"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Wiichee/","title":"Wiichee","tags":["#智能测量","#空间数据","#硬件产品"],"created":"2026-08-09","updated":"2026-08-26","dg-note-properties":{"status":"processed","title":"Wiichee","aliases":["微尺"],"source_count":4,"sources":["raw/2026-08-07-luyao-b033-159-AING硬迹-AING硬迹-AING硬迹-bf651297.md","https://wiichee.com/","https://wiichee.com/pages/wiichee-basic","https://apps.apple.com/cn/app/id6746122794"],"tags":["#智能测量","#空间数据","#硬件产品"],"created":"2026-08-09","updated":"2026-08-26","product_name":"Wiichee","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":null,"product_status":"active","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-25","status_note":"官方产品页与配套应用均可核验"}}
 ---
 
 # Wiichee

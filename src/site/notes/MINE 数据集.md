@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/MINE 数据集/","title":"MINE 数据集","tags":["情绪计算","多模态AI","意图理解","数据集","社交媒体"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"MINE 数据集","aliases":["MINE","Multimodal Intention and Emotion"],"source_count":2,"sources":["raw/2026-08-07-luyao-b056-275-MINE多模态意图情绪数据集-208ba6cc.md","https://proceedings.neurips.cc/paper_files/paper/2024/hash/65a39213d7d0e1eb5d192aa77e77eeb7-Abstract-Conference.html"],"tags":["情绪计算","多模态AI","意图理解","数据集","社交媒体"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/MINE 数据集/","title":"MINE 数据集","tags":["情绪计算","多模态AI","意图理解","数据集","社交媒体"],"created":"2026-08-07","updated":"2026-08-25","dg-note-properties":{"status":"seed","title":"MINE 数据集","aliases":["MINE","Multimodal Intention and Emotion"],"source_count":2,"sources":["raw/2026-08-07-luyao-b056-275-MINE多模态意图情绪数据集-208ba6cc.md","https://proceedings.neurips.cc/paper_files/paper/2024/hash/65a39213d7d0e1eb5d192aa77e77eeb7-Abstract-Conference.html"],"tags":["情绪计算","多模态AI","意图理解","数据集","社交媒体"],"created":"2026-08-07","updated":"2026-08-25","authors":[],"publication_date":"2024","venue":"NeurIPS 2024","doi":null,"arxiv":null,"affiliations":[],"datasets":["MINE (>20,000 multimodal social-media posts)"],"related_companies":[],"as_of":"2026-08-07"}}
 ---
 
 # MINE 数据集

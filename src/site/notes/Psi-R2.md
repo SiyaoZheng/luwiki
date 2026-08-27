@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Psi-R2/","title":"Psi-R2","tags":["具身模型","World Action Model","人类操作数据"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Psi-R2","source_count":2,"sources":["raw/2026-08-07-luyao-b036-177-用人类数据训练模型，这家中国公司拿下多个全球第一-c7942157.md","https://www.psibot.ai/灵初智能新一代具身模型发布，全球最大人类手部/"],"tags":["具身模型","World Action Model","人类操作数据"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Psi-R2/","title":"Psi-R2","tags":["#具身模型","#World Action Model","#人类操作数据"],"created":"2026-08-09","updated":"2026-08-26","dg-note-properties":{"status":"processed","title":"Psi-R2","source_count":2,"sources":["raw/2026-08-07-luyao-b036-177-用人类数据训练模型，这家中国公司拿下多个全球第一-c7942157.md","https://www.psibot.ai/灵初智能新一代具身模型发布，全球最大人类手部/"],"tags":["#具身模型","#World Action Model","#人类操作数据"],"created":"2026-08-09","updated":"2026-08-26","product_name":"Psi-R2","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":"2026-04","product_status":"active_research","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-25","status_note":"2026年公开的具身模型"}}
 ---
 
 # Psi-R2

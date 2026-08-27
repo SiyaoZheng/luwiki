@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Project Aria/","title":"Project Aria","tags":["第一视角数据","可穿戴传感","数据治理","机器感知"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Project Aria","source_count":10,"sources":["raw/2026-08-10-EgoMimic数据许可与参与者授权核验.md","raw/2026-08-10-Project-Aria-Research-Community-Guidelines核验.md","raw/2026-08-10-Hugging-Face-Gated-Repositories机制核验.md","https://www.projectaria.com/","https://arxiv.org/abs/2308.13561","https://github.com/facebookresearch/projectaria_tools","https://www.projectaria.com/community-guidelines/","https://www.projectaria.com/research-kit/","https://about.fb.com/news/2020/09/privacy-matters-project-aria/","https://www.projectaria.com/partners/"],"tags":["第一视角数据","可穿戴传感","数据治理","机器感知"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Project Aria/","title":"Project Aria","tags":["#第一视角数据","#可穿戴传感","#数据治理","#机器感知"],"created":"2026-08-10","updated":"2026-08-26","dg-note-properties":{"status":"processed","title":"Project Aria","source_count":7,"sources":["https://www.projectaria.com/","https://arxiv.org/abs/2308.13561","https://github.com/facebookresearch/projectaria_tools","https://www.projectaria.com/community-guidelines/","https://www.projectaria.com/research-kit/","https://about.fb.com/news/2020/09/privacy-matters-project-aria/","https://www.projectaria.com/partners/"],"tags":["#第一视角数据","#可穿戴传感","#数据治理","#机器感知"],"created":"2026-08-10","updated":"2026-08-26","product_name":"Project Aria","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":null,"product_status":"active_research","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-10","status_note":"Active multimodal research platform"}}
 ---
 
 
@@ -24,7 +24,7 @@ Aria 眼镜可记录 RGB、SLAM／scene cameras、IMU、音频和眼动等同步
 | 层 | 公开规则 | 不能推出 |
 |---|---|---|
 | 工具层 | Project Aria Tools 为 Apache-2.0；部分 ARK App、Client SDK 和服务另受伙伴条款约束 | 开源工具许可不覆盖 VRS 内容、参与者、旁观者、声音、场所或作品 |
-| 采集层 | [[Project Aria Research Community Guidelines\|Project Aria Research Community Guidelines]] 要求伙伴处理通知、适用同意、录制指示、场地方授权、旁观者停止／删除、留存、访问、去标识和知识产权 | 社区指南是采集者义务，不是给数据接收者的商用、训练或再分发授权 |
+| 采集层 | 原始资料快照（本地归档） 要求伙伴处理通知、适用同意、录制指示、场地方授权、旁观者停止／删除、留存、访问、去标识和知识产权 | 社区指南是采集者义务，不是给数据接收者的商用、训练或再分发授权 |
 | 发布层 | [[Aria Digital Twin\|Aria Digital Twin]]、Aria Pilot Dataset、Ego-Exo4D 等分别采用自己的数据协议和参与者治理 | 一个 Aria 数据集的许可不能横向迁移到其他数据集或伙伴自行录制的数据 |
 
 [[Hugging Face 服务条款\|Hugging Face 服务条款]] 等托管平台规则还会形成第四个“平台层”。其中 [[Hugging Face Gated Repositories\|gated access]] 只控制个人账号当前能否取件；平台 public-repository 条款、gate、仓库数据许可证和上游参与者授权不能互相替代。
@@ -54,7 +54,6 @@ Project Aria 官方 partners 页面确认 Georgia Tech 的 EgoMimic 是合作案
 - [[人类活动数据\|人类活动数据]]
 - [[以人为中心的具身智能\|以人为中心的具身智能]]
 - [[Machine Perception Services\|Machine Perception Services]]
-- [[Project Aria Research Community Guidelines\|Project Aria Research Community Guidelines]]
 - [[EgoBlur\|EgoBlur]]
 - [[Aria Digital Twin\|Aria Digital Twin]]
 - [[Hugging Face 服务条款\|Hugging Face 服务条款]]
@@ -83,7 +82,7 @@ Project Aria 官方 partners 页面确认 Georgia Tech 的 EgoMimic 是合作案
 
 ## 社区指南的现行文本与适用边界（2026-08-10）
 
-[[Project Aria Research Community Guidelines\|Project Aria Research Community Guidelines]] 的规则不晚于 2021-10-28 已在旧 about.facebook.com 路径公开；2023-09-07 版新增或明确地区性旁观者提示和 GDPR／UK GDPR controller 责任。当前域名最早找到的 2023-09-27 快照与 2026-08-10 当前核心正文的规范化 SHA-256 一致。Gen 2 Companion App 仍要求登录时阅读该指南，因此它仍是伙伴准入与行为治理入口；Wayback 不能充当官方发布日期或完整 change log，官方也未公开完整伙伴合同。
+原始资料快照（本地归档） 的规则不晚于 2021-10-28 已在旧 about.facebook.com 路径公开；2023-09-07 版新增或明确地区性旁观者提示和 GDPR／UK GDPR controller 责任。当前域名最早找到的 2023-09-27 快照与 2026-08-10 当前核心正文的规范化 SHA-256 一致。Gen 2 Companion App 仍要求登录时阅读该指南，因此它仍是伙伴准入与行为治理入口；Wayback 不能充当官方发布日期或完整 change log，官方也未公开完整伙伴合同。
 
 其要求不是一句“取得同意”：
 

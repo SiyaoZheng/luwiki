@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/QA-MoE/","title":"QA-MoE","tags":["情绪计算","多模态AI","MoE","鲁棒性","不确定性"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"QA-MoE","source_count":3,"sources":["raw/2026-08-07-luyao-b028-138-QA-MoE-Towards-a-Continuous-Reliability-Spectrum-with-Quality-Aware-Mi-35be616e.md","raw/2026-08-07-luyao-b049-242-多模态情感分析-QA-MoE-791e91da.md","https://arxiv.org/abs/2604.05704"],"tags":["情绪计算","多模态AI","MoE","鲁棒性","不确定性"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/QA-MoE/","title":"QA-MoE","tags":["#情绪计算","#多模态AI","#MoE","#鲁棒性","#不确定性"],"created":"2026-08-07","updated":"2026-08-26","dg-note-properties":{"status":"seed","title":"QA-MoE","source_count":3,"sources":["raw/2026-08-07-luyao-b028-138-QA-MoE-Towards-a-Continuous-Reliability-Spectrum-with-Quality-Aware-Mi-35be616e.md","raw/2026-08-07-luyao-b049-242-多模态情感分析-QA-MoE-791e91da.md","https://arxiv.org/abs/2604.05704"],"tags":["#情绪计算","#多模态AI","#MoE","#鲁棒性","#不确定性"],"created":"2026-08-07","updated":"2026-08-26","product_name":"QA-MoE","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":null,"product_status":"active_research","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-25","status_note":"公开研究方法"}}
 ---
 
 # QA-MoE

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Naomi Bashkansky/","title":"Naomi Bashkansky","tags":["人物","AI安全","NeuroAI","脑机接口","创业"],"created":"2026-08-10","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Naomi Bashkansky","source_count":3,"sources":["raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","https://naomibashkansky.com/blog/telepathy/"],"tags":["人物","AI安全","NeuroAI","脑机接口","创业"],"created":"2026-08-10","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Naomi Bashkansky/","title":"Naomi Bashkansky","tags":["人物","AI安全","NeuroAI","脑机接口","创业"],"created":"2026-08-10","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"Naomi Bashkansky","source_count":3,"sources":["原始资料快照（本地归档）","原始资料快照（本地归档）","https://naomibashkansky.com/blog/telepathy/"],"tags":["人物","AI安全","NeuroAI","脑机接口","创业"],"created":"2026-08-10","updated":"2026-08-25","birth_name":null,"birth_date":null,"birth_place":null,"citizenship":[],"alma_mater":[],"degrees":[],"occupations":[],"workplaces":["[[Conduit\|Conduit]]"],"roles":[],"current_roles":[],"founded_organizations":[],"public_offices":[],"office_terms":[],"fields":[],"doctoral_advisor":null,"thesis":null,"thesis_year":null,"known_for":[],"awards":[],"career_status":null,"as_of":null}}
 ---
 
 # Naomi Bashkansky

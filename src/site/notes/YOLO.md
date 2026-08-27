@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/YOLO/","title":"YOLO","tags":["计算机视觉","目标检测","深度学习","实时感知"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"YOLO","aliases":["You Only Look Once"],"source_count":2,"sources":["raw/2026-08-07-luyao-b020-99-YOLO-_-百科-085e99eb.md","https://arxiv.org/abs/1506.02640"],"tags":["计算机视觉","目标检测","深度学习","实时感知"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/YOLO/","title":"YOLO","tags":["计算机视觉","目标检测","深度学习","实时感知"],"created":"2026-08-07","updated":"2026-08-25","dg-note-properties":{"status":"seed","title":"YOLO","aliases":["You Only Look Once"],"source_count":2,"sources":["raw/2026-08-07-luyao-b020-99-YOLO-_-百科-085e99eb.md","https://arxiv.org/abs/1506.02640"],"tags":["计算机视觉","目标检测","深度学习","实时感知"],"created":"2026-08-07","updated":"2026-08-25","hideInGraph":true}}
 ---
 
 # YOLO

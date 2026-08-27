@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Date Drop/","title":"Date Drop","tags":["校园社交","约会应用","匹配系统","关系脚本","产品"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"Date Drop","source_count":2,"sources":["raw/2026-08-07-luyao-b055-271-Date-Drop校园约会匹配-trydatedrop.md","https://trydatedrop.com/"],"tags":["校园社交","约会应用","匹配系统","关系脚本","产品"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/Date Drop/","title":"Date Drop","tags":["#校园社交","#约会应用","#匹配系统","#关系脚本","#产品"],"created":"2026-08-07","updated":"2026-08-26","dg-note-properties":{"status":"seed","title":"Date Drop","source_count":1,"sources":["https://trydatedrop.com/"],"tags":["#校园社交","#约会应用","#匹配系统","#关系脚本","#产品"],"created":"2026-08-07","updated":"2026-08-26","product_name":"Date Drop","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":null,"product_status":"uncertain","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-25","status_note":"产品机制可核，当前上线范围与运营状态未核验"}}
 ---
 
 # Date Drop

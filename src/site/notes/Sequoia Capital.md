@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Sequoia Capital/","title":"Sequoia Capital","tags":["机构","投资","组织网络"],"created":"2026-08-09","updated":"2026-08-11","dg-note-properties":{"status":"processed","title":"Sequoia Capital","aliases":[],"source_count":4,"sources":["raw/2026-08-09-公司前雇主与融资重连证据.md","raw/2026-08-11-Anthropic公司产品融资治理与合作关系核验.md","https://www.sequoiacap.com/","https://www.anthropic.com/news/series-h"],"tags":["机构","投资","组织网络"],"created":"2026-08-09","updated":"2026-08-11"}}
+{"dg-publish":true,"permalink":"/Sequoia Capital/","title":"Sequoia Capital","tags":["#机构","#投资","#组织网络"],"created":"2026-08-09","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"Sequoia Capital","aliases":[],"source_count":2,"sources":["https://www.sequoiacap.com/","https://www.anthropic.com/news/series-h"],"tags":["#机构","#投资","#组织网络"],"created":"2026-08-09","updated":"2026-08-25","official_name":"Sequoia Capital","english_name":null,"jurisdiction":null,"founded":null,"headquarters":null,"parent_organization":null,"leaders":[],"key_people":[],"units":[],"affiliations":[],"website":null,"as_of":null}}
 ---
 
 # Sequoia Capital

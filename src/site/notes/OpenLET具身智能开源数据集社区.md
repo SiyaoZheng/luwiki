@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/OpenLET具身智能开源数据集社区/","title":"OpenLET具身智能开源数据集社区","tags":["#具身智能","#开源数据","#机器人数据"],"created":"2026-08-23","updated":"2026-08-23","dg-note-properties":{"status":"processed","title":"OpenLET具身智能开源数据集社区","tags":["#具身智能","#开源数据","#机器人数据"],"sources":["raw/2026-08-23-OpenLET具身智能开源数据社区核验.md"],"created":"2026-08-23","updated":"2026-08-23"}}
+{"dg-publish":true,"permalink":"/OpenLET具身智能开源数据集社区/","title":"OpenLET具身智能开源数据集社区","tags":["具身智能","开源数据","机器人数据"],"created":"2026-08-23","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"OpenLET具身智能开源数据集社区","tags":["具身智能","开源数据","机器人数据"],"sources":["raw/2026-08-23-OpenLET具身智能开源数据社区核验.md"],"created":"2026-08-23","updated":"2026-08-25","official_name":"OpenLET具身智能开源数据集社区","english_name":null,"jurisdiction":null,"founded":null,"headquarters":null,"parent_organization":null,"leaders":[],"key_people":[],"units":[],"affiliations":[],"website":null,"as_of":null}}
 ---
 
 # OpenLET具身智能开源数据集社区

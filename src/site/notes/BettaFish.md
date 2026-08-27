@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/BettaFish/","title":"BettaFish","tags":["舆情分析","多智能体","开源工具","社交媒体","智能社会治理"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"BettaFish","aliases":["微舆"],"source_count":1,"sources":["raw/2026-08-07-luyao-b045-222-Star-23.9k-开源-AI-多Agent舆情分析助手-BettaFish-23c52f70.md"],"tags":["舆情分析","多智能体","开源工具","社交媒体","智能社会治理"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/BettaFish/","title":"BettaFish","tags":["#舆情分析","#多智能体","#开源工具","#社交媒体","#智能社会治理"],"created":"2026-08-07","updated":"2026-08-26","dg-note-properties":{"status":"seed","title":"BettaFish","aliases":["微舆"],"source_count":1,"sources":["raw/2026-08-07-luyao-b045-222-Star-23.9k-开源-AI-多Agent舆情分析助手-BettaFish-23c52f70.md"],"tags":["#舆情分析","#多智能体","#开源工具","#社交媒体","#智能社会治理"],"created":"2026-08-07","updated":"2026-08-26","product_name":"BettaFish","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":null,"product_status":"active_open_source","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-25","status_note":"Open-source multi-agent public-opinion analysis assistant"}}
 ---
 
 # BettaFish

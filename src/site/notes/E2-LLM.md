@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/E2-LLM/","title":"E2-LLM","tags":["EEG","LLM","情绪计算","NeuroAI","多模态AI"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"E2-LLM","aliases":["E²-LLM"],"source_count":2,"sources":["raw/2026-08-07-luyao-b055-269-E2-LLM脑电情绪推理-3638e376.md","https://arxiv.org/pdf/2601.07877"],"tags":["EEG","LLM","情绪计算","NeuroAI","多模态AI"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/E2-LLM/","title":"E2-LLM","tags":["EEG","LLM","情绪计算","NeuroAI","多模态AI"],"created":"2026-08-07","updated":"2026-08-25","dg-note-properties":{"status":"seed","title":"E2-LLM","aliases":["E²-LLM"],"source_count":2,"sources":["raw/2026-08-07-luyao-b055-269-E2-LLM脑电情绪推理-3638e376.md","https://arxiv.org/pdf/2601.07877"],"tags":["EEG","LLM","情绪计算","NeuroAI","多模态AI"],"created":"2026-08-07","updated":"2026-08-25","authors":[],"publication_date":"2026-01","venue":"arXiv","doi":null,"arxiv":"2601.07877","affiliations":[],"datasets":["SEED-VII"],"related_companies":[],"as_of":"2026-08-07"}}
 ---
 
 # E2-LLM

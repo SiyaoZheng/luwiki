@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/OriginFlow 融资与 NeuroScale/","title":"OriginFlow 早期三轮融资","tags":["融资事件","具身智能","创业","机器人数据"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"OriginFlow 早期三轮融资","source_count":8,"sources":["raw/2026-08-07-luyao-b001-02-首发-投资人开抢一位清华00后-fdd0c43d.md","raw/2026-08-09-普华资本-OriginFlow融资公告.md","raw/2026-08-09-高鹄资本-OriginFlow交易公告.md","raw/2026-08-09-originflow-工商主体记录.md","raw/2026-08-10-平台主体身份补证-batch-019.md","https://cygnusequity.com/news/1183.html","https://www.puhuacapital.com/index.php/news/info/303","raw/2026-08-10-残余任务信号收口-batch-032.md"],"tags":["融资事件","具身智能","创业","机器人数据"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/OriginFlow 融资与 NeuroScale/","title":"OriginFlow 早期三轮融资","tags":["#融资事件","#具身智能","#创业","#机器人数据"],"created":"2026-08-07","updated":"2026-08-26","dg-note-properties":{"status":"processed","title":"OriginFlow 早期三轮融资","source_count":2,"sources":["https://cygnusequity.com/news/1183.html","https://www.puhuacapital.com/index.php/news/info/303"],"tags":["#融资事件","#具身智能","#创业","#机器人数据"],"created":"2026-08-07","updated":"2026-08-26","event_date":null,"participants":["[[OriginFlow\|OriginFlow]]","[[高鹄资本\|高鹄资本]]","[[普华资本\|普华资本]]"],"investors":["蓝驰创投","绿洲资本","58 战投","普华资本","水木清华校友种子基金","Monolith 砺思资本","元禾璞华","元禾原点","国方创投"],"round":"多轮汇总（天使轮、战略轮、Pre-A1轮）","amount":"超过5亿元（三轮累计）","buyer":[],"seller":[],"acquirer":[],"target":[],"event_status":"已披露，多轮汇总","as_of":"2026-08-10","event_type":"financing","event_date_status":"multiple_dates"}}
 ---
 
 # OriginFlow 早期三轮融资
@@ -94,3 +94,8 @@ NeuroScale、Origin Kit、Origin Data、PULSE、专利和产品证据统一见 [
 - [高鹄资本交易公告](https://cygnusequity.com/news/1183.html)
 - [普华资本投资公告](https://www.puhuacapital.com/index.php/news/info/303)
 - 原始资料快照（本地归档）
+
+
+## 2026-08-25：融资后当前股东快照
+
+[[北京渊澈太初智能科技有限公司\|北京渊澈太初智能科技有限公司]] 页面记录企查查当前 14 名直接股东与精确比例。它能说明 2026-08-25 的登记后状态，但不能把每一名现股东机械分配到某一历史轮次，也不能用注册资本或认缴额替代融资额。

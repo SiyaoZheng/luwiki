@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Illinois Institute of Technology/","title":"Illinois Institute of Technology","tags":["高校","美国","建筑","机构沿革"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Illinois Institute of Technology","aliases":["Illinois Tech","IIT","伊利诺伊理工学院"],"source_count":3,"sources":["https://www.iit.edu/about","https://www.iit.edu/about/history","https://arch.iit.edu/history"],"tags":["高校","美国","建筑","机构沿革"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Illinois Institute of Technology/","title":"Illinois Institute of Technology","tags":["高校","美国","建筑","机构沿革"],"created":"2026-08-09","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"Illinois Institute of Technology","aliases":["Illinois Tech","IIT","伊利诺伊理工学院"],"source_count":3,"sources":["https://www.iit.edu/about","https://www.iit.edu/about/history","https://arch.iit.edu/history"],"tags":["高校","美国","建筑","机构沿革"],"created":"2026-08-09","updated":"2026-08-25","official_name":"Illinois Institute of Technology","english_name":null,"jurisdiction":"美国","founded":null,"headquarters":null,"parent_organization":null,"leaders":["[[密斯·凡德罗\|密斯·凡德罗]]"],"key_people":[],"units":[],"affiliations":[],"website":null,"as_of":null}}
 ---
 
 # Illinois Institute of Technology

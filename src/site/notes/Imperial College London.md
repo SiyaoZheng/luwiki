@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Imperial College London/","title":"Imperial College London","tags":["高校","英国","工程","具身智能","学术网络"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"Imperial College London","aliases":["Imperial","帝国理工学院","伦敦帝国学院"],"source_count":6,"sources":["https://www.imperial.ac.uk/about/introducing-imperial/","https://www.imperial.ac.uk/about/history/","https://mosensetech.com/","https://m.36kr.com/p/3869309592458247","https://mosensetech.com/%E5%88%9B%E5%A7%8B%E5%9B%A2%E9%98%9F/","https://www.aitntnews.com/newDetail.html?newId=26774"],"tags":["高校","英国","工程","具身智能","学术网络"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/Imperial College London/","title":"Imperial College London","tags":["高校","英国","工程","具身智能","学术网络"],"created":"2026-08-09","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"Imperial College London","aliases":["Imperial","帝国理工学院","伦敦帝国学院"],"source_count":6,"sources":["https://www.imperial.ac.uk/about/introducing-imperial/","https://www.imperial.ac.uk/about/history/","https://mosensetech.com/","https://m.36kr.com/p/3869309592458247","https://mosensetech.com/%E5%88%9B%E5%A7%8B%E5%9B%A2%E9%98%9F/","https://www.aitntnews.com/newDetail.html?newId=26774"],"tags":["高校","英国","工程","具身智能","学术网络"],"created":"2026-08-09","updated":"2026-08-25","official_name":"Imperial College London","english_name":null,"jurisdiction":"英国","founded":null,"headquarters":null,"parent_organization":null,"leaders":[],"key_people":[],"units":[],"affiliations":[],"website":null,"as_of":null}}
 ---
 
 # Imperial College London
@@ -32,3 +32,8 @@ Imperial College London（帝国理工学院）是英国伦敦以科学、工程
 - [36氪：陆弘远履历线索](https://m.36kr.com/p/3869309592458247)
 - [MoSense 创始团队：周航履历](https://mosensetech.com/%E5%88%9B%E5%A7%8B%E5%9B%A2%E9%98%9F/)
 - [陆弘远第一人称访谈：逐项教育经历](https://www.aitntnews.com/newDetail.html?newId=26774)
+
+
+## 2026-08-25：Ulrik Stig Hansen 教育关系
+
+[[Encord\|Encord]] 官方人物页称联合创始人 [[Ulrik Stig Hansen\|Ulrik Stig Hansen]]拥有 Imperial College London 计算机科学 M.S.。该关系只确认公开教育履历，不推出学校与 Encord 的投资、许可或机构背书。

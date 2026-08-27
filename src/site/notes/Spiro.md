@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Spiro/","title":"Spiro","tags":["AI硬件","可穿戴设备","AI记忆","情绪计算","个人数据"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"Spiro","source_count":4,"sources":["raw/2026-08-07-luyao-b053-263-AI可穿戴全天候情感导师-ba42606e.md","raw/2026-08-10-全库软证据边界日期化-batch-034.md","[[十镜科技\|十镜科技]]","[[AI 可穿戴上下文设备\|AI 可穿戴上下文设备]]"],"tags":["AI硬件","可穿戴设备","AI记忆","情绪计算","个人数据"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/Spiro/","title":"Spiro","tags":["#AI硬件","#可穿戴设备","#AI记忆","#情绪计算","#个人数据"],"created":"2026-08-07","updated":"2026-08-26","dg-note-properties":{"status":"processed","title":"Spiro","source_count":4,"sources":["raw/2026-08-07-luyao-b053-263-AI可穿戴全天候情感导师-ba42606e.md","raw/2026-08-10-全库软证据边界日期化-batch-034.md","[[十镜科技\|十镜科技]]","[[AI 可穿戴上下文设备\|AI 可穿戴上下文设备]]"],"tags":["#AI硬件","#可穿戴设备","#AI记忆","#情绪计算","#个人数据"],"created":"2026-08-07","updated":"2026-08-26","product_name":"Spiro","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":null,"product_status":"active","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-10","status_note":"公开产品节点；规模化出货未单独核验"}}
 ---
 
 # Spiro

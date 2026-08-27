@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/SounDiT/","title":"SounDiT","tags":["GeoAI","声景","多模态生成","城市规划","环境心理"],"created":"2026-08-07","updated":"2026-08-07","dg-note-properties":{"status":"seed","title":"SounDiT","source_count":3,"sources":["raw/2026-08-07-luyao-b050-247-SounDiT-声景生成地点语境环境图像-c76db9c5.md","https://arxiv.org/abs/2505.12734","https://gisense.github.io/SounDiT-Page/"],"tags":["GeoAI","声景","多模态生成","城市规划","环境心理"],"created":"2026-08-07","updated":"2026-08-07"}}
+{"dg-publish":true,"permalink":"/SounDiT/","title":"SounDiT","tags":["#GeoAI","#声景","#多模态生成","#城市规划","#环境心理"],"created":"2026-08-07","updated":"2026-08-26","dg-note-properties":{"status":"seed","title":"SounDiT","source_count":3,"sources":["raw/2026-08-07-luyao-b050-247-SounDiT-声景生成地点语境环境图像-c76db9c5.md","https://arxiv.org/abs/2505.12734","https://gisense.github.io/SounDiT-Page/"],"tags":["#GeoAI","#声景","#多模态生成","#城市规划","#环境心理"],"created":"2026-08-07","updated":"2026-08-26","product_name":"SounDiT","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":null,"product_status":"active_research","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-25","status_note":"公开研究模型"}}
 ---
 
 # SounDiT

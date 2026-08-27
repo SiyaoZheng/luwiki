@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ASTERRA-Z/","title":"ASTERRA-Z","tags":["赤道仪","天文摄影","硬件产品"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"ASTERRA-Z","source_count":3,"sources":["raw/2026-08-07-luyao-b033-160-AING硬迹-AING硬迹-AING硬迹-6b6c42e6.md","https://www.theasterra.com/products/asterra-z-plus","https://www.stcn.com/article/detail/3910072.html"],"tags":["赤道仪","天文摄影","硬件产品"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/ASTERRA-Z/","title":"ASTERRA-Z","tags":["#赤道仪","#天文摄影","#硬件产品"],"created":"2026-08-09","updated":"2026-08-26","dg-note-properties":{"status":"processed","title":"ASTERRA-Z","source_count":3,"sources":["raw/2026-08-07-luyao-b033-160-AING硬迹-AING硬迹-AING硬迹-6b6c42e6.md","https://www.theasterra.com/products/asterra-z-plus","https://www.stcn.com/article/detail/3910072.html"],"tags":["#赤道仪","#天文摄影","#硬件产品"],"created":"2026-08-09","updated":"2026-08-26","product_name":"ASTERRA-Z","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":"2024-Q4","product_status":"active","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-25","status_note":"Current official Asterra Z+ product page shows on-sale and shipment information"}}
 ---
 
 # ASTERRA-Z

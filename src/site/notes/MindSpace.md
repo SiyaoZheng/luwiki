@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/MindSpace/","title":"MindSpace","tags":["空间智能","世界模型","空间数据库","人本模拟","产品原型"],"created":"2026-08-07","updated":"2026-08-10","dg-note-properties":{"status":"processed","title":"MindSpace","source_count":12,"sources":["raw/2026-08-07-luyao-b015-73-MindSpace-37bff9b7.md","raw/2026-08-07-luyao-b015-75-MindSpace-0bdd737c.md","raw/2026-08-10-路遥最近一周文字对话知识摘录.md","raw/2026-08-10-一周对话外部补证.md","raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","[[ABot-Earth\|ABot-Earth]]","[[WUDAPT\|WUDAPT]]","[[DataShareClub\|DataShareClub]]","[[消费级空间相机\|消费级空间相机]]","[[建成环境具身智能感知\|建成环境具身智能感知]]","raw/2026-08-10-部署与产品证据补证-batch-020.md"],"tags":["空间智能","世界模型","空间数据库","人本模拟","产品原型"],"created":"2026-08-07","updated":"2026-08-10"}}
+{"dg-publish":true,"permalink":"/MindSpace/","title":"MindSpace","tags":["#空间智能","#世界模型","#空间数据库","#人本模拟","#产品原型"],"created":"2026-08-07","updated":"2026-08-26","dg-note-properties":{"status":"processed","title":"MindSpace","source_count":14,"sources":["raw/2026-08-07-luyao-b015-73-MindSpace-37bff9b7.md","raw/2026-08-07-luyao-b015-75-MindSpace-0bdd737c.md","raw/2026-08-10-路遥最近一周文字对话知识摘录.md","raw/2026-08-10-一周对话外部补证.md","raw/2026-08-10-路遥最近一周新增实体清单.md","raw/2026-08-10-最近一周新增实体外部补证.md","[[ABot-Earth\|ABot-Earth]]","[[WUDAPT\|WUDAPT]]","[[DataShareClub\|DataShareClub]]","[[消费级空间相机\|消费级空间相机]]","[[建成环境具身智能感知\|建成环境具身智能感知]]","raw/2026-08-10-部署与产品证据补证-batch-020.md","raw/2026-08-26-国家人形机器人产业标准体系征求意见.md","raw/2026-08-26-HODAgent人机交互预印本.md"],"tags":["#空间智能","#世界模型","#空间数据库","#人本模拟","#产品原型"],"created":"2026-08-07","updated":"2026-08-26","product_name":"MindSpace","developer":null,"operator":null,"owner":null,"manufacturer":null,"launch_date":null,"product_status":"prototype","category":null,"platforms":[],"related_products":[],"customers":[],"website":null,"as_of":"2026-08-10","status_note":"当前仅有信息有限的网页/产品原型"}}
 ---
 
 # MindSpace
@@ -66,3 +66,42 @@ MindSpace 是一个围绕物理空间智能层的网页/产品原型节点。两
 - 原始资料快照（本地归档）
 - 原始资料快照（本地归档）
 - 原始资料快照（本地归档）
+
+## 2026-08-21：绿色建筑具身智能体提供的可操作闭环
+
+《绿色建筑学报》的“以使用者为中心的绿色建筑具身智能体”框架，为 MindSpace 的空间智能层提供了比泛化“心理响应”更可执行的产品结构：
+
+`空间/设备/环境状态 → 使用者行为与主观反馈 → 个体偏好模型 → 舒适/能耗/健康/安全多目标控制 → 暖通、照明、遮阳或空间界面执行 → 新反馈`。
+
+这意味着 MindSpace 的最小 schema 不应只有空间几何和一个心理分数，而应同时保存 BIM/CIM 或空间拓扑、环境与设备状态、使用者位置/行为、反馈量表或交互记录、测量时点、控制动作、执行结果、能耗代价、同意范围和不确定性。生理信号只能作为状态或舒适代理，不能直接作为心理反应和意图真值。
+
+该框架仍是学术路线图，不证明 MindSpace 已经实现产品。可验证的下一步是公开一个空间—使用者—控制事件 schema，并用个体校准、跨人/跨空间迁移、舒适—能耗 Pareto 前沿和真实执行日志进行验收。
+
+证据：原始资料快照（本地归档）。
+
+## 2026-08-25：Physical AI 方向的公开证据梯度
+
+本轮收到的私有技术报告只作为发现线索，不作为公开主张的证据。公开材料把 MindSpace 的新方向拆成三个层级：
+
+1. **任务级增益已有窄证据。** [Akinola 等人的机器人导航实验](https://arxiv.org/abs/1910.00682)用 EEG 错误相关电位引导稀疏奖励强化学习的早期探索；7 名被试中，分类准确率 0.60–0.67 的 5 人形成可用引导，0.56／0.57 的 2 人没有。这说明人体信号可以有用，也说明跨人稳定性不能省略。
+2. **产业链仍处试验。** [TechCrunch 现场报道](https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/)明确把 [[Encord\|Encord]] 与 [[Zander Labs\|Zander Labs]] 的工作称为 trial run：先建 EEG 标签数据，再在客户机器人模型中验证，之后才决定扩大。当前没有公开 benchmark 或客户结果。
+3. **模型层仍是研究框架。** [Mental World Modeling](https://arxiv.org/abs/2607.27201)把物理—心理状态耦合并给出 MENTIS 基线，但实验是人工构造的文本、图像和有声视频决策情境，不是真实机器人闭环。
+
+因此，MindSpace 可以把“人的任务状态是 Physical AI 的缺失观测”写成可检验产品假设，但公开证据仍不足以证明已经形成 Mental World Model 产品。最小可验证制品应同时公开同步协议、标签来源、被试／场景留出、单模态与伪信号对照、机器人下游增益、校准／拒答和数据权利说明。
+
+
+## 2026-08-25：外部证据链
+
+对公开论文、公司登记和全库实体进行碰撞后，MindSpace 的外部证据链已扩展为 [[Mental World Modeling\|Mental World Modeling]]、[[EgoBrain\|EgoBrain]]、[[GazeVLA\|GazeVLA]]、[[Accelerated Robot Learning via Human Brain Signals\|Accelerated Robot Learning via Human Brain Signals]]、[[Accelerating Reinforcement Learning via Error-Related Human Brain Signals\|Accelerating Reinforcement Learning via Error-Related Human Brain Signals]]，以及 [[OriginFlow\|OriginFlow]]、[[脸谱心智\|脸谱心智]]、[[Encord\|Encord]]、[[Zander Labs\|Zander Labs]] 的法律主体、作者、机构、股东与治理网络。
+
+这些关系分别由上述论文、公司、法律主体、人物与事件页承载。资本与治理网络的丰富度不能替代 EEG 在个体解码差异、仿真／真机边界和产业试验阶段上的证据限制，也不能把相邻论文指标或外部公司的融资与控制情况写成 MindSpace 自身产品表现。
+
+证据：原始资料快照（本地归档）、原始资料快照（本地归档）。
+
+## 2026-08-26：把人因状态层收窄为可验证的任务模块
+
+三项公开材料为产品叙述提供了不同层次的约束。工信部、国务院国资委的 2026 实景实训专项行动要求真实场景中记录空间语义、异常处置与边界工况数据，并对应用验证设定真实作业成功率、安全可靠性和经济可行性等指标；8 月 25 日启动征求意见的国家人形机器人产业标准体系建设指南则显示产品边界正进入公开定义窗口。HODAgent 预印本把服务场景的人机交互写成“语言、视觉情境和执行状态 → 用户意图 → 沟通/具身回应 → 动态调整”的闭环。
+
+**来源支持的推论**是：MindSpace 若要形成可验证的 Human Layer，不应先承诺通用“心理读取”，而应先在一个明确场景中给出输入、任务相关状态标签、下游决策增益、跨人/跨场景留出、校准/拒答、数据权利和人工接管记录。该推论不是 MindSpace 已有能力，也不代表前述政策或预印本为其背书。
+
+证据：原始资料快照（本地归档）、原始资料快照（本地归档）、[工信部与国务院国资委实景实训专项行动](https://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_f291ccd3da4c47ce95741de63cc088e6.html)。

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/University of Southern California/","title":"University of Southern California","tags":["高校","美国","学术网络","机器人"],"created":"2026-08-09","updated":"2026-08-09","dg-note-properties":{"status":"processed","title":"University of Southern California","aliases":["USC","南加州大学"],"source_count":3,"sources":["https://www.usc.edu/","https://viterbi.usc.edu/directory/faculty/Wang/Yue","https://psi-lab.ai/"],"tags":["高校","美国","学术网络","机器人"],"created":"2026-08-09","updated":"2026-08-09"}}
+{"dg-publish":true,"permalink":"/University of Southern California/","title":"University of Southern California","tags":["高校","美国","学术网络","机器人"],"created":"2026-08-09","updated":"2026-08-25","dg-note-properties":{"status":"processed","title":"University of Southern California","aliases":["USC","南加州大学"],"source_count":3,"sources":["https://www.usc.edu/","https://viterbi.usc.edu/directory/faculty/Wang/Yue","https://psi-lab.ai/"],"tags":["高校","美国","学术网络","机器人"],"created":"2026-08-09","updated":"2026-08-25","official_name":"University of Southern California","english_name":null,"jurisdiction":"美国","founded":null,"headquarters":null,"parent_organization":null,"leaders":[],"key_people":[],"units":[],"affiliations":[],"website":null,"as_of":null}}
 ---
 
 # University of Southern California
