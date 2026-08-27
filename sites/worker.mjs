@@ -68,7 +68,7 @@ function normalizedRoute(pathname) {
     decoded = pathname;
   }
   if (decoded === "/") return "/";
-  return decoded.replace(/\/+$/, "") || "/";
+  return decoded.replace(/[\\/]+$/, "") || "/";
 }
 
 function escapeHtml(value) {
