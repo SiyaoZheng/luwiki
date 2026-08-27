@@ -240,12 +240,12 @@ raw 常用 `source_type`：
 
 日志只追加，不重写历史，除非是在纠正同一会话内的误操作。
 
-## GitButler Solo Workflow 与持续发布
+## 原生 Git 与持续发布
 
-- 所有版本控制检查与写操作都使用 GitButler CLI（`but`）。全局保持 `single-branch` 开启；公开发布克隆固定使用 Solo Workflow，直接在唯一的 `main` 上工作，不再为每个 task 创建 feature branch、stack 或 PR。
-- 共享 Obsidian vault 的本地历史与公开仓库 `main` 相互隔离。现存旧分支可能承载其他任务，不得为“清理分支”而删除、合并或发布；新的公开落地也不得在共享 vault 中再创建发布分支。
-- GitHub 落地只在 `/Users/siyaozheng/luwiki-public-main` 执行。开始时运行 `but pull` 同步 `origin/main`；把允许公开的普通 Wiki 页面映射到 `src/site/notes/<文件名>.md`，不得发布 `raw/`、`log.md`、`.qmd/`、`.obsidian/`、Beads DB 或其他本地状态。
-- 核对专属 diff 后，直接用 GitButler 把本轮变化提交到 `main` 并 `but push main`。不得新建发布分支、打开 PR、force-push，或夹带其他任务内容；路径冲突、来源不允许公开或远端状态异常时 fail closed。
+- 版本控制统一使用原生 Git。公开发布 checkout 固定在唯一的 `main` 上，不使用 GitButler，不为发布创建 feature branch、stack 或 PR。
+- 共享 Obsidian vault 的本地历史与公开仓库 `main` 相互隔离；发布只处理 Adrian 明确指定的页面，不夹带其他本地改动。
+- GitHub 落地只在 `/Users/siyaozheng/luwiki-public-main` 执行。开始时运行 `git pull --ff-only origin main`；只映射允许公开的普通 Wiki 页面到 `src/site/notes/<文件名>.md`，不得发布 `raw/`、`log.md`、`.qmd/`、`.obsidian/`、Beads DB 或其他本地状态。
+- 核对专属 diff 后，在 `main` 上提交并运行 `git push origin main`。不得 force-push；路径冲突、来源不允许公开或远端状态异常时 fail closed。
 - `origin/main` 的每次 push 都由 `.github/workflows/build.yml` 自动构建并部署 Cloudflare Pages。只有该次 workflow 终态为 `success`，才可称 GitHub/Cloudflare 持续部署完成。
 - Sites 生产镜像复用 `/Users/siyaozheng/Documents/Codex/2026-08-25/luwiki-sites-current/.openai/hosting.json` 中的既有项目；不得另建同名 Site。公开内容落入 `main` 后，同一任务同步该持久 checkout，运行现有 build 与 `sites:test`，保存并部署同一已验证源版本，轮询到 `succeeded` 后才称 Sites 已同步。
 
