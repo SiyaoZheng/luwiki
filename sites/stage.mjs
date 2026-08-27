@@ -81,6 +81,6 @@ await writeDynamicTemplates();
 await rename(distDir, stagedDir);
 await mkdir(path.join(distDir, "assets"), { recursive: true });
 await mkdir(path.join(distDir, "server"), { recursive: true });
-await copyUriEncodedTree(stagedDir, path.join(distDir, "assets"));
+await copyUriEncodedTree(stagedDir, path.join(distDir, "assets", "__luwiki_static"));
 await bundleWorker();
 await rm(stagedDir, { recursive: true, force: true });
