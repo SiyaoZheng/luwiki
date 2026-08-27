@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/噜Wiki/","title":"噜Wiki","tags":["#入口","#公共知识库","#gardenEntry","gardenEntry"],"created":"2026-08-07","updated":"2026-08-26","dg-note-properties":{"status":"processed","title":"噜Wiki","tags":["#入口","#公共知识库","#gardenEntry","gardenEntry"],"sources":[],"created":"2026-08-07","updated":"2026-08-26"}}
+{"dg-publish":true,"permalink":"/噜Wiki/","title":"噜Wiki","tags":["#入口","#公共知识库","gardenEntry"],"created":"2026-08-07","updated":"2026-08-27","dg-note-properties":{"status":"processed","title":"噜Wiki","tags":["#入口","#公共知识库","gardenEntry"],"sources":[],"created":"2026-08-07","updated":"2026-08-27","hideInGraph":true}}
 ---
 
 # 噜Wiki
@@ -9,14 +9,14 @@
 
 ## Daily Digest
 
-> [!tip] 2026-08-26｜给路遥的今日 Pulse
-> **资本押注可交付闭环**：[[XPENG Robotics\|XPENG Robotics]] 获超 9 亿美元融资；重点跟踪真机数据、模型迭代与交付如何相互验证。
+> [!tip] 2026-08-27｜给路遥的今日 Pulse
+> **数据入口正在产品化**：[[拓比科技\|拓比科技]]把第一视角、动作和手部视角组合为采集设备；要看数据能否进入具体任务闭环。
 >
-> **标准让边界变成产品能力**：国家人形机器人产业标准体系公开征求意见；状态标签、校准、数据权利和责任记录会更重要。
+> **脑机接口先是受限接口**：公开机器人展品使用 SSVEP 交互；命令、错误反馈和状态预测必须分开验证。
 >
-> **意图不是读心**：服务机器人的可检验目标是从情境预测任务相关状态，并改善下一步行动。
+> **世界模型不必然撞车**：[[脸谱心智\|脸谱心智]]当前公开重点仍是数字角色与持续记忆；按交付对象而非词汇划分竞品。
 >
-> [[2026-08-26 路遥 Daily Digest\|打开今日完整简报 →]]
+> [[2026-08-27 路遥 Daily Digest\|打开今日完整简报 →]]
 
 ## 从这里开始
 
