@@ -39,7 +39,7 @@ function wikiLinks(md) {
     if (close < 0) return false;
     if (silent) return true;
 
-    const raw = state.src.slice(state.pos + 2, close);
+    const raw = state.src.slice(state.pos + 2, close).replace(/\\\|/g, "|");
     const separator = raw.indexOf("|");
     const target = (separator < 0 ? raw : raw.slice(0, separator)).trim();
     const label = (separator < 0 ? target.split("#")[0] : raw.slice(separator + 1)).trim();
