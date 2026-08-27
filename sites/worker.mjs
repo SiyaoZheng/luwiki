@@ -4,7 +4,7 @@ import {
   serializeMetadata,
 } from "./renderer.mjs";
 
-const githubApi = "https://api.github.com/repos/SiyaoZheng/luwiki";
+const githubRefs = "https://github.com/SiyaoZheng/luwiki.git/info/refs?service=git-upload-pack";
 const githubRaw = "https://raw.githubusercontent.com/SiyaoZheng/luwiki";
 const verifiedShaTtlMs = 5 * 60 * 1000;
 const maxSyncItems = 12;
@@ -126,16 +126,15 @@ async function renderDynamicPage(request, env, record) {
 }
 
 async function currentGithubMainSha() {
-  const response = await fetch(`${githubApi}/git/ref/heads/main`, {
+  const response = await fetch(githubRefs, {
     headers: {
-      accept: "application/vnd.github+json",
+      accept: "application/x-git-upload-pack-advertisement",
       "user-agent": "luwiki-sites-sync",
-      "x-github-api-version": "2022-11-28",
     },
   });
   if (!response.ok) throw new Error(`GitHub main lookup failed (${response.status})`);
-  const payload = await response.json();
-  return payload?.object?.sha;
+  const payload = await response.text();
+  return payload.match(/([0-9a-f]{40}) refs\/heads\/main(?:\0|\r?\n|$)/)?.[1];
 }
 
 async function requireCurrentGithubMain(db, sourceSha) {
