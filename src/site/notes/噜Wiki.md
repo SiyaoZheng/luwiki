@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/噜Wiki/","title":"噜Wiki","tags":["#入口","#公共知识库","gardenEntry"],"created":"2026-08-07","updated":"2026-08-27","dg-note-properties":{"status":"processed","title":"噜Wiki","tags":["#入口","#公共知识库","gardenEntry"],"sources":[],"created":"2026-08-07","updated":"2026-08-27","hideInGraph":true}}
+{"dg-publish":true,"permalink":"/噜Wiki/","title":"噜Wiki","tags":["#入口","#公共知识库"],"created":"2026-08-07","updated":"2026-08-28","dg-note-properties":{"status":"processed","title":"噜Wiki","tags":["#入口","#公共知识库"],"sources":[],"created":"2026-08-07","updated":"2026-08-28","hideInGraph":true}}
 ---
 
 # 噜Wiki
@@ -9,14 +9,14 @@
 
 ## Daily Digest
 
-> [!tip] 2026-08-27｜给路遥的今日 Pulse
-> **数据入口正在产品化**：[[拓比科技\|拓比科技]]把第一视角、动作和手部视角组合为采集设备；要看数据能否进入具体任务闭环。
+> [!tip] 2026-08-28｜给路遥的今日 Pulse
+> **无本体数据进入模型训练**：[[穹彻智能\|穹彻智能]]发布 Noe-0 技术预览；关键看人类操作数据能否通过真机评测。
 >
-> **脑机接口先是受限接口**：公开机器人展品使用 SSVEP 交互；命令、错误反馈和状态预测必须分开验证。
+> **产业资本押注数据—模型—场景**：[[灵初智能\|灵初智能]]宣布过亿美元融资；投资名单仍须落到任务验收。
 >
-> **世界模型不必然撞车**：[[脸谱心智\|脸谱心智]]当前公开重点仍是数字角色与持续记忆；按交付对象而非词汇划分竞品。
+> **MindSpace 获得赛事入口**：项目进入杭州 AI 赛道 16 强；双轨叙事需压缩为可评审任务闭环。
 >
-> [[2026-08-27 路遥 Daily Digest\|打开今日完整简报 →]]
+> [[2026-08-28 路遥 Daily Digest\|打开今日完整简报 →]]
 
 ## 从这里开始
 
