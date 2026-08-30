@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/噜Wiki/","title":"噜Wiki","tags":["#入口","#公共知识库"],"created":"2026-08-07","updated":"2026-08-28","dg-note-properties":{"status":"processed","title":"噜Wiki","tags":["#入口","#公共知识库"],"sources":[],"created":"2026-08-07","updated":"2026-08-28","hideInGraph":true}}
+{"dg-publish":true,"permalink":"/噜Wiki/","title":"噜Wiki","tags":["#入口","#公共知识库"],"created":"2026-08-07","updated":"2026-08-30","dg-note-properties":{"status":"processed","title":"噜Wiki","tags":["#入口","#公共知识库"],"sources":[],"created":"2026-08-07","updated":"2026-08-30","hideInGraph":true}}
 ---
 
 # 噜Wiki
@@ -9,14 +9,14 @@
 
 ## Daily Digest
 
-> [!tip] 2026-08-28｜给路遥的今日 Pulse
-> **无本体数据进入模型训练**：[[穹彻智能\|穹彻智能]]发布 Noe-0 技术预览；关键看人类操作数据能否通过真机评测。
+> [!tip] 2026-08-30｜给路遥的今日 Pulse
+> **赛事数据集承诺免费开放**：[[2026 世界人形机器人运动会全量数据集\|2026 世界人形机器人运动会全量数据集]]列出 2,500+ 小时；先核验数据卡。
 >
-> **产业资本押注数据—模型—场景**：[[灵初智能\|灵初智能]]宣布过亿美元融资；投资名单仍须落到任务验收。
+> **a16z 建立 11 亿美元 AI 硬件基金**：机器人与芯片、网络、数据中心被放进同一基础设施篮子。
 >
-> **MindSpace 获得赛事入口**：项目进入杭州 AI 赛道 16 强；双轨叙事需压缩为可评审任务闭环。
+> **高危能源检修提供真实任务锚点**：公开部署不等于一般商业环境的能力验收。
 >
-> [[2026-08-28 路遥 Daily Digest\|打开今日完整简报 →]]
+> [[2026-08-30 路遥 Daily Digest\|打开今日完整简报 →]]
 
 ## 从这里开始
 
